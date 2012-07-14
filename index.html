@@ -8,7 +8,7 @@ function yelpToCoordList(yelp_result) {
     for (var i = 0; i < yelp_result.businesses; i++) {
         place = yelp_result.businesses[i];
         coords = place.location.coordinate;
-        ret_list.append(new google.maps.LatLng(coords.latitude, coords.longitude);
+        ret_list.append(new google.maps.LatLng(coords.latitude, coords.longitude));
     }
     return ret_list;
 }
