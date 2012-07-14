@@ -32,47 +32,64 @@ var hotels = {}
 <style type="text/css">
   html { height: 100% }
   body { height: 100%; margin: 0; padding: 0 }
-  #map_canvas { height: 100% }
+  #map_canvas { margin-top: 10px; height: 500px; width: 800px; }
 </style>
 <script type="text/javascript"
-  src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD8Wt7InUYu7ZWF0uL4qh7eJdO-cGNs3nI&sensor=false">
+  src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD8Wt7InUYu7ZWF0uL4qh7eJdO-cGNs3nI&sensor=false&libraries=visualization">
 </script>
 <script type="text/javascript">
-  var geocoder;
-  var map;
-  function initialize() {
-    geocoder = new google.maps.Geocoder();
-    var latlng = new google.maps.LatLng(47.6062095, -122.3320708);
-    var myOptions = {
-      zoom: 8,
-      center: latlng,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-    map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-  }
+	var geocoder;
+	var map;
+	var taxiData = [new google.maps.LatLng(37.782551, -122.445368), new google.maps.LatLng(37.782745, -122.444586), new google.maps.LatLng(37.782842, -122.443688), new google.maps.LatLng(37.782919, -122.442815), new google.maps.LatLng(37.782992, -122.442112)];
+	function initialize() {
+		geocoder = new google.maps.Geocoder();
+		var latlng = new google.maps.LatLng(37.774546, -122.433523);
+		//var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
+		var myOptions = {
+			zoom : 8,
+			center : latlng,
+			mapTypeId : google.maps.MapTypeId.ROADMAP
+		}
+		map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
 
-  function codeAddress() {
-    var address = document.getElementById("address").value;
-    geocoder.geocode( { 'address': address}, function(results, status) {
-      if (status == google.maps.GeocoderStatus.OK) {
-      	console.log(results[0].geometry.location);
-        map.setCenter(results[0].geometry.location);
-        var marker = new google.maps.Marker({
-            map: map, 
-            position: results[0].geometry.location
-        });
-      } else {
-        console.log("Geocode was not successful for the following reason: " + status);
-      }
-    });
-  }
+		pointArray = new google.maps.MVCArray(taxiData);
+
+		heatmap = new google.maps.visualization.HeatmapLayer({
+			data : pointArray
+		});
+
+		heatmap.setMap(map);
+	}
+
+	function toggleHeatmap() {
+		heatmap.setMap(heatmap.getMap() ? null : map);
+	}
+
+	function codeAddress() {
+		var address = document.getElementById("address").value;
+		geocoder.geocode({
+			'address' : address
+		}, function(results, status) {
+			if (status == google.maps.GeocoderStatus.OK) {
+				console.log(results[0].geometry.location);
+				map.setCenter(results[0].geometry.location);
+				var marker = new google.maps.Marker({
+					map : map,
+					position : results[0].geometry.location
+				});
+			} else {
+				console.log("Geocode was not successful for the following reason: " + status);
+			}
+		});
+	}
 </script>
 </head>
 <body onload="initialize()">
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
     <input type="button" value="Geocode" onclick="codeAddress()">
+    <button onclick="toggleHeatmap()">Toggle Heatmap</button>
   </div>
-<div id="map_canvas" style="height:600px;top:30px"></div>
+<div id="map_canvas"></div>
 </body>
 </html>
