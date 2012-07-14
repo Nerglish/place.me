@@ -4,5 +4,5 @@ tmp_scripts = 'tmp.scripts'
 index_file = open('index.html', 'r').read().split(auto_gen)
 
 new_index = open('index.html', 'w')
-new_index.write(index_file[0] + '\n' + auto_gen + '\n' + open(tmp_scripts).read() + '\n' + auto_gen + '\n' + index_file[2])
+new_index.write(index_file[0] + auto_gen + '\n' + open(tmp_scripts).read() +  auto_gen + index_file[2])
 new_index.close()
