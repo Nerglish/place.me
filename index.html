@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<script type="text/javascript" src="jquery-1.7.2.min.js"/>
 <script type="text/javascript">
 function yelpToCoordList(yelp_result) {
-    console.log('rawr');
     var ret_list = [];
     for (var i = 0; i < yelp_result.businesses.length; i++) {
         place = yelp_result.businesses[i];
