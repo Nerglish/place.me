@@ -4,7 +4,6 @@
 
 <script type="text/javascript">
 function yelpToCoordList(yelp_result) {
-    console.log('rawr');
     var ret_list = [];
     for (var i = 0; i < yelp_result.businesses.length; i++) {
         place = yelp_result.businesses[i];
@@ -44,22 +43,29 @@ var hotels = {}
 	var taxiData = [new google.maps.LatLng(37.782551, -122.445368), new google.maps.LatLng(37.782745, -122.444586), new google.maps.LatLng(37.782842, -122.443688), new google.maps.LatLng(37.782919, -122.442815), new google.maps.LatLng(37.782992, -122.442112)];
 	function initialize() {
 		geocoder = new google.maps.Geocoder();
-		var latlng = new google.maps.LatLng(37.774546, -122.433523);
-		//var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
+		//var latlng = new google.maps.LatLng(37.774546, -122.433523); // SF for taxiData
+		var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
 		var myOptions = {
-			zoom : 8,
+			zoom : 10,
 			center : latlng,
 			mapTypeId : google.maps.MapTypeId.ROADMAP
 		}
 		map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
 
-		pointArray = new google.maps.MVCArray(taxiData);
+		//pointArray = new google.maps.MVCArray(taxiData);
+		var data = yelpToCoordList(yelp_api.family);
+		pointArray = new google.maps.MVCArray(data);
 
 		heatmap = new google.maps.visualization.HeatmapLayer({
 			data : pointArray
 		});
 
 		heatmap.setMap(map);
+		heatmap.setOptions({radius: 20, opacity: 0.5});
+	}
+	function toggleYelpHeatmap(key) {
+		var data = yelpToCoordList(yelp_api[key]);
+		pointArray = new google.maps.MVCArray(data);
 	}
 
 	function toggleHeatmap() {
@@ -119,6 +125,7 @@ var hotels = {}
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
     <input type="button" value="Geocode" onclick="codeAddress()">
+    <button onclick="toggleYelpHeatmap('family')">Toggle Yelp Heatmap</button>
     <button onclick="toggleHeatmap()">Toggle Heatmap</button>
   </div>
 <div id="map_canvas"></div>
