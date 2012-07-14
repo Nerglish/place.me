@@ -489,8 +489,8 @@ yelp_api.family = {
       "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
       "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
       "review_count": 32, 
-      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/w5UNY8NXpa3Kr8EL3QzdhA/ms.jpg", 
-      "snippet_text": "I tend to immediately judge a Mexican restaurant by the quality of their tortilla chips and Josefina's served us some that were on the stale side... I knew...", 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/KJV8nvgGUrxiUD-sOsSVaQ/ms.jpg", 
+      "snippet_text": "Visited last night and had a great experience. Very low-key setting and super friendly staff. Had a California burrito which was fantastic and very tasty....", 
       "url": "http://www.yelp.com/biz/josefinas-mexican-grill-seattle"
     }, 
     {
