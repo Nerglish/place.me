@@ -3,6 +3,18 @@
 <head>
 
 <script type="text/javascript">
+function yelpToCoordList(yelp_result) {
+    var ret_list = [];
+    for (var i = 0; i < yelp_result.businesses; i++) {
+        place = yelp_result.businesses[i];
+        coords = place.location.coordinate;
+        ret_list.append(new google.maps.LatLng(coords.latitude, coords.longitude);
+    }
+    return ret_list;
+}
+</script>
+
+<script type="text/javascript">
 var yelp_api = {}
 var hotels = {}
 </script>
