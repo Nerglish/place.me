@@ -114,7 +114,7 @@ json_str = json.dumps(response, sort_keys=True, indent=2)
 term = options.term.replace(' ','_')
 location = options.location.replace(' ','').replace(',','_')
 dataz = open('api/{0}-{1}.js'.format(location, term),'w')
-dataz.write('hotels.{0} = {1}'.format(term, json_str))
+dataz.write('hotels.{0} = {1}'.format(location, json_str))
 dataz.close()
 
 

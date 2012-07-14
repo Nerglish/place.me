@@ -1,4 +1,4 @@
-hotels.hotels = {
+hotels.fremont_seattle = {
   "businesses": [
     {
       "categories": [

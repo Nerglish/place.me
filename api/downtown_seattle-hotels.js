@@ -1,4 +1,4 @@
-hotels.hotels = {
+hotels.downtown_seattle = {
   "businesses": [
     {
       "categories": [

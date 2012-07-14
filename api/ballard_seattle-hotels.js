@@ -1,4 +1,4 @@
-hotels.hotels = {
+hotels.ballard_seattle = {
   "businesses": [
     {
       "categories": [
