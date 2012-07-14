@@ -113,7 +113,7 @@ json_str = json.dumps(response, sort_keys=True, indent=2)
 
 term = options.term.replace(' ','_')
 dataz = open('api/{0}.js'.format(term),'w')
-dataz.write('var {0} = {1}'.format(term, json_str))
+dataz.write('yelp_api.{0} = {1}'.format(term, json_str))
 dataz.close()
 
 
