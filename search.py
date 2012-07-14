@@ -1,5 +1,3 @@
-"""Command line interface to the Yelp Search API."""
-
 import json
 import oauth2
 import optparse
