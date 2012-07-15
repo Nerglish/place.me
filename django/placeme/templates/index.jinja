@@ -83,11 +83,12 @@ function loadFullHotelCoordList() {
     var full_list = [];
     var full_obj_list = [];
     for (var key in hotels) {
-        if (key && hotels[key]) 
+        if (key && hotels[key]) {
             full_list = full_list.concat(yelpToCoordList(hotels[key]));
-            if (hotels[key].businesses) {
-                full_obj_list = full_obj_list.concat(hotels[key].businesses);
-            }
+        }
+        if (hotels[key].businesses) {
+            full_obj_list = full_obj_list.concat(hotels[key].businesses);
+        }
     }
     hotels.full_list = full_list;
     hotels.full_obj_list = full_obj_list;
@@ -104,10 +105,30 @@ function clearHotelPins() {
     }
     hotel_pins = [];
 }
-
-function toggleAllHotels() {
-    if (!hotels.full_list || hotels.full_list.length == 0)
+function randInt(min,max) { 
+    return Number((Math.floor(Math.random()*(max-min+1)))+min);
+} 
+function showRandHotels() {
+    if (!hotels.full_list || hotels.full_list.length == 0) {
         loadFullHotelCoordList();
+    }
+    clearHotelPins();
+    for (var j = 0; j<10; j++) {
+        // HACK pick random hotel
+        var i = randInt(1, hotels.full_list.length);
+        console.log(i);
+        var pt = hotels.full_list[i];
+        hotel_pins.push(new google.maps.Marker({
+            position: pt, 
+            map: map,
+            icon: '{{ STATIC_URL }}img/icons/hotel.png'
+        }));
+    }
+}
+function toggleAllHotels() {
+    if (!hotels.full_list || hotels.full_list.length == 0) {
+        loadFullHotelCoordList();
+    }
     if (hotel_pins.length > 0) {
         clearHotelPins();
     } else {
@@ -168,6 +189,7 @@ function toggleAllHotels() {
 		deactivateYelpHeatmap();
 		currentHeatmap = heatmap;
 		currentHeatmap.setMap(map);
+                showRandHotels();
                 return false;
 	}
 	function deactivateYelpHeatmap() {
@@ -307,7 +329,11 @@ function toggleAllHotels() {
               </script>
             </div>
           </div>
-
+          {# DEBUGGING HOTEL SHOWING
+          <div id="hotel-buttons">
+              <button class="btn" onclick="showRandHotels()">Show hotels</button>
+          </div>
+          #}
           <div id="map-wrapper">
             <div id="map_canvas"></div>
           </div>
