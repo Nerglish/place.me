@@ -1,0 +1,911 @@
+hotels.ballard_seattle = {
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-789-5011", 
+      "id": "hotel-ballard-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/ojByAqy1MmZU6FFcowISzg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5300 Ballard Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6665485, 
+          "longitude": -122.3832046
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Vernon Pl & N 22nd Ave", 
+        "display_address": [
+          "5300 Ballard Ave NW", 
+          "(b/t Vernon Pl & N 22nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hotel-ballard-seattle", 
+      "name": "Hotel Ballard", 
+      "phone": "2067895011", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 6, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/FjRSHL849JG81lYrNtqnqA/ms.jpg", 
+      "snippet_text": "The staff is super friendly, the rooms are comfortable and most importantly, everything is sparkling clean.  I'd definitely recommend this place.", 
+      "url": "http://www.yelp.com/biz/hotel-ballard-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bed & Breakfast", 
+          "bedbreakfast"
+        ], 
+        [
+          "Guest Houses", 
+          "guesthouses"
+        ]
+      ], 
+      "display_phone": "+1-206-963-3786", 
+      "id": "sunset-hill-bed-and-breakfast-seattle-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/lSWT5h-LHJUiug1anD4uwA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3054 NW 58th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.671142, 
+          "longitude": -122.398031
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 30th Ave & N 32nd Ave", 
+        "display_address": [
+          "3054 NW 58th St", 
+          "(b/t N 30th Ave & N 32nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sunset-hill-bed-and-breakfast-seattle-2", 
+      "name": "Sunset Hill Bed and Breakfast", 
+      "phone": "2069633786", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 5, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/BV8kInYnCPpKRc5aU79M0Q/ms.jpg", 
+      "snippet_text": "I hardly think of a cozier place to spend a night and relaxed morning in the city. The location is outstanding at just a short walk from the heart of...", 
+      "url": "http://www.yelp.com/biz/sunset-hill-bed-and-breakfast-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-782-6772", 
+      "id": "trendwest-resorts-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2208 NW Market St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.668976, 
+          "longitude": -122.385319
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "2208 NW Market St", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/trendwest-resorts-seattle", 
+      "name": "Trendwest Resorts", 
+      "phone": "2067826772", 
+      "rating": 1.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262480304591/img/ico/stars/stars_1.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206263480014692/img/ico/stars/stars_large_1.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/20120626926385439/img/ico/stars/stars_small_1.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/GYlvB2zYadFBH6D2d8-e_g/ms.jpg", 
+      "snippet_text": "just more like an FYI. i called this place today and the phone number is no longer in service.", 
+      "url": "http://www.yelp.com/biz/trendwest-resorts-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-522-5000", 
+      "id": "travelodge-seattle-4", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/QiVzqFmrXqb6GxOp2o01JQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8512 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6910006, 
+          "longitude": -122.3444249
+        }, 
+        "country_code": "US", 
+        "cross_streets": "85th St & 86th St", 
+        "display_address": [
+          "8512 Aurora Ave N", 
+          "(b/t 85th St & 86th St)", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/travelodge-seattle-4", 
+      "name": "Travelodge", 
+      "phone": "2065225000", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 9, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/6WqyEs-ANN_h4jYs5DBMYg/ms.jpg", 
+      "snippet_text": "Cheap, free parking. Toilet had some issues though.  It'll do!", 
+      "url": "http://www.yelp.com/biz/travelodge-seattle-4"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ], 
+        [
+          "Bed & Breakfast", 
+          "bedbreakfast"
+        ]
+      ], 
+      "display_phone": "+1-206-365-0700", 
+      "id": "hotel-nexus-seattle-3", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/9RUwCoz3e7TCNOUjshDXwA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2140 N Northgate Way"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.708717, 
+          "longitude": -122.332114
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "2140 N Northgate Way", 
+          "Haller Lake", 
+          "Seattle, WA 98133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Haller Lake"
+        ], 
+        "postal_code": "98133", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hotel-nexus-seattle-3", 
+      "name": "Hotel Nexus", 
+      "phone": "2063650700", 
+      "rating": 2.0, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263489049252/img/ico/stars/stars_2.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/20120626220207235/img/ico/stars/stars_large_2.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206264278297776/img/ico/stars/stars_small_2.png", 
+      "review_count": 17, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/NsKdEbt8ZGvKVpD09HKZAg/ms.jpg", 
+      "snippet_text": "Aside from everyone else's reviews, this hotel has greatly improved over the last year. \nMy family frequently stays here when visiting yours truly, and I...", 
+      "url": "http://www.yelp.com/biz/hotel-nexus-seattle-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-524-3600", 
+      "id": "days-inn-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/lBYdmJXb02kIPc9y0Jnnhg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "9100 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.695118, 
+          "longitude": -122.34401
+        }, 
+        "country_code": "US", 
+        "cross_streets": "91st St & 92nd St", 
+        "display_address": [
+          "9100 Aurora Ave N", 
+          "(b/t 91st St & 92nd St)", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/days-inn-seattle", 
+      "name": "Days Inn", 
+      "phone": "2065243600", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 13, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/9ZbyNMN5sRXn6qTOXn86HQ/ms.jpg", 
+      "snippet_text": "I have to disagree with most of the review on this Days Inn.  I found my experience to be a good experience and I would stay there again.  It was...", 
+      "url": "http://www.yelp.com/biz/days-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bed & Breakfast", 
+          "bedbreakfast"
+        ]
+      ], 
+      "display_phone": "+1-206-547-6077", 
+      "id": "chelsea-station-inn-b-and-b-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/qiUVcK3q4u4p83x9x4dHxA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4915 Linden Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.664791, 
+          "longitude": -122.348776
+        }, 
+        "country_code": "US", 
+        "cross_streets": "49th St & 50th St", 
+        "display_address": [
+          "4915 Linden Ave N", 
+          "(b/t 49th St & 50th St)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/chelsea-station-inn-b-and-b-seattle", 
+      "name": "Chelsea Station Inn B&B", 
+      "phone": "2065476077", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 11, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/MBRmERHQCZNPy8-N7pFAyg/ms.jpg", 
+      "snippet_text": "This is a wonderful place with all the comforts of home. Very spacious and clean with a decor that strikes a good balance between traditional, modern, and...", 
+      "url": "http://www.yelp.com/biz/chelsea-station-inn-b-and-b-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-633-4090", 
+      "id": "marco-polo-motel-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/X-NMI51n69XXJ1ksSCXSwQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4114 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6571751, 
+          "longitude": -122.3472476
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "4114 Aurora Ave N", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/marco-polo-motel-seattle-2", 
+      "name": "Marco Polo Motel", 
+      "phone": "2066334090", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 9, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/lMdzQmnnDxiD_JQWAsT1CA/ms.jpg", 
+      "snippet_text": "While this is no Hilton by any stretch of the means, it definitely served it's purpose. Was looking for room over the Memorial weekend and this is what we...", 
+      "url": "http://www.yelp.com/biz/marco-polo-motel-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Bed & Breakfast", 
+          "bedbreakfast"
+        ]
+      ], 
+      "display_phone": "+1-206-729-8700", 
+      "id": "greenlake-guest-house-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/OpVmklQ0YctyVz5BlOEQcQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "7630 E Green Lake Dr N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.683711, 
+          "longitude": -122.333901
+        }, 
+        "country_code": "US", 
+        "cross_streets": "76th St & N Winona Ave", 
+        "display_address": [
+          "7630 E Green Lake Dr N", 
+          "(b/t 76th St & N Winona Ave)", 
+          "Green Lake", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Green Lake"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/greenlake-guest-house-seattle", 
+      "name": "Greenlake Guest House", 
+      "phone": "2067298700", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 5, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/qpELt8Q2O3C7YmThI5lfhQ/ms.jpg", 
+      "snippet_text": "It took me a long time to review this place but here goes:\n\nMy family (parents and 2 little sisters) was coming to Seattle from Michigan for 2 weeks and...", 
+      "url": "http://www.yelp.com/biz/greenlake-guest-house-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-524-8880", 
+      "id": "columbus-motor-inn-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/CbvKZTrOPQrOEJIWewEzHA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "9613 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6990263, 
+          "longitude": -122.3447228
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "9613 Aurora Ave N", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/columbus-motor-inn-seattle", 
+      "name": "Columbus Motor Inn", 
+      "phone": "2065248880", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 2, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/rdMn5Xan_0uU9rveDLFo8A/ms.jpg", 
+      "snippet_text": "Now this is a 'classy' budget hotel. ;)\n \nLast month, I stayed here. I like their various themed rooms. I believe I stayed at the Shogun room. This room had...", 
+      "url": "http://www.yelp.com/biz/columbus-motor-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bed & Breakfast", 
+          "bedbreakfast"
+        ]
+      ], 
+      "display_phone": "+1-206-855-5222", 
+      "id": "9-cranes-inn-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/v8DwltbpNcADJVsfV2yHdQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5717 Palatine Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.670929, 
+          "longitude": -122.356861
+        }, 
+        "country_code": "US", 
+        "cross_streets": "57th St & 58th St", 
+        "display_address": [
+          "5717 Palatine Ave N", 
+          "(b/t 57th St & 58th St)", 
+          "Phinney Ridge", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Phinney Ridge"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/9-cranes-inn-seattle", 
+      "name": "9 Cranes Inn", 
+      "phone": "2068555222", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 6, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/hhDHOYSzJWHN4Lat3pddZQ/ms.jpg", 
+      "snippet_text": "We stayed in the ballard room for our wedding night.  We didnt have the opportunity to have a honeymoon because our families were coming from all over the...", 
+      "url": "http://www.yelp.com/biz/9-cranes-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-364-6095", 
+      "id": "orion-motel-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "12045 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7168879, 
+          "longitude": -122.3449205
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "12045 Aurora Ave N", 
+          "Bitter Lake", 
+          "Seattle, WA 98133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Bitter Lake"
+        ], 
+        "postal_code": "98133", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/orion-motel-seattle", 
+      "name": "Orion Motel", 
+      "phone": "2063646095", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/FNP5tkeY-ulBVsxrqqrwnA/ms.jpg", 
+      "snippet_text": "OK- this is not the type of place I would stay, but hell- the owners are amazing, the rooms are cleaner than you would think, and they are a positive force...", 
+      "url": "http://www.yelp.com/biz/orion-motel-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-632-2101", 
+      "id": "park-plaza-motel-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/WG2l5CQybfUxxizUa5fcew/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4401 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6601802, 
+          "longitude": -122.347532
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "4401 Aurora Ave N", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/park-plaza-motel-seattle", 
+      "name": "Park Plaza Motel", 
+      "phone": "2066322101", 
+      "rating": 2.0, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263489049252/img/ico/stars/stars_2.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/20120626220207235/img/ico/stars/stars_large_2.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206264278297776/img/ico/stars/stars_small_2.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/YclUZzP7-bX8Qs6CWNtayA/ms.jpg", 
+      "snippet_text": "Park Plaza advertises \"quiet\" rooms but they're kidding themselves; the room furthest from the roaring Aurora Avenue traffic is MAYBE 100 ft away. The hotel...", 
+      "url": "http://www.yelp.com/biz/park-plaza-motel-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-525-8164", 
+      "id": "crown-inn-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/J0TdLehmvzgVsRg7E7qTMA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "9501 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6978512, 
+          "longitude": -122.3445959
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "9501 Aurora Ave N", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/crown-inn-seattle", 
+      "name": "Crown Inn", 
+      "phone": "2065258164", 
+      "rating": 2.0, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263489049252/img/ico/stars/stars_2.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/20120626220207235/img/ico/stars/stars_large_2.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206264278297776/img/ico/stars/stars_small_2.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/3V8NtT1IvZoj_lB4kedJfg/ms.jpg", 
+      "snippet_text": "Ok, I ididn't stay at the motel.  I did get a 6-pack of beer to take to a birthday party there though.  \n\nI was in  a rush and this was convenient, although...", 
+      "url": "http://www.yelp.com/biz/crown-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-527-0330", 
+      "id": "klose-in-motel-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "9309 Aurora Avenue N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6969143, 
+          "longitude": -122.344732
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "9309 Aurora Avenue N", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/klose-in-motel-seattle", 
+      "name": "Klose In Motel", 
+      "phone": "2065270330", 
+      "rating": 1.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262480304591/img/ico/stars/stars_1.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206263480014692/img/ico/stars/stars_large_1.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/20120626926385439/img/ico/stars/stars_small_1.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/9y7lyV67_LzGms8El3dq2Q/ms.jpg", 
+      "snippet_text": "Why has NOBODY reviewed this gem? I have not been inside. I walked by. Between its dirty yellow exterior and cheap Christmas lights hanging over the plywood...", 
+      "url": "http://www.yelp.com/biz/klose-in-motel-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-365-3216", 
+      "id": "aurora-nites-inn-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "11746 Aurora Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7158061, 
+          "longitude": -122.3446031
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "11746 Aurora Ave N", 
+          "Haller Lake", 
+          "Seattle, WA 98133"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Haller Lake"
+        ], 
+        "postal_code": "98133", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/aurora-nites-inn-seattle", 
+      "name": "Aurora Nites Inn", 
+      "phone": "2063653216", 
+      "rating": 1.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262480304591/img/ico/stars/stars_1.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206263480014692/img/ico/stars/stars_large_1.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/20120626926385439/img/ico/stars/stars_small_1.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/5wwh1Q3sd75cZgmv0Z3XsQ/ms.jpg", 
+      "snippet_text": "I stayed here twice. Bad experiences both times.\n\nThe first time, I got a room with a toilet that didn't work properly. After I fixed it, it only worked...", 
+      "url": "http://www.yelp.com/biz/aurora-nites-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-632-0787", 
+      "id": "wallingford-inn-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4450 Green Lake Way N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6607806, 
+          "longitude": -122.3471663
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "4450 Green Lake Way N", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/wallingford-inn-seattle", 
+      "name": "Wallingford Inn", 
+      "phone": "2066320787", 
+      "rating": 1.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262480304591/img/ico/stars/stars_1.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206263480014692/img/ico/stars/stars_large_1.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/20120626926385439/img/ico/stars/stars_small_1.png", 
+      "review_count": 5, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/rlwfedJOs0xJhIzwCBkdiA/ms.jpg", 
+      "snippet_text": "http://www.fremontuniverse.com/2010/07/16/violence-continues-at-aurora-motels/\n\nI'll let that local news article speak for itself.  Come here if you want to...", 
+      "url": "http://www.yelp.com/biz/wallingford-inn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Event Planning & Services", 
+          "eventservices"
+        ], 
+        [
+          "Tours", 
+          "tours"
+        ]
+      ], 
+      "display_phone": "+1-206-781-0709", 
+      "id": "anchor-bay-charters-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/JKY2xKzufzWplCA0cwuJ7w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Fisherman's Terminal", 
+          "4005 20th Ave W"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6562775, 
+          "longitude": -122.3826536
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Fisherman's Terminal", 
+          "4005 20th Ave W", 
+          "Magnolia", 
+          "Seattle, WA 98119"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Magnolia"
+        ], 
+        "postal_code": "98119", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/anchor-bay-charters-seattle", 
+      "name": "Anchor Bay Charters", 
+      "phone": "2067810709", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/Bd_e95VuUFOZD8j933Ad_g/ms.jpg", 
+      "snippet_text": "I'M ON A BOAT!!! \n\nSome very wonderful friends booked Anchor Bay Charters' \"Seeker\" yacht as the venue for a pre-wedding coed bash back in July. Everybody...", 
+      "url": "http://www.yelp.com/biz/anchor-bay-charters-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hotels", 
+          "hotels"
+        ]
+      ], 
+      "display_phone": "+1-206-525-1205", 
+      "id": "the-sun-hill-motel-seattle", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8517 Aurora Avenue N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6907094, 
+          "longitude": -122.3445888
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "8517 Aurora Avenue N", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-sun-hill-motel-seattle", 
+      "name": "The Sun Hill Motel", 
+      "phone": "2065251205", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 1, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/KBEg95lGgl9C8Dkz9MtH_w/ms.jpg", 
+      "snippet_text": "Very nice clean and quiet nice friendly staff", 
+      "url": "http://www.yelp.com/biz/the-sun-hill-motel-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6865827, 
+      "longitude": -122.3650725
+    }, 
+    "span": {
+      "latitude_delta": 0.06667144000000746, 
+      "longitude_delta": 0.07250869999998599
+    }
+  }, 
+  "total": 19
+}

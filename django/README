@@ -1,0 +1,30 @@
+# Setup environment
+pip install -r requirements.txt
+
+# On a fresh db, run:
+python manage.py syncdb
+python manage.py migrate
+
+# When something has been added to migrations/, you should migrate to it.
+# This will show you your database's current migration status.
+python manage.py migrate --list
+
+# This will migrate you to the latest version.
+python manage.py migrate
+
+# Edit settings in 
+#    projectsniper/settings.py
+
+# Put static files in
+#    projectsniper/static
+# then collectstatic:
+python manage.py collectstatic
+
+# Edit templates in
+#    projectsniper/templates
+
+# To blow away everything in your db and rebase migrations:
+Delete database file and migrations folder
+python manage.py syncdb
+    # Don't create a super user
+python manage.py convert_to_south sniper

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while true; do
+    echo 'watching...'
+    inotifywait -q --format 'File changed: %w (%e)' -e modify -e attrib -e move -e delete -r .
+    echo -e '\n\n\n\n\n'
+    ./manage.py test sniper
+done

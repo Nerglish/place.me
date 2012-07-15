@@ -1,0 +1,10 @@
+#!/bin/bash
+
+url="$1"
+output=$(basename "$url"|sed -e 's/\.js$/.min.js/')
+
+curl \
+  -d output_info=compiled_code \
+  -d compilation_level=SIMPLE_OPTIMIZATIONS \
+  -d code_url="$url" \
+  http://closure-compiler.appspot.com/compile > "$output"
