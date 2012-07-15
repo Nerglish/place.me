@@ -48,18 +48,27 @@ footer { color: gray; }
 #navbar {
   padding: 0px;
 }
-#navbar a {
+#navbar span {
   display: inline-block;
-  padding: 40px 10px;
+  padding: 5px 10px 10px;
+}
+#navbar span a {
+  display: inline-block;
   color: gray;
   font-size: 16px;
+  padding: 30px 0px;
 }
-#navbar a.active{
-  color: white;
+#navbar span.active{
   background: @orange;
   border: solid 2px white;
   border-top: none;
 }
-
+#navbar span.active a {
+  color: white;
+  border-bottom: solid 1px white;
+}
+#navbar span.active a:hover {
+  text-decoration: none;
+}
 /* vim: set ft=css ts=2 sts=2 sw=2 et: */
 
