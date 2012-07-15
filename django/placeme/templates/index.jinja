@@ -110,7 +110,8 @@ function toggleAllHotels() {
 
 </script>
 
-<link href="{{ STATIC_URL }}css/bootstrap.css" rel="stylesheet">
+<!-- <link href="{{ STATIC_URL }}css/bootstrap.css" rel="stylesheet"> -->
+<link rel="stylesheet/less" type="text/css" href="{{ STATIC_URL }}style.less">
 <link href="{{ STATIC_URL }}css/ui-lightness/jquery-ui-1.8.21.custom.css" rel="stylesheet">
 
 <script type="text/javascript"
@@ -215,73 +216,19 @@ function toggleAllHotels() {
     }
 </script>
 <style type="text/css">
-html { height: 100% }
-body { height: 100%; margin: 0; padding: 0 }
-footer { color: gray; }
-#heading {
-  /*
-  margin-top: 15px;
-  margin-bottom: 15px;
-  */
-    background: #e6f5f7;
-    border-bottom: 5px solid #eee;
-}
-
-#map-wrapper {
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    box-shadow: 0 0 3px #aaa;
-}
-
-#map_canvas {
-    height: 600px;
-    width: 100%; 
-}
-.sidebar-nav input { width: 100%; }
-.sidebar-nav form { margin-bottom: 0px; }
-
-.container {
-    padding: 10px 10px 0 0;
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
-}
-.container h3 {
-    font-weight: normal;
-    background: #727272;
-    color: #fff;
-    border-radius: 0 5px 5px 0;
-    padding: 3px 0 3px 25px;
-}
-.sidebar-items {
-    margin-bottom: 10px;
-    height: 200px;
-    overflow-x: hidden;
-    overflow-y: auto;
-}
-.sidebar-enum {
-    height: 40px;
-}
+    {# global styles in static/less/style.less#}
 </style>
+<script type="text/javascript" src="{{ STATIC_URL }}js/less-1.3.0.min.js"></script>
 </head>
 <body>
-{#
-  <div>
-    <input id="address" type="textbox" value="Seattle, WA">
-    <input class="btn" type="button" value="Lookup" onclick="codeAddress()">
-    <input class="btn" type="button" value="Hotel Show" onclick="toggleAllHotels()">
-  </div>
-  <div>
-  	<button class="btn" onclick="activateYelpHeatmap('family')">Show Family Heatmap</button>
-  	<button class="btn" onclick="activateYelpHeatmap('hipster')">Show Hipster Heatmap</button>
-  	<button class="btn" onclick="activateYelpHeatmap('gay')">Show Gay Heatmap</button>
-  </div>
-<div id="map_canvas"></div>
-#}
-
-
 
 <div id="heading" class="container">
+    <div id="navbar" class="pull-right">
+        <a href="#" class="active">Places</a>
+        <a href="#">My Places</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </div>
     <img src="{{ STATIC_URL }}/img/logo.png" />
 </div>
 
