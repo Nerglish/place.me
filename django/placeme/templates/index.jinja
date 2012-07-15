@@ -45,7 +45,7 @@ function yelpToCoordList(yelp_result) {
 function loadFullHotelCoordList() {
     var full_list = [];
     for (var key in hotels) {
-        if (key) 
+        if (key && hotels[key]) 
             full_list = full_list.concat(yelpToCoordList(hotels[key]));
     }
     hotels.full_list = full_list;
@@ -59,6 +59,8 @@ function clearHotelPins() {
 }
 
 function toggleAllHotels() {
+    if (!hotels.full_list || hotels.full_list.length == 0)
+        loadFullHotelCoordList();
     if (hotel_pins.length > 0) {
         clearHotelPins();
     } else {
@@ -66,13 +68,13 @@ function toggleAllHotels() {
             var pt = hotels.full_list[i];
             hotel_pins.push(new google.maps.Marker({
                 position: pt, 
-                map: map
+                map: map,
+                icon: '{{ STATIC_URL }}img/icons/hotel.png'
             }));
         }
     }
 }
 
-$(loadFullHotelCoordList);
 </script>
 
 <link href="{{ STATIC_URL }}/css/bootstrap.css" rel="stylesheet">
@@ -113,8 +115,6 @@ $(loadFullHotelCoordList);
 			heatmap.setOptions({radius: 20, opacity: 0.5});
 			heatmaps[key] = heatmap;
 		}
-		
-		console.log(heatmaps);
 	}
 	function activateYelpHeatmap(key) {
 		heatmap = heatmaps[key];
