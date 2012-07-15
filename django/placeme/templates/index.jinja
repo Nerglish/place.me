@@ -234,7 +234,19 @@ function toggleAllHotels() {
 
     <div class="container">
       <div class="row">
-        <div class="span4">
+        <div class="sidebar span3">
+
+<h3>Where are you going?</h3>
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Location</li>
+              <li id="location">
+                <form>
+                <input id="address" type="text" value="Seattle, WA"></input>
+                </form>
+              </li>
+            </ul>
+          </div><!--/.well -->
 
 <h3>Pick your hotel</h3>
 <div class="sidebar-items">
@@ -248,17 +260,6 @@ function toggleAllHotels() {
 </div>
 
 
-<h3>Where are you going?</h3>
-          <div class="well sidebar-nav">
-            <ul class="nav nav-list">
-              <li class="nav-header">Location</li>
-              <li id="location">
-                <form>
-                <input id="address" type="text" value="Seattle, WA"></input>
-                </form>
-              </li>
-            </ul>
-          </div><!--/.well -->
 <h3>What places are you visiting?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
@@ -282,7 +283,7 @@ function toggleAllHotels() {
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
-        <div class="span8">
+        <div class="span9">
 <div id="heatmap-radios" class="tmpl-cont" objPath="heatmap_radios">
     <script type="text/x-jquery-tmpl">
     <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
