@@ -1,0 +1,1046 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-206-441-9360", 
+      "id": "local-360-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/KnZNjRNlRm6x0HzXrHaEUg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2234 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.613387, 
+          "longitude": -122.346274
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Bell St & Blanchard St", 
+        "display_address": [
+          "2234 1st Ave", 
+          "(b/t Bell St & Blanchard St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/local-360-seattle-2", 
+      "name": "Local 360", 
+      "phone": "2064419360", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 475, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/K3DusJYJAe4en4BIR22pDA/ms.jpg", 
+      "snippet_text": "I love everything about this place! \nSuper friendly staff here and exceptional food. \nWe had brunch and started with amazing bacon infused vodka Bloody...", 
+      "url": "http://www.yelp.com/biz/local-360-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-332-0220", 
+      "id": "baguette-box-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/ncupGDhmiRT4ow-bkXf_PQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1203 Pine St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6148909, 
+          "longitude": -122.3284424
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Minor Ave & Melrose Ave", 
+        "display_address": [
+          "1203 Pine St", 
+          "(b/t Minor Ave & Melrose Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/baguette-box-seattle", 
+      "name": "Baguette Box", 
+      "phone": "2063320220", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 234, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/q0BIqiLbK99xMMQ--fN_8Q/ms.jpg", 
+      "snippet_text": "Baguette Box offers a tasty meal at a decent price. I'm a fan of the Drunken Chicken sandwich and the Lemongrass Steak sandwich, but since I cut out bread...", 
+      "url": "http://www.yelp.com/biz/baguette-box-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Greek", 
+          "greek"
+        ]
+      ], 
+      "display_phone": "+1-206-282-0942", 
+      "id": "art-of-the-table-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/B63562Ga0IGuk-Xli6PYvw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1054 N 39th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6541307, 
+          "longitude": -122.3449803
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Woodland Park Ave", 
+        "display_address": [
+          "1054 N 39th St", 
+          "(b/t N Woodland Park Ave)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/art-of-the-table-seattle", 
+      "name": "Art of the Table", 
+      "phone": "2062820942", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 228, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/dbqroj26T9hsDwubrdqXjg/ms.jpg", 
+      "snippet_text": "Came here for my birthday dinner. Make reservation. I repeat, make reservations. Art of the Table only seats about 20 patrons and if you order a 7 course...", 
+      "url": "http://www.yelp.com/biz/art-of-the-table-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Beer, Wine & Spirits", 
+          "beer_and_wine"
+        ]
+      ], 
+      "display_phone": "+1-206-357-9000", 
+      "id": "boka-restaurant-bar-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/mnCpr0EUU1JlCGpsspwigA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1010 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.604863, 
+          "longitude": -122.336269
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Spring St & Madison St", 
+        "display_address": [
+          "1010 1st Ave", 
+          "(b/t Spring St & Madison St)", 
+          "Downtown", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/boka-restaurant-bar-seattle", 
+      "name": "BOKA restaurant + bar", 
+      "phone": "2063579000", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 377, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/39ILGyk2rg4hc7q5qgQgbw/ms.jpg", 
+      "snippet_text": "Damn, it's been awhile since I've \"yelped\" but this place has deserved a review for several months now.  \n\nThe wife and I have been raising our baby for the...", 
+      "url": "http://www.yelp.com/biz/boka-restaurant-bar-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-633-0801", 
+      "id": "tilth-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/2A2IubeZImtDvS62yU4cgA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1411 N 45th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6611784, 
+          "longitude": -122.3400649
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Interlake Ave & N Woodlawn Ave", 
+        "display_address": [
+          "1411 N 45th St", 
+          "(b/t N Interlake Ave & N Woodlawn Ave)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/tilth-seattle", 
+      "name": "Tilth", 
+      "phone": "2066330801", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 479, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/32kuzIEzX1w9MHmRRdzQXA/ms.jpg", 
+      "snippet_text": "I am not sure what else I can say that hasn't already been said about Tilth.  It was an amazing culinary experience.  We were fortunate enough to be able to...", 
+      "url": "http://www.yelp.com/biz/tilth-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-784-3535", 
+      "id": "stumbling-goat-bistro-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/wJ_irMZ1ctLTixxLWC1FXg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "6722 Greenwood Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6784348, 
+          "longitude": -122.3551449
+        }, 
+        "country_code": "US", 
+        "cross_streets": "68th St & Phinney Avenue North", 
+        "display_address": [
+          "6722 Greenwood Ave N", 
+          "(b/t 68th St & Phinney Avenue North)", 
+          "Phinney Ridge", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Phinney Ridge"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/stumbling-goat-bistro-seattle", 
+      "name": "Stumbling Goat Bistro", 
+      "phone": "2067843535", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 248, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/g8UvZig0lcM0rzwTjLkmCQ/ms.jpg", 
+      "snippet_text": "This restaurant was excellent. My parents and I came here for Seattle Restaurant Week's 3 for $28 deal after Salty's refused to honor our reservation, and...", 
+      "url": "http://www.yelp.com/biz/stumbling-goat-bistro-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-282-0680", 
+      "id": "emmer-and-rye-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/2qZkva95IuyaK53TBQzKrQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1825 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6355251, 
+          "longitude": -122.3569854
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blaine St & Howe St", 
+        "display_address": [
+          "1825 Queen Anne Ave N", 
+          "(b/t Blaine St & Howe St)", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/emmer-and-rye-seattle", 
+      "name": "Emmer & Rye", 
+      "phone": "2062820680", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 239, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/ARl56iXtF1sgJEAciN3zrA/ms.jpg", 
+      "snippet_text": "Maybe it was the scythe hanging over the bathroom, or the other farming tools scattered on the walls as decoration, but I dug the vibe at Emmer & Rye.\n\nI...", 
+      "url": "http://www.yelp.com/biz/emmer-and-rye-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Vegan", 
+          "vegan"
+        ]
+      ], 
+      "display_phone": "+1-206-547-1348", 
+      "id": "sutra-seattle-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/XAZKnU6WgTVjnQoIlLZOAQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1605 N 45th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6613935, 
+          "longitude": -122.3382432
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Woodlawn Ave", 
+        "display_address": [
+          "1605 N 45th St", 
+          "(b/t N Woodlawn Ave)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sutra-seattle-2", 
+      "name": "Sutra", 
+      "phone": "2065471348", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 140, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/wa_jIpGaNANIYQpJzH_weA/ms.jpg", 
+      "snippet_text": "$35 for 4 courses of seriously delicious vegan food? Yes, please!\n\nYou have to make reservations ahead of time to eat at this cute little restaurant.\n\nI...", 
+      "url": "http://www.yelp.com/biz/sutra-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-695-4600", 
+      "id": "urbane-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/FXkdtOBZwToXpdsK-zjpgQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1635 8th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6133196, 
+          "longitude": -122.3333949
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pine St & Olive Way", 
+        "display_address": [
+          "1635 8th Ave", 
+          "(b/t Pine St & Olive Way)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/urbane-seattle", 
+      "name": "Urbane", 
+      "phone": "2066954600", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 171, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/Nw7hYvlAU18K3oRep53Mxw/ms.jpg", 
+      "snippet_text": "I'm here for happy hour.\n\nGreat drinks - still pricey, but.... the chicken wings ARE THE BEST IN THE CITY!\n\nLOVE LOVE LOVE the chicken wings!\nMac and Cheese...", 
+      "url": "http://www.yelp.com/biz/urbane-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-762-3330", 
+      "id": "the-corson-building-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/tMmx6i3zNMRCmmBSkcBX5A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5609 Corson Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.551926, 
+          "longitude": -122.320393
+        }, 
+        "country_code": "US", 
+        "cross_streets": "S Airport Way & Carstens Pl", 
+        "display_address": [
+          "5609 Corson Ave S", 
+          "(b/t S Airport Way & Carstens Pl)", 
+          "Georgetown", 
+          "Seattle, WA 98108"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Georgetown"
+        ], 
+        "postal_code": "98108", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-corson-building-seattle", 
+      "name": "The Corson Building", 
+      "phone": "2067623330", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 76, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/4cDV8gnFaRGF5xYV6UTOyg/ms.jpg", 
+      "snippet_text": "Unique\nAmbience: 5\nFood: 5\nValue: 3\n\nTucked away underneath an overpass in Georgetown, an otherwise ordinary house contains the unique dining experience...", 
+      "url": "http://www.yelp.com/biz/the-corson-building-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-903-5291", 
+      "id": "sam-taste-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/xzjl9m-TescU0GZHALvZNw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Seattle Art Museum", 
+          "1300 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6068877, 
+          "longitude": -122.3382
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Seattle Art Museum", 
+          "1300 1st Ave", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sam-taste-seattle-2", 
+      "name": "SAM Taste", 
+      "phone": "2069035291", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 137, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/4cDV8gnFaRGF5xYV6UTOyg/ms.jpg", 
+      "snippet_text": "Microsoft Prime 2012-2013\nA lovely composition \nAmbience: 4\nFood: 4\nValue: 4\nThis is the museum restaurant inside of SAM, serving distinctive locally...", 
+      "url": "http://www.yelp.com/biz/sam-taste-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "French", 
+          "french"
+        ]
+      ], 
+      "display_phone": "+1-206-323-5275", 
+      "id": "lark-restaurant-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/dvSoeCKoZNI9_mWgPuw0Dw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "926 12th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.611222, 
+          "longitude": -122.31635
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Columbia St & Marion St", 
+        "display_address": [
+          "926 12th Ave", 
+          "(b/t Columbia St & Marion St)", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/lark-restaurant-seattle", 
+      "name": "Lark Restaurant", 
+      "phone": "2063235275", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 248, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/lWEPjHid5eMJrPfHuzd8ng/ms.jpg", 
+      "snippet_text": "One of the best meals I've had. Ever. I have been wanting to eat here for a few years and finally came here last night on a lark (sorry, had to). \n\nThe...", 
+      "url": "http://www.yelp.com/biz/lark-restaurant-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-320-8458", 
+      "id": "the-tin-table-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/4Un9FnxIcTj7uuo-MkXQZQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "915 E Pine St", 
+          "2nd Fl"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.614985, 
+          "longitude": -122.319856
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Broadway & Nagle Pl", 
+        "display_address": [
+          "915 E Pine St", 
+          "2nd Fl", 
+          "(b/t Broadway & Nagle Pl)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-tin-table-seattle", 
+      "name": "The Tin Table", 
+      "phone": "2063208458", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 261, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/kJXLyiF6muaFD5MYEyltFw/ms.jpg", 
+      "snippet_text": "I like the tin table.\n\nFood: 4, value: 4, ambience: 3.  Like the fries.  A bit too busy usually, make sure that you got the reservation.", 
+      "url": "http://www.yelp.com/biz/the-tin-table-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-206-325-1501", 
+      "id": "terra-plata-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Ng-a_0S9xuDJlobi0vL-tg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1501 Melrose Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6143313, 
+          "longitude": -122.3280356
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Minor Ave", 
+        "display_address": [
+          "1501 Melrose Ave", 
+          "(b/t Pike St & Minor Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/terra-plata-seattle", 
+      "name": "Terra Plata", 
+      "phone": "2063251501", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 111, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/gz058OCLYYmOZCB2S7brlw/ms.jpg", 
+      "snippet_text": "I had the eye openers $9 Calvo Pomelo clove infused bourbon Jim Beam & grapefruit juice. $17 chimichurri steak & eggs - hangar steak, duck fat potatoes,...", 
+      "url": "http://www.yelp.com/biz/terra-plata-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ], 
+        [
+          "Cooking Schools", 
+          "cookingschools"
+        ]
+      ], 
+      "display_phone": "+1-206-784-3463", 
+      "id": "le-gourmand-restaurant-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/n4wtRViFFbHXERuFiAJTLw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "425 NW Market St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6684254, 
+          "longitude": -122.3619531
+        }, 
+        "country_code": "US", 
+        "cross_streets": "55th St & N 5th Ave", 
+        "display_address": [
+          "425 NW Market St", 
+          "(b/t 55th St & N 5th Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/le-gourmand-restaurant-seattle", 
+      "name": "Le Gourmand Restaurant", 
+      "phone": "2067843463", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 91, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/RHeLiiXz-BltNacdEmmawQ/ms.jpg", 
+      "snippet_text": "I was fortunate to try Le Gourmand for the first time earlier this month, and alas, due to its impending closure, for the last time as well.  Having enjoyed...", 
+      "url": "http://www.yelp.com/biz/le-gourmand-restaurant-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Tapas Bars", 
+          "tapas"
+        ], 
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ], 
+        [
+          "Pizza", 
+          "pizza"
+        ]
+      ], 
+      "display_phone": "+1-206-935-6550", 
+      "id": "phoenecia-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/8gY4D7KPA-R1fyY9FFi-0Q/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2716 Alki Ave SW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5791476, 
+          "longitude": -122.4101407
+        }, 
+        "country_code": "US", 
+        "cross_streets": "S 60th Ave & S 61st Ave", 
+        "display_address": [
+          "2716 Alki Ave SW", 
+          "(b/t S 60th Ave & S 61st Ave)", 
+          "West Seattle", 
+          "Seattle, WA 98116"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "West Seattle"
+        ], 
+        "postal_code": "98116", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/phoenecia-seattle", 
+      "name": "Phoenecia", 
+      "phone": "2069356550", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 136, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/WW2HgPEL7Oy_4fVUBs5AeA/ms.jpg", 
+      "snippet_text": "On a Saturday near the end of June when the pouring rains cleared late and the sun *finally* came shining though at around dinner time, everyone came down...", 
+      "url": "http://www.yelp.com/biz/phoenecia-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Burgers", 
+          "burgers"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-547-2600", 
+      "id": "uneeda-burger-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/ZN-d-Qb6rOR_MV0HJHwesw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4302 Fremont Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6595509, 
+          "longitude": -122.349911
+        }, 
+        "country_code": "US", 
+        "cross_streets": "43rd St & 44th St", 
+        "display_address": [
+          "4302 Fremont Ave N", 
+          "(b/t 43rd St & 44th St)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/uneeda-burger-seattle", 
+      "name": "Uneeda Burger", 
+      "phone": "2065472600", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 329, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/3TlQT10UiI8d7eVx6mpjrw/ms.jpg", 
+      "snippet_text": "The perfect spot for a sunny Sunday lunch. Plentiful parking and outdoor seating made Uneeda Burger a great alternative to the Sunday brunch I was after....", 
+      "url": "http://www.yelp.com/biz/uneeda-burger-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Modern European", 
+          "modern_european"
+        ], 
+        [
+          "Mediterranean", 
+          "mediterranean"
+        ]
+      ], 
+      "display_phone": "+1-206-706-7703", 
+      "id": "carmelita-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/9-lSm-y_WmSzIqco2SqPaw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "7314 Greenwood Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6819227, 
+          "longitude": -122.3552819
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "7314 Greenwood Ave N", 
+          "Phinney Ridge", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Phinney Ridge"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/carmelita-seattle", 
+      "name": "Carmelita", 
+      "phone": "2067067703", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 214, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/62VhW3YrDYqob5-eBHhOAQ/ms.jpg", 
+      "snippet_text": "Went for happy hour this weekend and I was very impressed. We only ate off the happy hour menu, so I do not know what the full menu is like. It's probably...", 
+      "url": "http://www.yelp.com/biz/carmelita-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Spanish", 
+          "spanish"
+        ], 
+        [
+          "Tapas Bars", 
+          "tapas"
+        ], 
+        [
+          "Basque", 
+          "basque"
+        ]
+      ], 
+      "display_phone": "+1-206-583-0382", 
+      "id": "tango-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/NErUifLzXI-sWHUUG-4C-Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1100 Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6136297, 
+          "longitude": -122.3288298
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Boren Ave & Melrose Ave", 
+        "display_address": [
+          "1100 Pike St", 
+          "(b/t Boren Ave & Melrose Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill", 
+          "First Hill"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/tango-seattle", 
+      "name": "Tango", 
+      "phone": "2065830382", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 309, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/7Z9Y8G7FZUOclRorGvT4KQ/ms.jpg", 
+      "snippet_text": "Tango is one of the awesome establishments that truly deserves 10 stars, all sparkly and bright!  The food is incredibly fresh and prepared with a great...", 
+      "url": "http://www.yelp.com/biz/tango-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Diners", 
+          "diners"
+        ], 
+        [
+          "Seafood", 
+          "seafood"
+        ]
+      ], 
+      "display_phone": "+1-206-625-0129", 
+      "id": "steelhead-diner-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/-QcSPj6387GAT3etT_9lNw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "95 Pine St", 
+          "Pike Place Market"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.609555, 
+          "longitude": -122.3411965
+        }, 
+        "country_code": "US", 
+        "cross_streets": "1st Ave & Post Aly", 
+        "display_address": [
+          "95 Pine St", 
+          "Pike Place Market", 
+          "(b/t 1st Ave & Post Aly)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/steelhead-diner-seattle", 
+      "name": "Steelhead Diner", 
+      "phone": "2066250129", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 591, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/PooKT5wQQC6-kd5odnHufw/ms.jpg", 
+      "snippet_text": "I ordered the catfish tacos, which were surprisingly tasty, although the beans were a bit spicy and I can't handle spice at all. \n\nM got the trout which...", 
+      "url": "http://www.yelp.com/biz/steelhead-diner-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.616924350000005, 
+      "longitude": -122.36324535
+    }, 
+    "span": {
+      "latitude_delta": 0.14299637000000587, 
+      "longitude_delta": 0.10316976999999383
+    }
+  }, 
+  "total": 36
+}

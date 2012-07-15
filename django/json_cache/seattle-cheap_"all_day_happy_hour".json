@@ -1,0 +1,1025 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Italian", 
+          "italian"
+        ], 
+        [
+          "Tapas Bars", 
+          "tapas"
+        ]
+      ], 
+      "display_phone": "+1-206-441-1000", 
+      "id": "list-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/uU77aM3R7XOxE6HKJu1Wfg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2226 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6131587, 
+          "longitude": -122.3461187
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blanchard St & Bell St", 
+        "display_address": [
+          "2226 1st Ave", 
+          "(b/t Blanchard St & Bell St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/list-seattle", 
+      "name": "List", 
+      "phone": "2064411000", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 433, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/lKUO_J1JRNH3pbKK8U-Qeg/ms.jpg", 
+      "snippet_text": "This was one of the best meals we had in Seattle while there.  I'm skeptical of a place that has happy hour, feels cheap.  I will never think that again....", 
+      "url": "http://www.yelp.com/biz/list-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Karaoke", 
+          "karaoke"
+        ]
+      ], 
+      "display_phone": "+1-206-784-5701", 
+      "id": "waterwheel-lounge-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/_BV5JvqHJZFZGrQ_HMPSew/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "7034 15th Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6804937, 
+          "longitude": -122.3767594
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "7034 15th Ave NW", 
+          "Ballard", 
+          "Seattle, WA 98117"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98117", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/waterwheel-lounge-seattle", 
+      "name": "Waterwheel Lounge", 
+      "phone": "2067845701", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 105, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/0hRtuR3F1p0Nfiq3SzuqOA/ms.jpg", 
+      "snippet_text": "Tucked in and away from the street, I bottomed out trying to get up into the lot! My first time at the Waterwheel Lounge was last Sunday during the brunch...", 
+      "url": "http://www.yelp.com/biz/waterwheel-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pizza", 
+          "pizza"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-206-517-4000", 
+      "id": "a-pizza-mart-seattle-3", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/vZpvRMSQX37xo1-u7ptTtQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5026 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6652623, 
+          "longitude": -122.3130719
+        }, 
+        "country_code": "US", 
+        "cross_streets": "52nd St & 50th St", 
+        "display_address": [
+          "5026 University Way NE", 
+          "(b/t 52nd St & 50th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/a-pizza-mart-seattle-3", 
+      "name": "A Pizza Mart", 
+      "phone": "2065174000", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 71, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Nuq0s1weUBlTZbgPhrFtcg/ms.jpg", 
+      "snippet_text": "This is by far the most mysterious restaurant that I've visited in a long time. First of all, is the place I went to even the same that all these other...", 
+      "url": "http://www.yelp.com/biz/a-pizza-mart-seattle-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Japanese", 
+          "japanese"
+        ], 
+        [
+          "Asian Fusion", 
+          "asianfusion"
+        ], 
+        [
+          "Sushi Bars", 
+          "sushi"
+        ]
+      ], 
+      "display_phone": "+1-206-441-5637", 
+      "id": "wann-japanese-izakaya-seattle-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/eAVmcWnAs--kYy7JwYWMVA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2020 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612335, 
+          "longitude": -122.3424156
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "2020 2nd Ave", 
+          "Downtown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/wann-japanese-izakaya-seattle-2", 
+      "name": "Wann Japanese Izakaya", 
+      "phone": "2064415637", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 271, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/UIXuvcfrmOmrpXdxNEaUOw/ms.jpg", 
+      "snippet_text": "The most important thing to know: It's all-day Happy Hour on Mondays and Tuesdays. And their HH menu is awesome. It's a pretty big menu, and all of the...", 
+      "url": "http://www.yelp.com/biz/wann-japanese-izakaya-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Sports Bars", 
+          "sportsbars"
+        ]
+      ], 
+      "display_phone": "+1-206-599-4263", 
+      "id": "spectator-bar-and-grill-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/F2g191gSQ1e4zXU-SvMxuw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "529 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.62365, 
+          "longitude": -122.3566898
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "529 Queen Anne Ave N", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/spectator-bar-and-grill-seattle", 
+      "name": "Spectator Bar & Grill", 
+      "phone": "2065994263", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 70, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/Gt0xXA_9do2yFcQw5B6vIw/ms.jpg", 
+      "snippet_text": "Oh my. This is the best karaoke I've been to. . maybe ever. The song list is friggin fantastic, the sound is great and where are the bad karaoke singers?...", 
+      "url": "http://www.yelp.com/biz/spectator-bar-and-grill-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ]
+      ], 
+      "display_phone": "+1-206-325-6055", 
+      "id": "po-dog-hot-dogs-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/fV2GZBJP8il5nELjk48XUw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1009 E Union St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612879, 
+          "longitude": -122.318902
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1009 E Union St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "First Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "First Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/po-dog-hot-dogs-seattle", 
+      "name": "Po Dog Hot Dogs", 
+      "phone": "2063256055", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 263, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/4FlfCeQocbcX39g5c7O7mA/ms.jpg", 
+      "snippet_text": "Po Dog has a menu full of \"specialty wieners\" that I would never dream up on my own, like the Morning Glory Dog, with scrambled eggs, cheddar, and bacon....", 
+      "url": "http://www.yelp.com/biz/po-dog-hot-dogs-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Mexican", 
+          "mexican"
+        ]
+      ], 
+      "display_phone": "+1-206-322-9950", 
+      "id": "bimbos-cantina-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Wd9FPmVtkFOorhxevdtusQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1013 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6140157, 
+          "longitude": -122.3187799
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1013 E Pike St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/bimbos-cantina-seattle", 
+      "name": "Bimbo's Cantina", 
+      "phone": "2063229950", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 222, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/2fs78Bk1OLbOxSjWtRBtMA/ms.jpg", 
+      "snippet_text": "Darn decent tacos and yummy drinks. Like others have said - it's bar food (and good at that point). It's definitely worth a visit.", 
+      "url": "http://www.yelp.com/biz/bimbos-cantina-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Karaoke", 
+          "karaoke"
+        ]
+      ], 
+      "display_phone": "+1-206-302-7625", 
+      "id": "rock-box-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/hkhmb6rzlLG54vWpVjjufQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1603 Nagle Pl"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6160185, 
+          "longitude": -122.3200672
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1603 Nagle Pl", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/rock-box-seattle", 
+      "name": "Rock Box", 
+      "phone": "2063027625", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 174, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/hRJR1yIS5zH11csHvX3Bvg/ms.jpg", 
+      "snippet_text": "I went to this place with a few friends for the first time this past weekend, and can I just say that I fell in LOVE?!\n\nThis place is so hip, fun, and...", 
+      "url": "http://www.yelp.com/biz/rock-box-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-283-3900", 
+      "id": "sullys-lounge-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/7rwNKuGP7NxtFrOumZqcxw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1625 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.634123, 
+          "longitude": -122.3568579
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Garfield St & Blaine St", 
+        "display_address": [
+          "1625 Queen Anne Ave N", 
+          "(b/t Garfield St & Blaine St)", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sullys-lounge-seattle", 
+      "name": "Sully's Lounge", 
+      "phone": "2062833900", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 69, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/2tRU2IflGH9CMfwwPN3gwQ/ms.jpg", 
+      "snippet_text": "Tall Boy PBR's, Lamb Sliders and Sweet Potato Frys. Always a good time and friendly place. I miss Sully's!\n\nIf you go tell them Taylor G sent you. It will...", 
+      "url": "http://www.yelp.com/biz/sullys-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-322-0703", 
+      "id": "cha-cha-lounge-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Rfo6Sg-otozJAZ13mAIOCQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1013 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6139898, 
+          "longitude": -122.3187249
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1013 E Pike St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/cha-cha-lounge-seattle", 
+      "name": "Cha Cha Lounge", 
+      "phone": "2063220703", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 266, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Kh7gd8ySY0TC_nnUJ671xg/ms.jpg", 
+      "snippet_text": "After just moving back from Florida, I was looking to get myself situated with some cool bars in the area that I was moving to, so I went along with some...", 
+      "url": "http://www.yelp.com/biz/cha-cha-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Burgers", 
+          "burgers"
+        ]
+      ], 
+      "display_phone": "+1-206-623-3178", 
+      "id": "burger-madness-seattle-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/-og1EalLx4CQ8DwGJy1ebw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4117 4th Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5668551, 
+          "longitude": -122.3294498
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Industrial Way", 
+        "display_address": [
+          "4117 4th Ave S", 
+          "(b/t Industrial Way)", 
+          "SODO", 
+          "Seattle, WA 98134"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "SODO"
+        ], 
+        "postal_code": "98134", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/burger-madness-seattle-seattle", 
+      "name": "Burger Madness Seattle", 
+      "phone": "2066233178", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 88, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/snCYVBX-0MNrJdGbihLgrQ/ms.jpg", 
+      "snippet_text": "Great selection of burgers, sauces, meats, etc. I had the California burger, and though the burger patty itself was definitely over-cooked for MY tastes (I...", 
+      "url": "http://www.yelp.com/biz/burger-madness-seattle-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "French", 
+          "french"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-783-4004", 
+      "id": "gainsbourg-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/y3lhWmV_Ft9a4YQOvFiYCA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8550 Greenwood Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.691419, 
+          "longitude": -122.354824
+        }, 
+        "country_code": "US", 
+        "cross_streets": "85th St & 87th St", 
+        "display_address": [
+          "8550 Greenwood Ave N", 
+          "(b/t 85th St & 87th St)", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/gainsbourg-seattle", 
+      "name": "Gainsbourg", 
+      "phone": "2067834004", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 175, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/VgghjskSAzD8ty8DhH-bNw/ms.jpg", 
+      "snippet_text": "This is my favorite place to eat some great food with some great cocktails, and unwind from the rush. When I feel like dressing up a little bit, I'll go...", 
+      "url": "http://www.yelp.com/biz/gainsbourg-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Mexican", 
+          "mexican"
+        ], 
+        [
+          "Fast Food", 
+          "hotdogs"
+        ]
+      ], 
+      "display_phone": "+1-206-405-3400", 
+      "id": "mexico-city-tapas-y-tacos-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/uO9-OIPNPf1Rl8XAurbJdA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Pacific Place Center", 
+          "600 Pine St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612427, 
+          "longitude": -122.335349
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Pacific Place Center", 
+          "600 Pine St", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/mexico-city-tapas-y-tacos-seattle", 
+      "name": "Mexico City Tapas y Tacos", 
+      "phone": "2064053400", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 12, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/ld6rdIDdgivnRTHs2tu5qA/ms.jpg", 
+      "snippet_text": "Literally one of my go to spots for lunch everyday.l \nI love the lunch combos they offer! My absolute favorite one is the quesadilla and tortilla soup combo...", 
+      "url": "http://www.yelp.com/biz/mexico-city-tapas-y-tacos-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Japanese", 
+          "japanese"
+        ], 
+        [
+          "Sushi Bars", 
+          "sushi"
+        ]
+      ], 
+      "display_phone": "+1-206-971-7979", 
+      "id": "japonessa-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/vucCrknnlu1RRvRaKWwovQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1400 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6079623, 
+          "longitude": -122.3391955
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Union St & Pike St", 
+        "display_address": [
+          "1400 1st Ave", 
+          "(b/t Union St & Pike St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/japonessa-seattle", 
+      "name": "Japonessa", 
+      "phone": "2069717979", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 622, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/j3ki3aHX8jJn-ehFzRUpMA/ms.jpg", 
+      "snippet_text": "I had heard so many good things about this place. I wonder why I had not gone to this place sooner!\n\nLast Monday was my first visit. I was there with 3...", 
+      "url": "http://www.yelp.com/biz/japonessa-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Gastropubs", 
+          "gastropubs"
+        ], 
+        [
+          "Sports Bars", 
+          "sportsbars"
+        ]
+      ], 
+      "display_phone": "+1-206-402-4606", 
+      "id": "the-bridge-seattle-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/hMec3Nv0GDOJ-aiYXgOhyA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4439 35th Ave SW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5633841, 
+          "longitude": -122.3762979
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Avalon Way", 
+        "display_address": [
+          "4439 35th Ave SW", 
+          "(b/t Avalon Way)", 
+          "West Seattle", 
+          "Seattle, WA 98126"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "West Seattle"
+        ], 
+        "postal_code": "98126", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-bridge-seattle-2", 
+      "name": "The Bridge", 
+      "phone": "2064024606", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 43, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/WbFOC19ZybVII6Su_JiMew/ms.jpg", 
+      "snippet_text": "Ok - it is not fancy shmancy, trendy, or hip - but did I just get served by the nicest bartender in town? Not only did he ask our names, but he shook our...", 
+      "url": "http://www.yelp.com/biz/the-bridge-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Modern European", 
+          "modern_european"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-448-9000", 
+      "id": "sarajevo-lounge-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/iQ1bQzyBoQYl1pupYwPbxA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2332 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6140319, 
+          "longitude": -122.3474354
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Bell St & State Route 99", 
+        "display_address": [
+          "2332 1st Ave", 
+          "(b/t Bell St & State Route 99)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sarajevo-lounge-seattle", 
+      "name": "Sarajevo Lounge", 
+      "phone": "2064489000", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 26, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/Ok6QeUcqsyAh3I2qwC200w/ms.jpg", 
+      "snippet_text": "We came here to celebrate a birthday party for a good buddy, Jorge B.  \n\nDark everything interior...the decor, floor and black chairs / booths. Only...", 
+      "url": "http://www.yelp.com/biz/sarajevo-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Sushi Bars", 
+          "sushi"
+        ], 
+        [
+          "Japanese", 
+          "japanese"
+        ]
+      ], 
+      "display_phone": "+1-206-441-6044", 
+      "id": "wasabi-bistro-japanese-restaurant-and-sushi-bar-seattle-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/vd-qPebH6HzxW8bc0t3pNg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2311 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6141099, 
+          "longitude": -122.346386
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Bell St & Battery St", 
+        "display_address": [
+          "2311 2nd Ave", 
+          "(b/t Bell St & Battery St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/wasabi-bistro-japanese-restaurant-and-sushi-bar-seattle-2", 
+      "name": "Wasabi Bistro Japanese Restaurant & Sushi Bar", 
+      "phone": "2064416044", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 527, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/KdmTXHqbzFJq21WCQq6k6g/ms.jpg", 
+      "snippet_text": "The service is okay. They should bring dishes more gently. \nThe food is awesome ;-)\nAn atmosphere is okay. too loud to eat nice dinner. too dark to read menu..", 
+      "url": "http://www.yelp.com/biz/wasabi-bistro-japanese-restaurant-and-sushi-bar-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Wine Bars", 
+          "wine_bars"
+        ], 
+        [
+          "Restaurants", 
+          "restaurants"
+        ]
+      ], 
+      "display_phone": "+1-206-547-3232", 
+      "id": "smash-wine-bar-and-bistro-seattle-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Gs1woX1DGz-JeRq8HnGkEA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1401 N 45th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.661161, 
+          "longitude": -122.340341
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Interlake Ave & N Woodlawn Ave", 
+        "display_address": [
+          "1401 N 45th St", 
+          "(b/t N Interlake Ave & N Woodlawn Ave)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/smash-wine-bar-and-bistro-seattle-2", 
+      "name": "Smash Wine Bar & Bistro", 
+      "phone": "2065473232", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 159, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/4cDV8gnFaRGF5xYV6UTOyg/ms.jpg", 
+      "snippet_text": "Microsoft Prime 2012-2013\nSmashing success \nAmbience: 4\nFood: 4\nValue: 4\nIn the heart of Wallingford, Smash Wine and Bistro is a smashing hit. I thoroughly...", 
+      "url": "http://www.yelp.com/biz/smash-wine-bar-and-bistro-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-783-0478", 
+      "id": "hazlewood-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/cKK18VOXadZQHP_ZJwHOxw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2311 NW Market St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6685895, 
+          "longitude": -122.3867665
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 24th Ave & N Ballard Ave", 
+        "display_address": [
+          "2311 NW Market St", 
+          "(b/t N 24th Ave & N Ballard Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hazlewood-seattle", 
+      "name": "Hazlewood", 
+      "phone": "2067830478", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 197, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/iE2Zi9umQ3c-fRvqQsPtfw/ms.jpg", 
+      "snippet_text": "Ballard feeling a little too wholesome lately?\n\nHazelwood is stroller-free and smoker-friendly. It's a tiny place with an elegantly dingy upstairs lounge...", 
+      "url": "http://www.yelp.com/biz/hazlewood-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Seafood", 
+          "seafood"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-206-632-0767", 
+      "id": "ivars-salmon-house-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/PFiU7WtVwtsFZerdGlKY7Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "401 NE Northlake Way"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6536199, 
+          "longitude": -122.324049
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "401 NE Northlake Way", 
+          "Wallingford", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/ivars-salmon-house-seattle", 
+      "name": "Ivar's Salmon House", 
+      "phone": "2066320767", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 438, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/xa9jiVS49rgxt4V4jsnfQw/ms.jpg", 
+      "snippet_text": "Did any other reviewer mention that happy hour at the lounge is from 3 to close everyday? Yeah? Dammit, people, that's supposed to be a secret! Now I'll...", 
+      "url": "http://www.yelp.com/biz/ivars-salmon-house-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.62740155, 
+      "longitude": -122.34991919999999
+    }, 
+    "span": {
+      "latitude_delta": 0.14083838999999898, 
+      "longitude_delta": 0.08106405999998856
+    }
+  }, 
+  "total": 67
+}

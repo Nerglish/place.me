@@ -1,0 +1,1006 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-342-9160", 
+      "id": "deja-vu-showgirls-seattle-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/t7_tmzZtCaZMoo_kQhUuIA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1510 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.609246, 
+          "longitude": -122.339941
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1510 1st Ave", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/deja-vu-showgirls-seattle-2", 
+      "name": "Deja Vu Showgirls", 
+      "phone": "2063429160", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 19, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Hb1c1W32HFvYjCXcRO1B7A/ms.jpg", 
+      "snippet_text": "This is my favorite club in Washington . They do a great picking the women that work there  . Sure they have some bad apple just like any other club but...", 
+      "url": "http://www.yelp.com/biz/deja-vu-showgirls-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-623-0183", 
+      "id": "little-darlings-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/MGYbWE4TJKIpUVZMo2LJbw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2027 7th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6153158, 
+          "longitude": -122.3379265
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Lenora St & Westlake Ave", 
+        "display_address": [
+          "2027 7th Ave", 
+          "(b/t Lenora St & Westlake Ave)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/little-darlings-seattle", 
+      "name": "Little Darlings", 
+      "phone": "2066230183", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 10, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/V4bh093YFmO_oX-O8RXN6Q/ms.jpg", 
+      "snippet_text": "This club has a cover fee of $20 - $10 just to get in, plus $10 for unlimited drinks.  (Disclaimer:  Because, for whatever ridiculous reason, strip clubs in...", 
+      "url": "http://www.yelp.com/biz/little-darlings-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-783-8534", 
+      "id": "centerfolds-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/hbkFYWjvFLkoRRcUbAC_TQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8517 15th Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.691138, 
+          "longitude": -122.377162
+        }, 
+        "country_code": "US", 
+        "cross_streets": "85th St & 87th St", 
+        "display_address": [
+          "8517 15th Ave NW", 
+          "(b/t 85th St & 87th St)", 
+          "Ballard", 
+          "Seattle, WA 98117"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98117", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/centerfolds-seattle", 
+      "name": "Centerfolds", 
+      "phone": "2067838534", 
+      "rating": 2.0, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263489049252/img/ico/stars/stars_2.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/20120626220207235/img/ico/stars/stars_large_2.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206264278297776/img/ico/stars/stars_small_2.png", 
+      "review_count": 8, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/UT_fJDmScorf0VYsyvMSlw/ms.jpg", 
+      "snippet_text": "HA!  I don't really know where to begin.  First, I hope that none of my co-workers ever read this... but if they are, then I guess they're planning to go...", 
+      "url": "http://www.yelp.com/biz/centerfolds-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-624-1784", 
+      "id": "dejavu-adult-superstore-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/zJkCYfDNQXvvsEr9VMO07Q/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1510 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.609246, 
+          "longitude": -122.339941
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1510 1st Ave", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/dejavu-adult-superstore-seattle", 
+      "name": "Dejavu Adult Superstore", 
+      "phone": "2066241784", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 6, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/avVOx5GR060AdakG7GdbeA/ms.jpg", 
+      "snippet_text": "PORN...and it's clean...what more do you want?", 
+      "url": "http://www.yelp.com/biz/dejavu-adult-superstore-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-264-2428", 
+      "id": "hooverville-bar-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/j0uOqgHJhelovB9aWBCbWQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1721 1st Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5879836, 
+          "longitude": -122.3342446
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Massachusetts St & Holgate St", 
+        "display_address": [
+          "1721 1st Ave S", 
+          "(b/t Massachusetts St & Holgate St)", 
+          "SODO", 
+          "Seattle, WA 98134"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "SODO"
+        ], 
+        "postal_code": "98134", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hooverville-bar-seattle", 
+      "name": "Hooverville Bar", 
+      "phone": "2062642428", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 93, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/jMcGofimbPYnXfS8ETOb9g/ms.jpg", 
+      "snippet_text": "Great beer, peanuts, & vibe!", 
+      "url": "http://www.yelp.com/biz/hooverville-bar-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-340-0777", 
+      "id": "cowgirls-seattle-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Qexr5UVdCaHXMPXKc7GB1g/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "421 1st Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.598459, 
+          "longitude": -122.334295
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Jackson St & King St", 
+        "display_address": [
+          "421 1st Ave S", 
+          "(b/t Jackson St & King St)", 
+          "Pioneer Square", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Pioneer Square"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/cowgirls-seattle-2", 
+      "name": "Cowgirls", 
+      "phone": "2063400777", 
+      "rating": 2.0, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263489049252/img/ico/stars/stars_2.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/20120626220207235/img/ico/stars/stars_large_2.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206264278297776/img/ico/stars/stars_small_2.png", 
+      "review_count": 77, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/mnouwBTx5qXgeJIrLmS-wQ/ms.jpg", 
+      "snippet_text": "Went here on my first night in Seattle.  The group I was with didn't seem to have a high opinion of this place but I thought it was the best place we went...", 
+      "url": "http://www.yelp.com/biz/cowgirls-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-903-8480", 
+      "id": "the-hideout-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/qZvEg4oWQAcN2dRr0yiFLQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1005 Boren Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6093837, 
+          "longitude": -122.3251864
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1005 Boren Ave", 
+          "First Hill", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "First Hill"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-hideout-seattle", 
+      "name": "The Hideout", 
+      "phone": "2069038480", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 187, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/Q_dvuTGbAIOx5TL43k8vpg/ms.jpg", 
+      "snippet_text": "\"Decadence is a difficult word to use since it has become little more than a term of abuse applied by critics to anything they do not yet understand or...", 
+      "url": "http://www.yelp.com/biz/the-hideout-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Restaurants", 
+          "restaurants"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Karaoke", 
+          "karaoke"
+        ]
+      ], 
+      "display_phone": "+1-206-706-4973", 
+      "id": "t-bird-tavern-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/vMFywVzKpd92DsBhteKvoA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "7515 15th Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.68371, 
+          "longitude": -122.377135
+        }, 
+        "country_code": "US", 
+        "cross_streets": "75th St & 77th St", 
+        "display_address": [
+          "7515 15th Ave NW", 
+          "(b/t 75th St & 77th St)", 
+          "Ballard", 
+          "Seattle, WA 98117"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98117", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/t-bird-tavern-seattle-2", 
+      "name": "T-Bird Tavern", 
+      "phone": "2067064973", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 5, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/OXJjJ84jj_l9SLLeib33Xg/ms.jpg", 
+      "snippet_text": "Classic total dive bar located, symbiotically, right next door to a strip club. The bartender's super friendly, and there are often drunken, loud, but happy...", 
+      "url": "http://www.yelp.com/biz/t-bird-tavern-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Music Venues", 
+          "musicvenues"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ]
+      ], 
+      "display_phone": "+1-206-628-3151", 
+      "id": "showbox-at-the-market-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/ppIFKG9fT7puna6Mbinj4w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1426 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6083429, 
+          "longitude": -122.3395819
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Union St", 
+        "display_address": [
+          "1426 1st Ave", 
+          "(b/t Pike St & Union St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/showbox-at-the-market-seattle", 
+      "name": "Showbox at the Market", 
+      "phone": "2066283151", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 205, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/yh1YEFeyvXvtoEyIPLibDg/ms.jpg", 
+      "snippet_text": "Came here for the SOJA concert.  Man what a great difference from El Corazon!  This venue had everything I've always wished for in a bar/club.  The bouncers...", 
+      "url": "http://www.yelp.com/biz/showbox-at-the-market-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-709-1399", 
+      "id": "honeyhole-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/DLCgJ14E-LIr-RfthcKOaA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "703 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6139888, 
+          "longitude": -122.323152
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Boylston Ave & Harvard Ave", 
+        "display_address": [
+          "703 E Pike St", 
+          "(b/t Boylston Ave & Harvard Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/honeyhole-seattle", 
+      "name": "HoneyHole", 
+      "phone": "2067091399", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 514, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/a0qCal2FzOdvQQqDtfiucQ/ms.jpg", 
+      "snippet_text": "I can't believe I've never written a review about this place.  Since I first came to this city this has more or less been my go to Capitol Hill sandwich...", 
+      "url": "http://www.yelp.com/biz/honeyhole-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-362-5851", 
+      "id": "deja-vu-lake-forest-park", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/-T2xumfS632Sw5uu3Ll3ww/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "14556 Bothell Way NE"
+        ], 
+        "city": "Lake Forest Park", 
+        "coordinate": {
+          "latitude": 47.7344318, 
+          "longitude": -122.2924207
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "14556 Bothell Way NE", 
+          "Lake Forest Park, WA 98155"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98155", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/deja-vu-lake-forest-park", 
+      "name": "Deja Vu", 
+      "phone": "2063625851", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 11, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Hb1c1W32HFvYjCXcRO1B7A/ms.jpg", 
+      "snippet_text": "Of the three lake city strip clubs this Is my favorite hands down . First all it has the large main and a smaller second stage . They are as does something...", 
+      "url": "http://www.yelp.com/biz/deja-vu-lake-forest-park"
+    }, 
+    {
+      "categories": [
+        [
+          "Adult Entertainment", 
+          "adultentertainment"
+        ]
+      ], 
+      "display_phone": "+1-206-248-1327", 
+      "id": "deja-vu-showgirls-tukwila-2", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "15011 Tukwila International Blvd"
+        ], 
+        "city": "Tukwila", 
+        "coordinate": {
+          "latitude": 47.4683154, 
+          "longitude": -122.2874043
+        }, 
+        "country_code": "US", 
+        "cross_streets": "150th St & 152nd St", 
+        "display_address": [
+          "15011 Tukwila International Blvd", 
+          "(b/t 150th St & 152nd St)", 
+          "Tukwila, WA 98188"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98188", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/deja-vu-showgirls-tukwila-2", 
+      "name": "Deja Vu Showgirls", 
+      "phone": "2062481327", 
+      "rating": 1.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262480304591/img/ico/stars/stars_1.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206263480014692/img/ico/stars/stars_large_1.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/20120626926385439/img/ico/stars/stars_small_1.png", 
+      "review_count": 2, 
+      "snippet_image_url": "http://media3.ak.yelpcdn.com/static/201206261986305257/img/gfx/blank_user_medium.gif", 
+      "snippet_text": "Can't believe I am writing a review for a strip club.  There was one review already... Me and some friends decided to have a guy's night.  What a shit hole....", 
+      "url": "http://www.yelp.com/biz/deja-vu-showgirls-tukwila-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ]
+      ], 
+      "display_phone": "+1-206-223-1333", 
+      "id": "noc-noc-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Y8fW37oEI5xTI27hTmkW5Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1516 2nd Ave", 
+          "Ste 104"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.609923, 
+          "longitude": -122.339018
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Pine St", 
+        "display_address": [
+          "1516 2nd Ave", 
+          "Ste 104", 
+          "(b/t Pike St & Pine St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/noc-noc-seattle", 
+      "name": "Noc Noc", 
+      "phone": "2062231333", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 240, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/_VfWkUTQDe1QTMbg0jF1Xg/ms.jpg", 
+      "snippet_text": "Best Halloween Party I've EVER been to. Love the staff, the bouncers, and the newest addition to the staff, the pup at the front door.\n\nTry the Long Island!...", 
+      "url": "http://www.yelp.com/biz/noc-noc-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Karaoke", 
+          "karaoke"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-284-5003", 
+      "id": "hula-hula-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/TSxRJb4r1RKIjuJDgxpkCQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "106 1st Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6188986, 
+          "longitude": -122.3552531
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "106 1st Ave N", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hula-hula-seattle", 
+      "name": "Hula Hula", 
+      "phone": "2062845003", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 116, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/hycea1SE4e1Q-3tI0u4Mgw/ms.jpg", 
+      "snippet_text": "+ Half price food for happy hour!\n+ Super rad and friendly staff!\n+ Helluva goofy/fun tiki drink menu!\n+ Karaoke every day at 9pm!\n+ Tons of room for big...", 
+      "url": "http://www.yelp.com/biz/hula-hula-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Restaurants", 
+          "restaurants"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Music Venues", 
+          "musicvenues"
+        ]
+      ], 
+      "display_phone": "+1-206-748-9975", 
+      "id": "the-last-supper-club-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/DNE6kyUajQ64v0hOuRTWng/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "124 S Washington St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6009961, 
+          "longitude": -122.3331261
+        }, 
+        "country_code": "US", 
+        "cross_streets": "S 1st Ave & S Occidental Ave", 
+        "display_address": [
+          "124 S Washington St", 
+          "(b/t S 1st Ave & S Occidental Ave)", 
+          "Pioneer Square", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Pioneer Square"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-last-supper-club-seattle", 
+      "name": "The Last Supper Club", 
+      "phone": "2067489975", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 109, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/HnQpDAylvpg84EmZRT86-Q/ms.jpg", 
+      "snippet_text": "Awesome music, GORGEOUS establishment, beautiful gogo dancers and great people! LSC is an awesome place to dance and socialize. Wednesdays are no cover with...", 
+      "url": "http://www.yelp.com/biz/the-last-supper-club-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-623-2222", 
+      "id": "pnk-restaurant-and-ultra-lounge-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/4f8uh8TPAvk1dbW2aRyNvg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "600 Pine St", 
+          "4th Fl"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612427, 
+          "longitude": -122.335349
+        }, 
+        "country_code": "US", 
+        "cross_streets": "7th Ave & 6th Ave", 
+        "display_address": [
+          "600 Pine St", 
+          "4th Fl", 
+          "(b/t 7th Ave & 6th Ave)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/pnk-restaurant-and-ultra-lounge-seattle", 
+      "name": "PNK Restaurant and Ultra Lounge", 
+      "phone": "2066232222", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 205, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/dbZCfrAl0V-yhqeIpxJDrQ/ms.jpg", 
+      "snippet_text": "I've been here for HH on a Sunday during football season and it was pretty good. $3 beers and $5 appetizers, can't complain. The decor is very nice and has...", 
+      "url": "http://www.yelp.com/biz/pnk-restaurant-and-ultra-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-749-5639", 
+      "id": "joey-lake-union-seattle-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/FuzZamQjcTkkVQZgX2Naww/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "901 Fairview Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.627797, 
+          "longitude": -122.333546
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "901 Fairview Ave N", 
+          "Seattle, WA 98108"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98108", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/joey-lake-union-seattle-2", 
+      "name": "Joey Lake Union", 
+      "phone": "2067495639", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 244, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/wDqMa9QCEA4Oi7XCI0YlYA/ms.jpg", 
+      "snippet_text": "Where to start? The food was great, the location was great and the service was PERFECT!. My hubby and I were in town for our anniversary and heard that this...", 
+      "url": "http://www.yelp.com/biz/joey-lake-union-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Dim Sum", 
+          "dimsum"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-264-1789", 
+      "id": "o-asian-kitchen-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Rciq1z0GzmOCbl4WXWdzvg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "800 5th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6057281, 
+          "longitude": -122.3304652
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "800 5th Ave", 
+          "Downtown", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/o-asian-kitchen-seattle", 
+      "name": "O'Asian Kitchen", 
+      "phone": "2062641789", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 174, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/OQlvNV9BOMkJKc_tDf3DcA/ms.jpg", 
+      "snippet_text": "Good, not great dim sum at 1pm on Sunday...  No wait for the 5.5 of us.  Validated free parking.  Food was good, hot and expensive.  Monkey gonna wait for...", 
+      "url": "http://www.yelp.com/biz/o-asian-kitchen-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-425-637-1177", 
+      "id": "joey-bellevue-bellevue", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/h4-6QdhbUk8QH2f82fJMDw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "800 Bellevue Way NE", 
+          "Ste 118"
+        ], 
+        "city": "Bellevue", 
+        "coordinate": {
+          "latitude": 47.6178979, 
+          "longitude": -122.200556
+        }, 
+        "country_code": "US", 
+        "cross_streets": "8th St & S 104th Ave", 
+        "display_address": [
+          "800 Bellevue Way NE", 
+          "Ste 118", 
+          "(b/t 8th St & S 104th Ave)", 
+          "Bellevue, WA 98004"
+        ], 
+        "geo_accuracy": 9, 
+        "postal_code": "98004", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/joey-bellevue-bellevue", 
+      "name": "Joey Bellevue", 
+      "phone": "4256371177", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 232, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/fIgJ3q9SjiC5txnWhMN3Zw/ms.jpg", 
+      "snippet_text": "I've been many times and I wasn't a fan previously, but now I'm enjoying it!  Why you ask?  The customer service has improved like you wouldn't believe!  I...", 
+      "url": "http://www.yelp.com/biz/joey-bellevue-bellevue"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-425-454-6862", 
+      "id": "munchbar-bellevue", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/9wdg94EWsNW4ekmWRy5yWw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "505 Bellevue Sq"
+        ], 
+        "city": "Bellevue", 
+        "coordinate": {
+          "latitude": 47.6162312842045, 
+          "longitude": -122.202987670898
+        }, 
+        "country_code": "US", 
+        "cross_streets": "4th St & Wolverine Way", 
+        "display_address": [
+          "505 Bellevue Sq", 
+          "(b/t 4th St & Wolverine Way)", 
+          "Bellevue, WA 98004"
+        ], 
+        "geo_accuracy": 9, 
+        "postal_code": "98004", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/munchbar-bellevue", 
+      "name": "Munchbar", 
+      "phone": "4254546862", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 204, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/DTXx-pbdhSSz2AUUXN8cog/ms.jpg", 
+      "snippet_text": "Went here around 6pm on a Saturday night and the place was pretty slow, but I know it was very early in the evening. The front desk young women were...", 
+      "url": "http://www.yelp.com/biz/munchbar-bellevue"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6013736, 
+      "longitude": -122.288859
+    }, 
+    "span": {
+      "latitude_delta": 0.2927280400000001, 
+      "longitude_delta": 0.19426659999999174
+    }
+  }, 
+  "total": 21
+}

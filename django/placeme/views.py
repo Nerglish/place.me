@@ -1,4 +1,5 @@
 import os, oauth2, urllib, urllib2, json
+import re
 from django.shortcuts import render 
 from django.views.decorators.http import require_GET
 from django.utils import simplejson

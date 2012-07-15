@@ -8,6 +8,7 @@
 <script type="text/javascript">
 var hotel_pins = [];
 var yelp_api = {};
+var yelp_key = []; // store ordered
 var hotels = {};
 var shown_hotels = [];
 var heatmap_radios = [];
@@ -17,12 +18,24 @@ $(function () {
     loadAPIData('fremont, seattle', 'hotels', hotels, 'fremont');
     loadAPIData('ballard, seattle', 'hotels', hotels, 'ballard');
     loadAPIData('downtown, seattle', 'hotels', hotels, 'downtown');
-    loadAPIData('seattle', 'gay', yelp_api, 'gay');
-    loadAPIData('seattle', 'family', yelp_api, 'family');
-    loadAPIData('seattle', 'hipster', yelp_api, 'hipster');
+
+    loadAPIData('seattle', 'hipster PBR trendy hip', yelp_api, 'Hipsters');
+    loadAPIData('seattle', 'cheap "all day happy hour"', yelp_api, 'Penny Pinchers');
+    loadAPIData('seattle', 'boutique', yelp_api, 'Boutique Shoppers');
+    loadAPIData('seattle', 'foodie organic "locally sourced" truffle', yelp_api, 'Foodies');
+    loadAPIData('seattle', 'family fun kid-friendly "family friendly"', yelp_api, 'Kids & Families');
+    loadAPIData('seattle', 'dog-friendly dog', yelp_api, 'Dogs');
+    loadAPIData('seattle', 'nerd gamer', yelp_api, 'Nerds');
+    loadAPIData('seattle', 'strip club', yelp_api, 'Lust Seekers');
+    loadAPIData('seattle', 'gay "gay-friendly" lesbian', yelp_api, 'Gays');
+    loadAPIData('seattle', 'mugged sketchy', yelp_api, 'Bad Guys');
 });
 
+
 function loadAPIData(loc, term, root, key) {
+    if(root == yelp_api) { 
+        yelp_key.push(key);
+    }
     $.ajax({
         url: "/api/",
         data: { 'location': loc, 'term': term },
@@ -47,7 +60,8 @@ function selectHotel(h, hotel_id) {
 
 function setHeatmapRadios() {
     var new_hm_radios = [];
-    for (var k in yelp_api) {
+    for (var i in yelp_key) {
+        var k = yelp_key[i];
         new_hm_radios.push({key:k, name: k.charAt(0).toUpperCase() + k.slice(1)});
     }
     heatmap_radios = new_hm_radios;
@@ -280,14 +294,18 @@ function toggleAllHotels() {
           </div><!--/.well -->
         </div><!--/span-->
         <div class="span9">
-<div id="heatmap-radios" class="tmpl-cont" objPath="heatmap_radios">
-    <script type="text/x-jquery-tmpl">
-    <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
-    </script>
-</div>
+          <div id="heatmap-buttons" style="inline">
+            <!-- THIS SHOULD BE INLINE... GRRRRRR -->
+            <button class="btn btn-warning redrawable">Show places friendly to:</button>
+            <div id="heatmap-radios" class="tmpl-cont" objPath="heatmap_radios">
+              <script type="text/x-jquery-tmpl">
+                <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
+              </script>
+            </div>
+          </div>
 
           <div id="map-wrapper">
-          <div id="map_canvas"></div>
+            <div id="map_canvas"></div>
           </div>
 <div id="ghetto-hack-1">
 <img src="{{ STATIC_URL }}img/hotel-tab.png" />
