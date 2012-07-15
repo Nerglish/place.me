@@ -99,10 +99,10 @@
             if (status == google.maps.GeocoderStatus.OK) {
                 console.log(results[0].geometry.location);
                 map.setCenter(results[0].geometry.location);
-                var marker = new google.maps.Marker({
-                        map : map,
-                        position : results[0].geometry.location
-                });
+                //var marker = new google.maps.Marker({
+                //        map : map,
+                //        position : results[0].geometry.location
+                //});
             } else {
                     console.log("Geocode was not successful for the following reason: " + status);
             }
@@ -136,7 +136,7 @@ footer { color: gray; }
     </div>
 #}
 <div id="heading" class="container">
-    <img src="{{ STATIC_URL }}/img/logo.png" style="background-color:gray; width:200px; height:50px;"/>
+    <img src="{{ STATIC_URL }}/img/logo.png" />
 </div>
 
     <div class="container">
@@ -147,22 +147,22 @@ footer { color: gray; }
               <li class="nav-header">Location</li>
               <li id="location">
                 <form>
-                    <input type="text"></input>
+                    <input id="location-input" type="text" value="Seattle, WA"></input>
                 </form>
               </li>
               <li class="nav-header">Terms</li>
-              <li id="terms">
+              <li id="keyword">
                 <form>
-                    <input type="text"></input>
+                    <input id="keyword-input" type="text"></input>
                 </form>
               </li>
               <li><a href="#" onclick="activateYelpHeatmap('family')">Family</a></li>
               <li><a href="#" onclick="activateYelpHeatmap('hipster')">Hipster</a></li>
               <li><a href="#" onclick="activateYelpHeatmap('gay')">Gay</a></li>
               <li class="nav-header">Add more places</li>
-              <li id="add-poi">
+              <li id="poi">
                 <form>
-                    <input type="text"></input>
+                    <input id="poi-input" type="text"></input>
                 </form>
               </li>
               <li><a href="#">Link</a></li>
@@ -184,7 +184,32 @@ footer { color: gray; }
       </footer>
 
 <script>
-$(function {
+function init() {
+    $(".sidebar-nav #location form").submit(function() {
+        var $form=$(this);
+        codeAddress();
+        return false;
+    });
+    $(".sidebar-nav #keyword form").submit(function() {
+        var $form=$(this);
+        var keyword = $form.find("#keyword-input").attr("value");
+        console.log(keyword);
+        var el = $("<li/>", {
+            text:'<a href="#">keyword</a>'
+        })
+        $form.parent().after(el);
+        return false;
+    });
+    $(".sidebar-nav #poi form").submit(function() {
+        var $form=$(this);
+        var keyword = $form.find("#poi-input").attr("value");
+        console.log(keyword);
+        return false;
+    });
+}
+
+$(function() {
+    init()
 });
 </script>
 
