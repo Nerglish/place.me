@@ -4,6 +4,18 @@
 <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 <script type="text/javascript">
 var hotel_pins = [];
+var transit_layer = null;
+
+function toggleTransit() {
+    if (!transit_layer) {
+        transit_layer = new google.maps.TransitLayer();
+    }
+    if (transit_layer.getMap()) {
+        transit_layer.setMap(null);
+    } else {
+        transit_layer.setMap(map);
+    }
+}
 
 function yelpToCoordList(yelp_result) {
     var ret_list = [];
@@ -39,7 +51,8 @@ function toggleAllHotels() {
             var pt = hotels.full_list[i];
             hotel_pins.push(new google.maps.Marker({
                 position: pt, 
-                map: map
+                map: map,
+                icon: 'img/icons/hotel.png'
             }));
         }
     }
@@ -180,7 +193,8 @@ var hotels = {}
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
     <input class="btn" type="button" value="Lookup" onclick="codeAddress()">
-    <input class="btn" type="button" value="Hotel Show" onclick="toggleAllHotels()">
+    <input class="btn" type="button" value="Hotel Toggle" onclick="toggleAllHotels()">
+    <input class="btn" type="button" value="Transit Toggle" onclick="toggleTransit()">
   </div>
   <div>
   	<button class="btn" onclick="activateYelpHeatmap('family')">Show Family Heatmap</button>
