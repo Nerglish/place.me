@@ -3,6 +3,8 @@
 <head>
 <script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 <script type="text/javascript">
+var hotel_pins = [];
+
 function yelpToCoordList(yelp_result) {
     var ret_list = [];
     for (var i = 0; i < yelp_result.businesses.length; i++) {
@@ -22,9 +24,24 @@ function loadFullHotelCoordList() {
     hotels.full_list = full_list;
 }
 
+function clearHotelPins() {
+    for (var i in hotel_pins) {
+        hotel_pins[i].setMap(null);
+    }
+    hotel_pins = [];
+}
+
 function toggleAllHotels() {
-    for (var pt in hotels.full_list) {
-        new google.maps.Marker({position: pt, map: map})
+    if (hotel_pins.length > 0) {
+        clearHotelPins();
+    } else {
+        for (var i in hotels.full_list) {
+            var pt = hotels.full_list[i];
+            hotel_pins.push(new google.maps.Marker({
+                position: pt, 
+                map: map
+            }));
+        }
     }
 }
 
@@ -163,6 +180,7 @@ var hotels = {}
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
     <input class="btn" type="button" value="Lookup" onclick="codeAddress()">
+    <input class="btn" type="button" value="Hotel Show" onclick="toggleAllHotels()">
   </div>
   <div>
   	<button class="btn" onclick="activateYelpHeatmap('family')">Show Family Heatmap</button>
