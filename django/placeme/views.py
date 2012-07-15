@@ -1,36 +1,61 @@
-from django.shortcuts import render, redirect
-from django.http import Http404
-from django.contrib.auth.decorators import login_required
-from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
-from django.core.urlresolvers import reverse
-from django.contrib.auth import login as base_login
-from django.contrib.auth.models import User
-from django.contrib.auth.views import logout as base_logout_view
-from django.views.decorators.http import require_GET, require_POST
-from django.template import RequestContext
-from django.template.loader import render_to_string
+import oauth2, urllib, urllib2, json
+from django.shortcuts import render 
+from django.views.decorators.http import require_GET
+from django.utils import simplejson
+from django.http import HttpResponse
+
+CONSUMER_KEY = "KthO8dNdeYTgBFnBlIIdHA" 
+CONSUMER_SECRET = "Tm8COLLLfk2U5_YQmBEpSZtN6p4" 
+TOKEN = "wQqdIJKCWDFNTSunGYjsoC-ebF3qy7lo" 
+TOKEN_SECRET = "IXMeyVMwlKawX9yNJxCBXS-Zo4Y"
+
+def yelp_request(url_params, host='api.yelp.com', path='/v2/search'):
+  """Returns response for API request."""
+  # Unsigned URL
+  encoded_params = ''
+  if url_params:
+    encoded_params = urllib.urlencode(url_params)
+  url = 'http://%s%s?%s' % (host, path, encoded_params)
+  print 'URL: %s' % (url,)
+
+  # Sign the URL
+  consumer = oauth2.Consumer(CONSUMER_KEY, CONSUMER_SECRET)
+  oauth_request = oauth2.Request('GET', url, {})
+  oauth_request.update({'oauth_nonce': oauth2.generate_nonce(),
+                        'oauth_timestamp': oauth2.generate_timestamp(),
+                        'oauth_token': TOKEN,
+                        'oauth_consumer_key': CONSUMER_KEY})
+
+  token = oauth2.Token(TOKEN, TOKEN_SECRET)
+  oauth_request.sign_request(oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
+  signed_url = oauth_request.to_url()
+  print 'Signed URL: %s\n' % (signed_url,)
+
+  # Connect
+  try:
+    conn = urllib2.urlopen(signed_url, None)
+    try:
+      response = json.loads(conn.read())
+    finally:
+      conn.close()
+  except urllib2.HTTPError, error:
+    response = json.loads(error.read())
+
+  return json.dumps(response, sort_keys=True, indent=2)
+
+def json_response(data):
+    ''' 
+    Turns a data dict into a json response
+    '''
+    return HttpResponse(simplejson.dumps(data), mimetype='application/json')
 
 
 @require_GET
-def search(request):
-    ''' returns snippet search results '''
-    query_set = Snippet.query(request.GET.get('q'))
-    ctx = {
-        'next' : request.GET.get('next') or '',
-        'snippets' : query_set,
-        }
-    return render_snippets(request, 'index.jinja', ctx)
-
-
-@require_GET
-def search_json(request):
-    ''' returns a JSON response of rendered snippets '''
-    # TODO: Add paging.
-    query_set = Snippet.query(request.GET.get('q'))
-    ctx = snippets_context(request, query_set)
-    resp = {'html':render_to_string('_snippets.jinja', ctx)}
-    return json_response(resp)
-
+def query(request):
+    location = request.GET.get('location', '')
+    term = request.GET.get('term', '')
+    
+    return HttpResponse(yelp_request({'term': term, 'location': location}), mimetype='application/json')
 
 def index(request):
     return render(request, 'index.jinja')

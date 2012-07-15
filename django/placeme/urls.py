@@ -4,5 +4,5 @@ urlpatterns = patterns('',
     url(r'^$', 'placeme.views.index', name='index'),
 
     # JSON urls
-    url(r'^api)/$', 'placeme.views.query', name='query'),
+    url(r'^api/$', 'placeme.views.query', name='query'),
 )
