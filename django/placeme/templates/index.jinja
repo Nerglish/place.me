@@ -40,6 +40,11 @@ function loadAPIData(loc, term, root, key) {
     });
 }
 
+function selectHotel(h, hotel_id) {
+    // find hotel, set the class on the dom id
+    // update transit?
+}
+
 function setHeatmapRadios() {
     var new_hm_radios = [];
     for (var k in yelp_api) {
@@ -248,16 +253,7 @@ function toggleAllHotels() {
             </ul>
           </div><!--/.well -->
 
-<h3>Pick your hotel</h3>
-<div class="sidebar-items">
-    <div class="tmpl-cont" objPath="shown_hotels">
-        <script type="text/x-jquery-tmpl">
-        <div class="redrawable sidebar-enum">
-            ${name}
-        </div>
-        </script>
-    </div>
-</div>
+
 
 
 <h3>What places are you visiting?</h3>
@@ -293,6 +289,35 @@ function toggleAllHotels() {
           <div id="map-wrapper">
           <div id="map_canvas"></div>
           </div>
+<div id="ghetto-hack-1">
+<img src="{{ STATIC_URL }}img/hotel-tab.png" />
+</div>
+<div id="hotel-container">
+    <div class="tmpl-cont" objPath="shown_hotels">
+        <script type="text/x-jquery-tmpl">
+        <div class="redrawable hotel-box">
+            <div class="hotel-info">
+            <img class="hotel-img" src="${image_url}"/>
+            </div>
+            <div class="hotel-info" style="width: 375px;">
+            <a class="hotel-info-title" href="${url}" target="_blank">${name}</a><br/>
+            Neighborhoods: ${location.neighborhoods}<br/>
+            Reviews: ${review_count}<br/>&nbsp;
+            </div>
+            <div class="hotel-info">
+            <img src="${rating_img_url_small}"/><br/>
+            ${location.address}<br/>
+            ${location.city}, ${location.state_code} ${location.postal_code}<br/>
+            ${display_phone}
+            </div>
+            <div>
+            <div class="hotel-sep"></div>
+            </div>
+        </div>
+        </script>
+    </div>
+</div>
+
         </div><!--/span-->
       </div><!--/row-->
 
