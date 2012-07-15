@@ -31,7 +31,13 @@ $(function () {
     loadAPIData('seattle', 'gay "gay-friendly" lesbian', yelp_api, 'Gays');
     loadAPIData('seattle', 'mugged sketchy', yelp_api, 'Bad Guys');
 });
-
+Object.size = function(obj) {
+    var size = 0, key;
+    for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++;
+    }
+    return size;
+};
 
 function loadAPIData(loc, term, root, key) {
     if(root == yelp_api) { 
@@ -46,10 +52,13 @@ function loadAPIData(loc, term, root, key) {
             } else {
                 root[key] = result;
             }
-            updateHeatmap(key);
-            loadFullHotelCoordList();
-            setHeatmapRadios();
-            Template.redraw();
+                updateHeatmap(key);
+                loadFullHotelCoordList();
+                setHeatmapRadios();
+                Template.redraw();
+            if (Object.size(hotels)==4) {
+                showAllHotels();
+            }
         }
     });
 }
@@ -143,6 +152,21 @@ function showRandHotels() {
     shown_hotels = new_shown_hotels;
     Template.redraw();
 }
+function showAllHotels() {
+    if (!hotels.full_list || hotels.full_list.length == 0) {
+        loadFullHotelCoordList();
+    }
+    clearHotelPins();
+    for (var i in hotels.full_list) {
+        var pt = hotels.full_list[i];
+        hotel_pins.push(new google.maps.Marker({
+            position: pt, 
+            map: map,
+            icon: '{{ STATIC_URL }}img/icons/hotel.png'
+        }));
+    }
+}
+
 function toggleAllHotels() {
     if (!hotels.full_list || hotels.full_list.length == 0) {
         loadFullHotelCoordList();
@@ -178,7 +202,7 @@ function toggleAllHotels() {
 	function initMap() {
 		geocoder = new google.maps.Geocoder();
 		//var latlng = new google.maps.LatLng(37.774546, -122.433523); // SF for taxiData
-		var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
+		var latlng = new google.maps.LatLng(47.6462095, -122.3320708); // Seattle
 		var myOptions = {
 			zoom : 11,
 			center : latlng,
