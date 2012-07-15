@@ -185,8 +185,21 @@ $(loadFullHotelCoordList);
 		});
 	}
 </script>
+<style type="text/css">
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+footer { color: gray; }
+#heading {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#map_canvas { height: 600px; width: 100%; }
+.sidebar-nav input { width: 100%; }
+.sidebar-nav form { margin-bottom: 0px; }
+</style>
 </head>
 <body onload="initialize()">
+{#
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
     <input class="btn" type="button" value="Lookup" onclick="codeAddress()">
@@ -198,5 +211,83 @@ $(loadFullHotelCoordList);
   	<button class="btn" onclick="activateYelpHeatmap('gay')">Show Gay Heatmap</button>
   </div>
 <div id="map_canvas"></div>
+#}
+<div id="heading" class="container">
+    <img src="{{ STATIC_URL }}/img/logo.png" />
+</div>
+
+    <div class="container">
+      <div class="row">
+        <div class="span4">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Location</li>
+              <li id="location">
+                <form>
+                    <input id="location-input" type="text" value="Seattle, WA"></input>
+                </form>
+              </li>
+              <li class="nav-header">Terms</li>
+              <li id="keyword">
+                <form>
+                    <input id="keyword-input" type="text"></input>
+                </form>
+              </li>
+              <li><a href="#" onclick="activateYelpHeatmap('family')">Family</a></li>
+              <li><a href="#" onclick="activateYelpHeatmap('hipster')">Hipster</a></li>
+              <li><a href="#" onclick="activateYelpHeatmap('gay')">Gay</a></li>
+              <li class="nav-header">Add more places</li>
+              <li id="poi">
+                <form>
+                    <input id="poi-input" type="text"></input>
+                </form>
+              </li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+        <div class="span8">
+          <div id="map_canvas"></div>
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; Place.me 2012</p>
+      </footer>
+
+<script>
+function init() {
+    $(".sidebar-nav #location form").submit(function() {
+        var $form=$(this);
+        codeAddress();
+        return false;
+    });
+    $(".sidebar-nav #keyword form").submit(function() {
+        var $form=$(this);
+        var keyword = $form.find("#keyword-input").attr("value");
+        console.log(keyword);
+        var el = $("<li/>", {
+            text:'<a href="#">keyword</a>'
+        })
+        $form.parent().after(el);
+        return false;
+    });
+    $(".sidebar-nav #poi form").submit(function() {
+        var $form=$(this);
+        var keyword = $form.find("#poi-input").attr("value");
+        console.log(keyword);
+        return false;
+    });
+}
+
+$(function() {
+    init()
+});
+</script>
 </body>
 </html>
