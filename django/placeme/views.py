@@ -1,4 +1,4 @@
-import oauth2, urllib, urllib2, json
+import os, oauth2, urllib, urllib2, json
 from django.shortcuts import render 
 from django.views.decorators.http import require_GET
 from django.utils import simplejson
@@ -16,7 +16,6 @@ def yelp_request(url_params, host='api.yelp.com', path='/v2/search'):
   if url_params:
     encoded_params = urllib.urlencode(url_params)
   url = 'http://%s%s?%s' % (host, path, encoded_params)
-  print 'URL: %s' % (url,)
 
   # Sign the URL
   consumer = oauth2.Consumer(CONSUMER_KEY, CONSUMER_SECRET)
@@ -29,7 +28,6 @@ def yelp_request(url_params, host='api.yelp.com', path='/v2/search'):
   token = oauth2.Token(TOKEN, TOKEN_SECRET)
   oauth_request.sign_request(oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
   signed_url = oauth_request.to_url()
-  print 'Signed URL: %s\n' % (signed_url,)
 
   # Connect
   try:
@@ -54,8 +52,22 @@ def json_response(data):
 def query(request):
     location = request.GET.get('location', '')
     term = request.GET.get('term', '')
-    
-    return HttpResponse(yelp_request({'term': term, 'location': location}), mimetype='application/json')
+    cache_name = '{0}-{1}.json'.format(
+        location.replace(' ', '_').replace(',', '_'),
+        term.replace(' ', '_').replace(',', '_')
+    )
+
+    json_cache = os.path.join(os.getcwd(), 'json_cache', cache_name)
+    json_resp = ''
+    if (os.path.exists(json_cache)):
+        json_resp = open(json_cache, 'r').read()
+    else:
+        json_resp = yelp_request({'term': term, 'location': location})
+        out_cache = open(json_cache, 'w')
+        out_cache.write(json_resp)
+        out_cache.close()
+
+    return HttpResponse(json_resp, mimetype='application/json')
 
 def index(request):
     return render(request, 'index.jinja')
