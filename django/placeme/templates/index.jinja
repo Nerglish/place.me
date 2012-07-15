@@ -239,10 +239,6 @@ footer { color: gray; }
                     <input id="poi-input" type="text"></input>
                 </form>
               </li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
@@ -268,15 +264,34 @@ function init() {
         var $form=$(this);
         var keyword = $form.find("#keyword-input").attr("value");
         console.log(keyword);
-        var el = $("<li/>", {
-            text:keyword
-        })
-        $form.parent().after(el);
+        //var el = $("<li/>", {
+        //    text:keyword
+        //})
+        //$form.parent().after(el);
         return false;
     });
     $(".sidebar-nav #poi form").submit(function() {
         var $form=$(this);
-        var keyword = $form.find("#poi-input").attr("value");
+        var address = $form.find("#poi-input").attr("value");
+        geocoder.geocode({
+            'address' : address
+        }, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                console.log(results[0].geometry.location);
+                var marker = new google.maps.Marker({
+                        map : map,
+                        position : results[0].geometry.location,
+                        icon : "{{ STATIC_URL }}img/icons/interest_point.png"
+                });
+                var el = $("<li/>", {
+                    text:address
+                })
+                $form.parent().after(el);
+                $form.find("#poi-input").attr("value", "");
+            } else {
+                    console.log("Geocode was not successful for the following reason: " + status);
+            }
+        });
         console.log(keyword);
         return false;
     });
