@@ -62,11 +62,11 @@ def query(request):
     json_resp = ''
     if (os.path.exists(json_cache)):
         json_resp = open(json_cache, 'r').read()
-    else:
-        json_resp = yelp_request({'term': term, 'location': location})
-        out_cache = open(json_cache, 'w')
-        out_cache.write(json_resp)
-        out_cache.close()
+    #else:
+        #json_resp = yelp_request({'term': term, 'location': location})
+        #out_cache = open(json_cache, 'w')
+        #out_cache.write(json_resp)
+    #    out_cache.close()
 
     return HttpResponse(json_resp, mimetype='application/json')
 
