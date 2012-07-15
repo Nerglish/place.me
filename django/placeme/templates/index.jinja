@@ -22,12 +22,12 @@ function loadAPIData(loc, term, root, key) {
         url: "/api/",
         data: { 'location': loc, 'term': term },
         success: function(result) {
-            if (key in root) {
+            if (key in root && root[key].businesses) {
                 root[key].businesses = root[key].businesses.concat(result.businesses);
             } else {
                 root[key] = result;
             }
-            initialize();
+            updateHeatmap(key);
         }
     });
 }
@@ -87,7 +87,7 @@ function toggleAllHotels() {
 	var map;
 	var currentHeatmap = null;
 	var heatmaps = {};
-	function initialize() {
+	function initMap() {
 		geocoder = new google.maps.Geocoder();
 		//var latlng = new google.maps.LatLng(37.774546, -122.433523); // SF for taxiData
 		var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
@@ -97,21 +97,19 @@ function toggleAllHotels() {
 			mapTypeId : google.maps.MapTypeId.ROADMAP
 		}
 		map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+        }
+        function updateHeatmap(key) {
+                var data = yelpToCoordList(yelp_api[key]);
+                var pointArray = new google.maps.MVCArray(data);
+                
+                heatmap = new google.maps.visualization.HeatmapLayer({
+                        data : pointArray
+                });
 
-		//pointArray = new google.maps.MVCArray(taxiData);
-		for (key in yelp_api) {
-			var data = yelpToCoordList(yelp_api[key]);
-			var pointArray = new google.maps.MVCArray(data);
-			
-			heatmap = new google.maps.visualization.HeatmapLayer({
-				data : pointArray
-			});
-	
-			//heatmap.setMap(map);
-			heatmap.setOptions({radius: 20, opacity: 0.5});
-			heatmaps[key] = heatmap;
-		}
-	}
+                //heatmap.setMap(map);
+                heatmap.setOptions({radius: 20, opacity: 0.5});
+                heatmaps[key] = heatmap;
+        }
 	function activateYelpHeatmap(key) {
 		heatmap = heatmaps[key];
 		if (heatmap == currentHeatmap) {
@@ -195,7 +193,7 @@ footer { color: gray; }
 .sidebar-nav form { margin-bottom: 0px; }
 </style>
 </head>
-<body onload="initialize()">
+<body>
 {#
   <div>
     <input id="address" type="textbox" value="Seattle, WA">
@@ -254,6 +252,7 @@ footer { color: gray; }
       </footer>
 
 <script>
+var poiList = {};
 function init() {
     $(".sidebar-nav #location form").submit(function() {
         var $form=$(this);
@@ -263,7 +262,6 @@ function init() {
     $(".sidebar-nav #keyword form").submit(function() {
         var $form=$(this);
         var keyword = $form.find("#keyword-input").attr("value");
-        console.log(keyword);
         //var el = $("<li/>", {
         //    text:keyword
         //})
@@ -277,28 +275,36 @@ function init() {
             'address' : address
         }, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK) {
-                console.log(results[0].geometry.location);
+                poiList[address] =results[0].geometry.location;
+                console.log(poiList);
                 var marker = new google.maps.Marker({
-                        map : map,
-                        position : results[0].geometry.location,
-                        icon : "{{ STATIC_URL }}img/icons/interest_point.png"
+                    map : map,
+                    position : results[0].geometry.location,
+                    icon : "{{ STATIC_URL }}img/icons/interest_point.png"
                 });
-                var el = $("<li/>", {
+                var el = $("<li/>");
+                $("<a></a>", {
+                    href:address,
                     text:address
-                })
+                }).appendTo(el);
                 $form.parent().after(el);
                 $form.find("#poi-input").attr("value", "");
             } else {
-                    console.log("Geocode was not successful for the following reason: " + status);
+                console.log("Geocode was not successful for the following reason: " + status);
             }
         });
-        console.log(keyword);
         return false;
     });
+
 }
 
 $(function() {
-    init()
+    initMap();
+    init();
+    $(".sidebar-nav #poi #poi-input").attr("value", "Space Needle, Seattle");
+    $(".sidebar-nav #poi form").submit();
+    $(".sidebar-nav #poi #poi-input").attr("value", "Ballard, Seattle");
+    $(".sidebar-nav #poi form").submit();
 });
 </script>
 </body>
