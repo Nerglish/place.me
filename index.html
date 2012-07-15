@@ -13,7 +13,7 @@ function yelpToCoordList(yelp_result) {
     return ret_list;
 }
 
-function loadFullHotelList() {
+function loadFullHotelCoordList() {
     var full_list = [];
     for (var key in hotels) {
         if (key) 
@@ -22,7 +22,14 @@ function loadFullHotelList() {
     hotels.full_list = full_list;
 }
 
-$(loadFullHotelList);
+function toggleAllHotels() {
+    for (var pt in hotels.full_list) {
+        new google.maps.Marker({position: pt, map: map})
+    }
+}
+
+$(loadFullHotelCoordList);
+
 
 </script>
 
@@ -101,6 +108,7 @@ var hotels = {}
     <input id="address" type="textbox" value="Seattle, WA">
     <input type="button" value="Geocode" onclick="codeAddress()">
     <button onclick="toggleHeatmap()">Toggle Heatmap</button>
+    <button onclick="toggleAllHotels()">Toggle Hotels</button>
   </div>
 <div id="map_canvas"></div>
 </body>
