@@ -255,7 +255,7 @@ function toggleAllHotels() {
       <div class="row">
         <div class="sidebar span3">
 
-<h3>Where are you going?</h3>
+<h3>Pick a city</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Location</li>
@@ -270,7 +270,7 @@ function toggleAllHotels() {
 
 
 
-<h3>What places are you visiting?</h3>
+<h3>Where are you visiting?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
           <!--
@@ -296,8 +296,10 @@ function toggleAllHotels() {
         <div class="span9">
           <div id="heatmap-buttons" style="inline">
             <!-- THIS SHOULD BE INLINE... GRRRRRR -->
-            <button class="btn btn-warning redrawable">Show places friendly to:</button>
             <div id="heatmap-radios" class="tmpl-cont" objPath="heatmap_radios">
+              <div class="ignored" style="display: inline; margin-top: -1px; margin-right: 5px;">
+              <button class="btn btn-warning" style="padding: .1em 1em;">Show places friendly to:</button>
+              </div>
               <script type="text/x-jquery-tmpl">
                 <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
               </script>
