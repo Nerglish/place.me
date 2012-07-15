@@ -247,16 +247,22 @@ function toggleAllHotels() {
     </div>
 </div>
 
-<h3>Where else do you want to go?</h3>
 
+<h3>Where are you going?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Location</li>
               <li id="location">
                 <form>
                 <input id="address" type="text" value="Seattle, WA"></input>
-            </form>
-          </li>
+                </form>
+              </li>
+            </ul>
+          </div><!--/.well -->
+<h3>What places are you visiting?</h3>
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+          <!--
           <li class="nav-header">Terms</li>
               <li id="keyword">
                 <form>
@@ -266,6 +272,7 @@ function toggleAllHotels() {
               <li><a href="#" onclick="activateYelpHeatmap('family')">Family</a></li>
               <li><a href="#" onclick="activateYelpHeatmap('hipster')">Hipster</a></li>
               <li><a href="#" onclick="activateYelpHeatmap('gay')">Gay</a></li>
+          -->
               <li class="nav-header">Add more places</li>
               <li id="poi">
                 <form>
@@ -321,6 +328,7 @@ function init() {
             if (status == google.maps.GeocoderStatus.OK) {
                 poiList[address] =results[0].geometry.location;
                 console.log(poiList);
+                map.setCenter(results[0].geometry.location);
                 var marker = new google.maps.Marker({
                     map : map,
                     position : results[0].geometry.location,
@@ -328,10 +336,13 @@ function init() {
                 });
                 var el = $("<li/>");
                 $("<a></a>", {
-                    href:address,
-                    text:address
+                    href:"#",
+                    text:address,
+                    data_address:address,
+                    class:"poi-item alert"
                 }).appendTo(el);
                 $form.parent().after(el);
+                // clear form
                 $form.find("#poi-input").attr("value", "");
             } else {
                 console.log("Geocode was not successful for the following reason: " + status);
