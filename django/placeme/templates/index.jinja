@@ -12,6 +12,7 @@ var yelp_key = []; // store ordered
 var hotels = {};
 var shown_hotels = [];
 var heatmap_radios = [];
+var checked_hm_radio = '';
 
 $(function () {
     loadAPIData('seattle', 'hotels', hotels, 'seattle');
@@ -133,6 +134,12 @@ function showRandHotels() {
         var h = hotels.full_obj_list[i];
         new_shown_hotels.push(h);
     }
+
+    for (var i in heatmap_radios) {
+        var r = heatmap_radios[i];
+        r.selected = checked_hm_radio;
+    }
+
     shown_hotels = new_shown_hotels;
     Template.redraw();
 }
@@ -194,13 +201,15 @@ function toggleAllHotels() {
 	function activateYelpHeatmap(key) {
 		heatmap = heatmaps[key];
 		if (heatmap == currentHeatmap) {
-			deactivateYelpHeatmap();
+			//deactivateYelpHeatmap();
 			return false;
 		}
+                checked_hm_radio = key;
 		deactivateYelpHeatmap();
 		currentHeatmap = heatmap;
 		currentHeatmap.setMap(map);
                 showRandHotels();
+
                 return false;
 	}
 	function deactivateYelpHeatmap() {
@@ -329,7 +338,8 @@ function toggleAllHotels() {
               <button class="btn btn-warning" style="padding: .1em 1em;">Show places friendly to:</button>
               </div>
               <script type="text/x-jquery-tmpl">
-                <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
+                <input type="radio" {{ '{{if selected}}{{if key == selected}}checked{{/if}}{{/if}}' }} class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/>
+                <label class="redrawable" for="${key}">${name}</label>
               </script>
             </div>
           </div>
@@ -378,7 +388,6 @@ function toggleAllHotels() {
       <footer>
         <p>&copy; Place.me 2012</p>
       </footer>
-
 
 <script>
 var poiList = {};
