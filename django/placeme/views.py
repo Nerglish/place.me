@@ -3,6 +3,7 @@ from django.shortcuts import render
 from django.views.decorators.http import require_GET
 from django.utils import simplejson
 from django.http import HttpResponse
+from projectplaceme import settings
 
 CONSUMER_KEY = "KthO8dNdeYTgBFnBlIIdHA" 
 CONSUMER_SECRET = "Tm8COLLLfk2U5_YQmBEpSZtN6p4" 
@@ -57,7 +58,7 @@ def query(request):
         term.replace(' ', '_').replace(',', '_')
     )
 
-    json_cache = os.path.join(os.getcwd(), 'json_cache', cache_name)
+    json_cache = os.path.join(os.path.dirname(settings.PROJECT_ROOT), 'json_cache', cache_name)
     json_resp = ''
     if (os.path.exists(json_cache)):
         json_resp = open(json_cache, 'r').read()
