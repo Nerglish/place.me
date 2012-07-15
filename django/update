@@ -1,0 +1,12 @@
+#!/bin/bash
+# Helper script to update the project
+
+workon sniper
+echo "enter your git password"
+git pull
+pip install -r requirements.txt
+./manage.py syncdb
+./manage.py migrate
+./manage.py collectstatic --noinput
+touch ../tmp/restart.txt
+
