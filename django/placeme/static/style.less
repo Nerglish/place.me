@@ -18,7 +18,7 @@ footer { color: gray; padding-left: 20px;}
 }
 
 #map_canvas {
-  height: 600px;
+  height: 338px;
   width: 100%; 
 }
 .sidebar-nav input { width: 100%; }
@@ -36,6 +36,14 @@ footer { color: gray; padding-left: 20px;}
 .container {
   padding: 10px 10px 0 0;
 }
+#ghetto-hack-1 {
+  margin: 10px 0 -1px -5px;
+}
+#hotel-container {
+  box-shadow: 0 0 3px #aaa;
+  border: 1px solid #ccc;
+  padding: 20px 10px 5px 30px;
+}
 .sidebar h3 {
   font-size: 15px;
   font-weight: normal;
@@ -51,8 +59,38 @@ footer { color: gray; padding-left: 20px;}
   overflow-x: hidden;
   overflow-y: auto;
 }
-.sidebar-enum {
-  height: 40px;
+.hotel-box {
+  padding: 5px;
+}
+.hotel-info {
+ display: inline-block;
+  
+  margin-left: 20px;
+}
+.hotel-info-title {
+  font-size: 12pt;
+}
+.hotel-sep {
+  background: #ccc;
+  height: 1px;
+  width: 550px;
+  margin: 10px auto;
+}
+#heatmap-radios {
+  font-size: 10pt;
+}
+#heatmap-radios .ui-button {
+  font-size: 10pt;
+}
+.hotel-img {
+  border: 2px solid #ccc;
+  padding: 2px;
+  width: 55px;
+  height: 55px;
+  vertical-align: baseline;
+}
+.sidebar-enum:hover, .sidebar-enum-picked {
+  background: #eee;
 }
 .sidebar .well {
   padding: 8px 0px 5px;
@@ -82,5 +120,10 @@ footer { color: gray; padding-left: 20px;}
 #navbar span.active a:hover {
   text-decoration: none;
 }
+.well {
+  background-color: transparent;
+  border-style: none;
+}
+
 /* vim: set ft=css ts=2 sts=2 sw=2 et: */
 

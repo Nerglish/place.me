@@ -53,6 +53,11 @@ function loadAPIData(loc, term, root, key) {
     });
 }
 
+function selectHotel(h, hotel_id) {
+    // find hotel, set the class on the dom id
+    // update transit?
+}
+
 function setHeatmapRadios() {
     var new_hm_radios = [];
     for (var i in yelp_key) {
@@ -272,7 +277,7 @@ function toggleAllHotels() {
       <div class="row">
         <div class="sidebar span3">
 
-<h3>Where are you going?</h3>
+<h3>Pick a city</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Location</li>
@@ -284,19 +289,10 @@ function toggleAllHotels() {
             </ul>
           </div><!--/.well -->
 
-<h3>Pick your hotel</h3>
-<div class="sidebar-items">
-    <div class="tmpl-cont" objPath="shown_hotels">
-        <script type="text/x-jquery-tmpl">
-        <div class="redrawable sidebar-enum">
-            ${name}
-        </div>
-        </script>
-    </div>
-</div>
 
 
-<h3>What places are you visiting?</h3>
+
+<h3>Where are you visiting?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
           <!--
@@ -322,8 +318,10 @@ function toggleAllHotels() {
         <div class="span9">
           <div id="heatmap-buttons" style="inline">
             <!-- THIS SHOULD BE INLINE... GRRRRRR -->
-            <button class="btn btn-warning redrawable">Show places friendly to:</button>
             <div id="heatmap-radios" class="tmpl-cont" objPath="heatmap_radios">
+              <div class="ignored" style="display: inline; margin-top: -1px; margin-right: 5px;">
+              <button class="btn btn-warning" style="padding: .1em 1em;">Show places friendly to:</button>
+              </div>
               <script type="text/x-jquery-tmpl">
                 <input type="radio" class="redrawable" id="${key}" name="hm-radio" onclick="activateYelpHeatmap('${key}')"/><label class="redrawable" for="${key}">${name}</label>
               </script>
@@ -337,6 +335,35 @@ function toggleAllHotels() {
           <div id="map-wrapper">
             <div id="map_canvas"></div>
           </div>
+<div id="ghetto-hack-1">
+<img src="{{ STATIC_URL }}img/hotel-tab.png" />
+</div>
+<div id="hotel-container">
+    <div class="tmpl-cont" objPath="shown_hotels">
+        <script type="text/x-jquery-tmpl">
+        <div class="redrawable hotel-box">
+            <div class="hotel-info">
+            <img class="hotel-img" src="${image_url}"/>
+            </div>
+            <div class="hotel-info" style="width: 375px;">
+            <a class="hotel-info-title" href="${url}" target="_blank">${name}</a><br/>
+            Neighborhoods: ${location.neighborhoods}<br/>
+            Reviews: ${review_count}<br/>&nbsp;
+            </div>
+            <div class="hotel-info">
+            <img src="${rating_img_url_small}"/><br/>
+            ${location.address}<br/>
+            ${location.city}, ${location.state_code} ${location.postal_code}<br/>
+            ${display_phone}
+            </div>
+            <div>
+            <div class="hotel-sep"></div>
+            </div>
+        </div>
+        </script>
+    </div>
+</div>
+
         </div><!--/span-->
       </div><!--/row-->
 
