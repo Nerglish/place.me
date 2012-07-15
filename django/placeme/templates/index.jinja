@@ -118,6 +118,7 @@ function showRandHotels() {
         loadFullHotelCoordList();
     }
     clearHotelPins();
+    var new_shown_hotels = [];
     for (var j = 0; j<10; j++) {
         // HACK pick random hotel
         var i = randInt(1, hotels.full_list.length);
@@ -128,7 +129,12 @@ function showRandHotels() {
             map: map,
             icon: '{{ STATIC_URL }}img/icons/hotel.png'
         }));
+        
+        var h = hotels.full_obj_list[i];
+        new_shown_hotels.push(h);
     }
+    shown_hotels = new_shown_hotels;
+    Template.redraw();
 }
 function toggleAllHotels() {
     if (!hotels.full_list || hotels.full_list.length == 0) {
