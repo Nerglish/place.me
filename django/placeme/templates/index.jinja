@@ -78,11 +78,7 @@ function toggleAllHotels() {
 </script>
 
 <link href="{{ STATIC_URL }}/css/bootstrap.css" rel="stylesheet">
-<style type="text/css">
-  html { height: 100% }
-  body { height: 100%; margin: 0; padding: 0 }
-  #map_canvas { margin-top: 10px; height: 500px; width: 800px; }
-</style>
+
 <script type="text/javascript"
   src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD8Wt7InUYu7ZWF0uL4qh7eJdO-cGNs3nI&sensor=false&libraries=visualization">
 </script>
@@ -120,11 +116,12 @@ function toggleAllHotels() {
 		heatmap = heatmaps[key];
 		if (heatmap == currentHeatmap) {
 			deactivateYelpHeatmap();
-			return;
+			return false;
 		}
 		deactivateYelpHeatmap();
 		currentHeatmap = heatmap;
 		currentHeatmap.setMap(map);
+                return false;
 	}
 	function deactivateYelpHeatmap() {
 		if (currentHeatmap) {
@@ -167,23 +164,23 @@ function toggleAllHotels() {
         heatmap.setOptions({opacity: heatmap.get('opacity') ? null : 0.2});
     }
 
-	function codeAddress() {
-		var address = document.getElementById("address").value;
-		geocoder.geocode({
-			'address' : address
-		}, function(results, status) {
-			if (status == google.maps.GeocoderStatus.OK) {
-				console.log(results[0].geometry.location);
-				map.setCenter(results[0].geometry.location);
-				var marker = new google.maps.Marker({
-					map : map,
-					position : results[0].geometry.location
-				});
-			} else {
-				console.log("Geocode was not successful for the following reason: " + status);
-			}
-		});
-	}
+    function codeAddress() {
+        var address = document.getElementById("address").value;
+        geocoder.geocode({
+            'address' : address
+        }, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                console.log(results[0].geometry.location);
+                map.setCenter(results[0].geometry.location);
+                //var marker = new google.maps.Marker({
+                //        map : map,
+                //        position : results[0].geometry.location
+                //});
+            } else {
+                    console.log("Geocode was not successful for the following reason: " + status);
+            }
+        });
+    }
 </script>
 <style type="text/css">
 html { height: 100% }
@@ -224,10 +221,10 @@ footer { color: gray; }
               <li class="nav-header">Location</li>
               <li id="location">
                 <form>
-                    <input id="location-input" type="text" value="Seattle, WA"></input>
-                </form>
-              </li>
-              <li class="nav-header">Terms</li>
+                <input id="address" type="text" value="Seattle, WA"></input>
+            </form>
+          </li>
+          <li class="nav-header">Terms</li>
               <li id="keyword">
                 <form>
                     <input id="keyword-input" type="text"></input>
@@ -272,7 +269,7 @@ function init() {
         var keyword = $form.find("#keyword-input").attr("value");
         console.log(keyword);
         var el = $("<li/>", {
-            text:'<a href="#">keyword</a>'
+            text:keyword
         })
         $form.parent().after(el);
         return false;

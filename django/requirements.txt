@@ -3,3 +3,4 @@ Paste
 -e git+https://github.com/kristi/jinja2.git@master#egg=Jinja2
 -e git+https://github.com/jbalogh/jingo.git@master#egg=jingo
 django-debug-toolbar
+oauth2

@@ -92,7 +92,7 @@
     }
 
     function codeAddress() {
-        var address = document.getElementById("address").value;
+        var address = document.getElementById("location-input").value;
         geocoder.geocode({
             'address' : address
         }, function(results, status) {
