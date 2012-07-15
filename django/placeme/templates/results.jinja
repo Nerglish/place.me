@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="{{ STATIC_URL }}/jquery-1.7.2.min.js"></script>
+
+<link href="{{ STATIC_URL }}/css/bootstrap.css" rel="stylesheet">
+<script type="text/javascript"
+  src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD8Wt7InUYu7ZWF0uL4qh7eJdO-cGNs3nI&sensor=false&libraries=visualization">
+</script>
+<script type="text/javascript">
+	var geocoder;
+	var map;
+	var currentHeatmap = null;
+	var heatmaps = {};
+	function initialize() {
+		geocoder = new google.maps.Geocoder();
+		//var latlng = new google.maps.LatLng(37.774546, -122.433523); // SF for taxiData
+		var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
+		var myOptions = {
+			zoom : 11,
+			center : latlng,
+			mapTypeId : google.maps.MapTypeId.ROADMAP
+		}
+		map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+
+		//pointArray = new google.maps.MVCArray(taxiData);
+		for (key in yelp_api) {
+			var data = yelpToCoordList(yelp_api[key]);
+			var pointArray = new google.maps.MVCArray(data);
+			
+			heatmap = new google.maps.visualization.HeatmapLayer({
+				data : pointArray
+			});
+	
+			//heatmap.setMap(map);
+			heatmap.setOptions({radius: 20, opacity: 0.5});
+			heatmaps[key] = heatmap;
+		}
+		
+		console.log(heatmaps);
+	}
+	function activateYelpHeatmap(key) {
+		heatmap = heatmaps[key];
+		if (heatmap == currentHeatmap) {
+			deactivateYelpHeatmap();
+			return false;
+		}
+		deactivateYelpHeatmap();
+		currentHeatmap = heatmap;
+		currentHeatmap.setMap(map);
+                return false;
+	}
+	function deactivateYelpHeatmap() {
+		if (currentHeatmap) {
+			currentHeatmap.setMap(null);
+			currentHeatmap = null;
+		}
+	}
+
+	function toggleHeatmap() {
+		heatmap.setMap(heatmap.getMap() ? null : map);
+	}
+	
+	function changeGradient() {
+        var gradient = [
+          'rgba(0, 255, 255, 0)',
+          'rgba(0, 255, 255, 1)',
+          'rgba(0, 191, 255, 1)',
+          'rgba(0, 127, 255, 1)',
+          'rgba(0, 63, 255, 1)',
+          'rgba(0, 0, 255, 1)',
+          'rgba(0, 0, 223, 1)',
+          'rgba(0, 0, 191, 1)',
+          'rgba(0, 0, 159, 1)',
+          'rgba(0, 0, 127, 1)',
+          'rgba(63, 0, 91, 1)',
+          'rgba(127, 0, 63, 1)',
+          'rgba(191, 0, 31, 1)',
+          'rgba(255, 0, 0, 1)'
+        ]
+        heatmap.setOptions({
+            gradient: heatmap.get('gradient') ? null : gradient
+        });
+    }
+
+    function changeRadius() {
+        heatmap.setOptions({radius: heatmap.get('radius') ? null : 20});
+    }
+
+    function changeOpacity() {
+        heatmap.setOptions({opacity: heatmap.get('opacity') ? null : 0.2});
+    }
+
+    function codeAddress() {
+        var address = document.getElementById("address").value;
+        geocoder.geocode({
+            'address' : address
+        }, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                console.log(results[0].geometry.location);
+                map.setCenter(results[0].geometry.location);
+                var marker = new google.maps.Marker({
+                        map : map,
+                        position : results[0].geometry.location
+                });
+            } else {
+                    console.log("Geocode was not successful for the following reason: " + status);
+            }
+        });
+    }
+</script>
+<style type="text/css">
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+footer { color: gray; }
+#heading {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#map_canvas { height: 600px; width: 100%; }
+.sidebar-nav input { width: 100%; }
+.sidebar-nav form { margin-bottom: 0px; }
+</style>
+</head>
+<body onload="initialize()">
+{#
+  <div>
+    <input id="address" type="textbox" value="Seattle, WA">
+    <input class="btn" type="button" value="Lookup" onclick="codeAddress()">
+    <input class="btn" type="button" value="Hotel Show" onclick="toggleAllHotels()">
+  </div>
+  <div>
+  	<button class="btn" onclick="activateYelpHeatmap('family')">Show Family Heatmap</button>
+  	<button class="btn" onclick="activateYelpHeatmap('hipster')">Show Hipster Heatmap</button>
+  	<button class="btn" onclick="activateYelpHeatmap('gay')">Show Gay Heatmap</button>
+    </div>
+#}
+<div id="heading" class="container">
+    <img src="{{ STATIC_URL }}/img/logo.png" style="background-color:gray; width:200px; height:50px;"/>
+</div>
+
+    <div class="container">
+      <div class="row">
+        <div class="span4">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Location</li>
+              <li id="location">
+                <form>
+                    <input type="text"></input>
+                </form>
+              </li>
+              <li class="nav-header">Terms</li>
+              <li id="terms">
+                <form>
+                    <input type="text"></input>
+                </form>
+              </li>
+              <li><a href="#" onclick="activateYelpHeatmap('family')">Family</a></li>
+              <li><a href="#" onclick="activateYelpHeatmap('hipster')">Hipster</a></li>
+              <li><a href="#" onclick="activateYelpHeatmap('gay')">Gay</a></li>
+              <li class="nav-header">Add more places</li>
+              <li id="add-poi">
+                <form>
+                    <input type="text"></input>
+                </form>
+              </li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+        <div class="span8">
+          <div id="map_canvas"></div>
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; Place.me 2012</p>
+      </footer>
+
+<script>
+$(function {
+});
+</script>
+
+</body>
+</html>
