@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script type="text/javascript" src="jquery-1.7.2.min.js"/>
+<script type="text/javascript" src="jquery-1.7.2.min.js"></script>
 <script type="text/javascript">
 function yelpToCoordList(yelp_result) {
     var ret_list = [];
@@ -12,6 +12,18 @@ function yelpToCoordList(yelp_result) {
     }
     return ret_list;
 }
+
+function loadFullHotelList() {
+    var full_list = [];
+    for (var key in hotels) {
+        if (key) 
+            full_list = full_list.concat(yelpToCoordList(hotels[key]));
+    }
+    hotels.full_list = full_list;
+}
+
+$(loadFullHotelList);
+
 </script>
 
 <script type="text/javascript">
