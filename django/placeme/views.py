@@ -72,3 +72,6 @@ def query(request):
 def index(request):
     return render(request, 'index.jinja')
 
+def results(request):
+    return render(request, 'results.jinja')
+
