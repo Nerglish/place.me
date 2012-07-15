@@ -1,0 +1,14 @@
+{
+  "businesses": [], 
+  "region": {
+    "center": {
+      "latitude": 47.60597865926266, 
+      "longitude": -122.33139038085938
+    }, 
+    "span": {
+      "latitude_delta": 0.27777135088184224, 
+      "longitude_delta": 0.40924072265625
+    }
+  }, 
+  "total": 0
+}

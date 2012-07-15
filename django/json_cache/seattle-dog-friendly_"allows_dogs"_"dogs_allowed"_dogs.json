@@ -1,0 +1,65 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ], 
+        [
+          "Pubs", 
+          "pubs"
+        ]
+      ], 
+      "display_phone": "+1-206-547-1417", 
+      "id": "norms-eatery-and-ale-house-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/WZ_pr5XhzO-MMLLkmOFGeQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "460 N 36th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6519882, 
+          "longitude": -122.3528517
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "460 N 36th St", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/norms-eatery-and-ale-house-seattle", 
+      "name": "Norm's Eatery & Ale House", 
+      "phone": "2065471417", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 276, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/O92jk8DHromS2fyMJjwp1g/ms.jpg", 
+      "snippet_text": "Food comes out fast, fresh, and delicious! I had their Backyard BBQ burger with a veggie patty and it was so good! They serve string fries which I am...", 
+      "url": "http://www.yelp.com/biz/norms-eatery-and-ale-house-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6519882, 
+      "longitude": -122.3528517
+    }, 
+    "span": {
+      "latitude_delta": 0.0, 
+      "longitude_delta": 0.0
+    }
+  }, 
+  "total": 1
+}

@@ -1,0 +1,1047 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Electronics", 
+          "electronics"
+        ], 
+        [
+          "Toy Stores", 
+          "toys"
+        ]
+      ], 
+      "display_phone": "+1-206-547-5790", 
+      "id": "pink-gorilla-seattle-3", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/mN5ILMC1TokhaCnjzhUy2w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4341 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.661031, 
+          "longitude": -122.313468
+        }, 
+        "country_code": "US", 
+        "cross_streets": "45th St & 43rd St", 
+        "display_address": [
+          "4341 University Way NE", 
+          "(b/t 45th St & 43rd St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/pink-gorilla-seattle-3", 
+      "name": "Pink Gorilla", 
+      "phone": "2065475790", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 18, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/kDFYmjsnCER-M2sfue6OQw/ms.jpg", 
+      "snippet_text": "This could potentially be biased as I spent a good amount of time bonding with the humans who run this fine establishment.\nI will say this though, prior to...", 
+      "url": "http://www.yelp.com/biz/pink-gorilla-seattle-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Hobby Shops", 
+          "hobbyshops"
+        ]
+      ], 
+      "display_phone": "+1-206-523-2273", 
+      "id": "card-kingdom-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/XKHcZ5Ekh5jeS9MmFpsjRg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5105 Leary Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6649943, 
+          "longitude": -122.3803976
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Dock Pl & Ione Pl", 
+        "display_address": [
+          "5105 Leary Ave NW", 
+          "(b/t Dock Pl & Ione Pl)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/card-kingdom-seattle", 
+      "name": "Card Kingdom", 
+      "phone": "2065232273", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 55, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/KlDDVHwzgamn0kCsMUd9Kg/ms.jpg", 
+      "snippet_text": "A board game enthusiast's paradise! When you walk into Card Kingdom you're immediately greeted by table after table of board games. Don't pass out...I know,...", 
+      "url": "http://www.yelp.com/biz/card-kingdom-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Cafes", 
+          "cafes"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-436-0540", 
+      "id": "cafe-mox-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/mb7GH51ewZuNSCXXIwXzUQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5105 Leary Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6650809, 
+          "longitude": -122.3802874
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Dock Pl & Ione Pl", 
+        "display_address": [
+          "5105 Leary Ave NW", 
+          "(b/t Dock Pl & Ione Pl)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/cafe-mox-seattle-2", 
+      "name": "Cafe Mox", 
+      "phone": "2064360540", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 54, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/DhkVxEeiO_kapez2QOabkg/ms.jpg", 
+      "snippet_text": "I was visiting from out of town, and visited this place with a few local friends. The selection of food and beer was fantastic. However, my nachos had some...", 
+      "url": "http://www.yelp.com/biz/cafe-mox-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Toy Stores", 
+          "toys"
+        ], 
+        [
+          "Electronics", 
+          "electronics"
+        ], 
+        [
+          "Videos and Video Game Rental", 
+          "videoandgames"
+        ]
+      ], 
+      "display_phone": "+1-206-264-2434", 
+      "id": "pink-gorilla-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Ct_HgFQ78nSleDtLQhYWWw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "601 S King St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5981838, 
+          "longitude": -122.3259866
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "601 S King St", 
+          "International District", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "International District"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/pink-gorilla-seattle", 
+      "name": "Pink Gorilla", 
+      "phone": "2062642434", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 48, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Bm_fSLuUdybFCfStCWQXJA/ms.jpg", 
+      "snippet_text": "I have fond memories of this little store. I went here when it was still called Pink Godzilla, many many years ago. And I still have the SNES Final Fantasy...", 
+      "url": "http://www.yelp.com/biz/pink-gorilla-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bookstores", 
+          "bookstores"
+        ], 
+        [
+          "Hobby Shops", 
+          "hobbyshops"
+        ]
+      ], 
+      "display_phone": "+1-206-838-9445", 
+      "id": "gamma-ray-games-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/KzIlS6ajrVQ08JGbJ2V74A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "411 E Pine St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6151991, 
+          "longitude": -122.326357
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Bellevue Ave & Crawford Pl", 
+        "display_address": [
+          "411 E Pine St", 
+          "(b/t Bellevue Ave & Crawford Pl)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/gamma-ray-games-seattle", 
+      "name": "Gamma Ray Games", 
+      "phone": "2068389445", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 36, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/7uu2k7-QfpE5u8ZgD5beHA/ms.jpg", 
+      "snippet_text": "Last night my husband and I went here to check out some games. Gorden, the gentleman working, was extraordinarily helpful! He knew everything about every...", 
+      "url": "http://www.yelp.com/biz/gamma-ray-games-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Toy Stores", 
+          "toys"
+        ], 
+        [
+          "Education", 
+          "education"
+        ]
+      ], 
+      "display_phone": "+1-206-522-8891", 
+      "id": "math-n-stuff-seattle-2", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/wlh9zFwEkbqS3r-n5FgsTQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8926 Roosevelt Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6937977, 
+          "longitude": -122.317387
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "8926 Roosevelt Way NE", 
+          "Maple Leaf", 
+          "Seattle, WA 98115"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Maple Leaf"
+        ], 
+        "postal_code": "98115", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/math-n-stuff-seattle-2", 
+      "name": "Math 'n' Stuff", 
+      "phone": "2065228891", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 28, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/0bltWABzD3HZZSbudVa5NQ/ms.jpg", 
+      "snippet_text": "This is the store that finally got me off my keister to get a Yelp account.  We had promised our son a lego set that he really wanted.  We ordered it from a...", 
+      "url": "http://www.yelp.com/biz/math-n-stuff-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Hobby Shops", 
+          "hobbyshops"
+        ], 
+        [
+          "Toy Stores", 
+          "toys"
+        ]
+      ], 
+      "display_phone": "+1-206-282-0540", 
+      "id": "blue-highway-games-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/jHv0WSEv7JAy4TJBRV7nPA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2203 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6385959, 
+          "longitude": -122.3569054
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Boston St & Mc Graw St", 
+        "display_address": [
+          "2203 Queen Anne Ave N", 
+          "(b/t Boston St & Mc Graw St)", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/blue-highway-games-seattle", 
+      "name": "Blue Highway Games", 
+      "phone": "2062820540", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 51, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/cn8ndanZg3NugvJLhNB3JQ/ms.jpg", 
+      "snippet_text": "We usually get our board game fix at Fun Again Games in Ashland, OR. But we were traveling through Seattle and decided to give Blue Highway Games a try....", 
+      "url": "http://www.yelp.com/biz/blue-highway-games-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hobby Shops", 
+          "hobbyshops"
+        ]
+      ], 
+      "display_phone": "+1-206-784-0586", 
+      "id": "games-workshop-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/nPm8M6RooMVf-V4Gjlx1_g/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "10031 Holman Rd NW", 
+          "Ste B"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.701705, 
+          "longitude": -122.3621054
+        }, 
+        "country_code": "US", 
+        "cross_streets": "100th St & N 4th Ave", 
+        "display_address": [
+          "10031 Holman Rd NW", 
+          "Ste B", 
+          "(b/t 100th St & N 4th Ave)", 
+          "Ballard", 
+          "Seattle, WA 98177"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard", 
+          "Greenwood"
+        ], 
+        "postal_code": "98177", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/games-workshop-seattle", 
+      "name": "Games Workshop", 
+      "phone": "2067840586", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 3, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Wj4l3jEtreJy4t9O-YxQMw/ms.jpg", 
+      "snippet_text": "Hello. My name is Raffael, and I'm a Warhammer addict...\n\nI actually love this store. It's the only one I'm going to review because the staff seems to break...", 
+      "url": "http://www.yelp.com/biz/games-workshop-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hobby Shops", 
+          "hobbyshops"
+        ], 
+        [
+          "Bookstores", 
+          "bookstores"
+        ]
+      ], 
+      "display_phone": "+1-206-789-8891", 
+      "id": "garys-games-and-hobbies-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/ktJ2wP6kI8FsatnYkIfyLQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8539 Greenwood Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6916483, 
+          "longitude": -122.3554621
+        }, 
+        "country_code": "US", 
+        "cross_streets": "85th St & 87th St", 
+        "display_address": [
+          "8539 Greenwood Ave N", 
+          "(b/t 85th St & 87th St)", 
+          "Greenwood", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Greenwood"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/garys-games-and-hobbies-seattle", 
+      "name": "Gary's Games & Hobbies", 
+      "phone": "2067898891", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 33, 
+      "snippet_image_url": "http://media3.ak.yelpcdn.com/static/201206261986305257/img/gfx/blank_user_medium.gif", 
+      "snippet_text": "Gary's is great! Has a depth of role playing and board games! Models could use a reorganize... But that not what I'm there for.\n\nThey have an active...", 
+      "url": "http://www.yelp.com/biz/garys-games-and-hobbies-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Videos and Video Game Rental", 
+          "videoandgames"
+        ], 
+        [
+          "Electronics Repair", 
+          "electronicsrepair"
+        ]
+      ], 
+      "display_phone": "+1-206-588-1154", 
+      "id": "game-gurus-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/KEWrMuaPbWcVv4k1SuYzMw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "12350 Lake City Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7180743, 
+          "longitude": -122.2959263
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 30th Ave & 123rd St", 
+        "display_address": [
+          "12350 Lake City Way NE", 
+          "(b/t N 30th Ave & 123rd St)", 
+          "Lake City", 
+          "Seattle, WA 98125"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Lake City"
+        ], 
+        "postal_code": "98125", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/game-gurus-seattle", 
+      "name": "Game Gurus", 
+      "phone": "2065881154", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 14, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/nGJf68q--tXmkYlWE0cjtQ/ms.jpg", 
+      "snippet_text": "Very friendly, knowledgeable, timely staff.  The prices are decent and their console repair times have a fairly decent turn around time.  They have honest...", 
+      "url": "http://www.yelp.com/biz/game-gurus-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Arcades", 
+          "arcades"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-521-0952", 
+      "id": "gameworks-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/qwPy1-3F5ciVjsRjD0o6gg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1511 7th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6119442, 
+          "longitude": -122.3336907
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1511 7th Ave", 
+          "Downtown", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/gameworks-seattle", 
+      "name": "Gameworks", 
+      "phone": "2065210952", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 158, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/E1_pmDaIsghxM4mqugv_UQ/ms.jpg", 
+      "snippet_text": "I have enjoyed this establishment at least 2x a year since it first opened.  Of course like all good things he prices seem to go up every year.  This isn't...", 
+      "url": "http://www.yelp.com/biz/gameworks-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Cinema", 
+          "movietheaters"
+        ]
+      ], 
+      "display_phone": "+1-206-781-5755", 
+      "id": "varsity-theatre-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/q3iK3gj1WbOUDWwOb4-epQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4329 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6607059, 
+          "longitude": -122.3131339
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "4329 University Way NE", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/varsity-theatre-seattle", 
+      "name": "Varsity Theatre", 
+      "phone": "2067815755", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 43, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/KP2XzONd9kOz6kNaHaZQFw/ms.jpg", 
+      "snippet_text": "Certainly not the most plush theater in the city, but they do have all the amenities of larger theaters...Extra greasy popcorn. The tiniest napkins that a...", 
+      "url": "http://www.yelp.com/biz/varsity-theatre-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "Arcades", 
+          "arcades"
+        ]
+      ], 
+      "display_phone": "+1-206-441-5449", 
+      "id": "shortys-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/AW_vg4RKELsjlQW21Hk3WQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2222 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.613817, 
+          "longitude": -122.345013
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blanchard St & Bell St", 
+        "display_address": [
+          "2222 2nd Ave", 
+          "(b/t Blanchard St & Bell St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/shortys-seattle", 
+      "name": "Shorty's", 
+      "phone": "2064415449", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 367, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/_VfWkUTQDe1QTMbg0jF1Xg/ms.jpg", 
+      "snippet_text": "Some of the best bar staff in the city! Some of the best bouncers in the city! A couple of the most frustrating pinball games in the city that will consume...", 
+      "url": "http://www.yelp.com/biz/shortys-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Optometrists", 
+          "optometrists"
+        ], 
+        [
+          "Eyewear & Opticians", 
+          "opticians"
+        ]
+      ], 
+      "display_phone": "+1-425-747-2020", 
+      "id": "bellevue-vision-clinic-bellevue", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "13401 Bel Red Rd", 
+          "Ste A4"
+        ], 
+        "city": "Bellevue", 
+        "coordinate": {
+          "latitude": 47.622327, 
+          "longitude": -122.160941
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "13401 Bel Red Rd", 
+          "Ste A4", 
+          "Bellevue, WA 98005"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98005", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/bellevue-vision-clinic-bellevue", 
+      "name": "Bellevue Vision Clinic", 
+      "phone": "4257472020", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 25, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/anZJ9FuBfWdY_Vyim3Y_Hw/ms.jpg", 
+      "snippet_text": "I've been seeing Dr. Clayton here for several years. I've been wearing glasses for almost 40 years and i've lived all over the world so i've seen *a lot* of...", 
+      "url": "http://www.yelp.com/biz/bellevue-vision-clinic-bellevue"
+    }, 
+    {
+      "categories": [
+        [
+          "Appliances & Repair", 
+          "homeappliancerepair"
+        ], 
+        [
+          "Appliances", 
+          "appliances"
+        ], 
+        [
+          "IT Services & Computer Repair", 
+          "itservices"
+        ], 
+        [
+          "Computers", 
+          "computers"
+        ], 
+        [
+          "Electronics", 
+          "electronics"
+        ], 
+        [
+          "Car Stereo Installation", 
+          "stereo_installation"
+        ]
+      ], 
+      "display_phone": "+1-206-306-7663", 
+      "id": "best-buy-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Q0G9_Ph9aetypCibKefq_w/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "330 NE Northgate Way"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7088594, 
+          "longitude": -122.3255965
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "330 NE Northgate Way", 
+          "Northgate", 
+          "Seattle, WA 98125"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Northgate"
+        ], 
+        "postal_code": "98125", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/best-buy-seattle", 
+      "name": "Best Buy", 
+      "phone": "2063067663", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 97, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/mUGgus7U7HEbtZHtopw9Aw/ms.jpg", 
+      "snippet_text": "The people here are very nice and attentive! They really know about what they are selling you! Thank you Jon!\n\nThey made sure everything was in order before...", 
+      "url": "http://www.yelp.com/biz/best-buy-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pizza", 
+          "pizza"
+        ]
+      ], 
+      "display_phone": "+1-206-838-7388", 
+      "id": "serious-pie-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Hsy1zhdv1QuU-EfIVF-hDQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "316 Virginia St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6128653, 
+          "longitude": -122.340487
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "316 Virginia St", 
+          "Downtown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/serious-pie-seattle", 
+      "name": "Serious Pie", 
+      "phone": "2068387388", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 1312, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/evHErjJaWd03W3X77QcpCQ/ms.jpg", 
+      "snippet_text": "I'm not a big fan of sharing table with other diners, but it didn't bother me at all at Serious Pie. I wish they'd take reservation though. \n\nIt was 8:30 on...", 
+      "url": "http://www.yelp.com/biz/serious-pie-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Electronics", 
+          "electronics"
+        ]
+      ], 
+      "display_phone": "+1-425-525-0200", 
+      "id": "frys-electronics-renton", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/p1FMkDYsXlVmjHmYUfFluA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "800 Garden Ave N"
+        ], 
+        "city": "Renton", 
+        "coordinate": {
+          "latitude": 47.496647, 
+          "longitude": -122.197709
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "800 Garden Ave N", 
+          "Renton, WA 98055"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98055", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/frys-electronics-renton", 
+      "name": "Fry's Electronics", 
+      "phone": "4255250200", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 158, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/UF6vn-nDB0h4tRZ0_rYXgw/ms.jpg", 
+      "snippet_text": "I see a lot of mixed reviews. \n\nI understand. \n\nI have been a Fry's customer for decades and have had mixed experiences ranging from elation rivaling that...", 
+      "url": "http://www.yelp.com/biz/frys-electronics-renton"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Pubs", 
+          "pubs"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-206-763-6764", 
+      "id": "georgetown-liquor-company-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/AEpoxXyVQgVI60kgklsHVw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5501 Airport Way S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.553226, 
+          "longitude": -122.321222
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Lucile Street Ovps & Lucile St", 
+        "display_address": [
+          "5501 Airport Way S", 
+          "(b/t Lucile Street Ovps & Lucile St)", 
+          "Georgetown", 
+          "Seattle, WA 98108"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Georgetown"
+        ], 
+        "postal_code": "98108", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/georgetown-liquor-company-seattle", 
+      "name": "Georgetown Liquor Company", 
+      "phone": "2067636764", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 219, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/m8vZqkxiCrXK79afR081FQ/ms.jpg", 
+      "snippet_text": "When we leave Seattle to go traveling we always hope we can find a place just like GLC! Best vegan pub food probably in the world, not greasy and gut bomb...", 
+      "url": "http://www.yelp.com/biz/georgetown-liquor-company-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Diners", 
+          "diners"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Pubs", 
+          "pubs"
+        ]
+      ], 
+      "display_phone": "+1-206-682-5858", 
+      "id": "the-hurricane-caf\u00e9-seattle-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/J1_C0wDD0pTXw8jcuKcStg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2230 7th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6173607, 
+          "longitude": -122.3410003
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blanchard St & Bell St", 
+        "display_address": [
+          "2230 7th Ave", 
+          "(b/t Blanchard St & Bell St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-hurricane-caf%C3%A9-seattle-2", 
+      "name": "The Hurricane Caf\u00e9", 
+      "phone": "2066825858", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 184, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/7itRsTwTjKd6ekfb9u13pA/ms.jpg", 
+      "snippet_text": "This place us kinda divey and the service isn`t that great BUT\nthey seated our group of 12 in under five minutes with no warning we were coming.\nAMAZING for...", 
+      "url": "http://www.yelp.com/biz/the-hurricane-caf%C3%A9-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Mass Media", 
+          "massmedia"
+        ], 
+        [
+          "Television Service Providers", 
+          "televisionserviceproviders"
+        ], 
+        [
+          "Internet Service Providers", 
+          "isps"
+        ]
+      ], 
+      "display_phone": "+1-800-829-2225", 
+      "id": "broadstripe-tukwila-2", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/KqlRCM-KMD_19PcKRDfE0Q/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "10427 Martin Luther King Jr Way"
+        ], 
+        "city": "Tukwila", 
+        "coordinate": {
+          "latitude": 47.5094149, 
+          "longitude": -122.2785591
+        }, 
+        "country_code": "US", 
+        "cross_streets": "104th Pl", 
+        "display_address": [
+          "10427 Martin Luther King Jr Way", 
+          "(b/t 104th Pl)", 
+          "Tukwila, WA 98178"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98178", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/broadstripe-tukwila-2", 
+      "name": "Broadstripe", 
+      "phone": "8008292225", 
+      "rating": 1.5, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206262898554088/img/ico/stars/stars_1_half.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206262705362442/img/ico/stars/stars_large_1_half.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206261970349521/img/ico/stars/stars_small_1_half.png", 
+      "review_count": 89, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/I1FWsYqitw9fyAok3iw-fw/ms.jpg", 
+      "snippet_text": "I am a computer builder, a business owner and a avid fast action online game player. {Battlefield 2 & 3, Crysis 1 & 2, Space Marine, Star Craft 2 etc etc }....", 
+      "url": "http://www.yelp.com/biz/broadstripe-tukwila-2"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.607360650000004, 
+      "longitude": -122.2706693
+    }, 
+    "span": {
+      "latitude_delta": 0.24357003000000077, 
+      "longitude_delta": 0.24140226000000098
+    }
+  }, 
+  "total": 20
+}

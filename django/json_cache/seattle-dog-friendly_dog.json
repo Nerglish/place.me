@@ -1,0 +1,1022 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "id": "warren-g-magnuson-park-off-leash-area-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/DjEoOS8Np_UG01I-1LDpKA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "7400 Sand Point Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6792871, 
+          "longitude": -122.2636271
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "7400 Sand Point Way NE", 
+          "Sand Point", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Sand Point"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/warren-g-magnuson-park-off-leash-area-seattle", 
+      "name": "Warren G. Magnuson Park - Off Leash Area", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 124, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/WZwmSkSaxxLd6TJCOTFWiw/ms.jpg", 
+      "snippet_text": "I love this off-leash dog park! It is huge and a fun place to walk around with your dog.\n\nEvery time my dog goes there, she drools (literally) of...", 
+      "url": "http://www.yelp.com/biz/warren-g-magnuson-park-off-leash-area-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ]
+      ], 
+      "display_phone": "+1-206-325-6055", 
+      "id": "po-dog-hot-dogs-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/fV2GZBJP8il5nELjk48XUw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1009 E Union St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612879, 
+          "longitude": -122.318902
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1009 E Union St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "First Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "First Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/po-dog-hot-dogs-seattle", 
+      "name": "Po Dog Hot Dogs", 
+      "phone": "2063256055", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 263, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/4FlfCeQocbcX39g5c7O7mA/ms.jpg", 
+      "snippet_text": "Po Dog has a menu full of \"specialty wieners\" that I would never dream up on my own, like the Morning Glory Dog, with scrambled eggs, cheddar, and bacon....", 
+      "url": "http://www.yelp.com/biz/po-dog-hot-dogs-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Food Stands", 
+          "foodstands"
+        ]
+      ], 
+      "display_phone": "+1-206-254-0943", 
+      "id": "dog-in-the-park-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/QynVYiVDBAMJnKAK8pnc_g/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1520 4th Ave", 
+          "Ste 100"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6098954624913, 
+          "longitude": -122.33615398407
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Westlake Ave", 
+        "display_address": [
+          "1520 4th Ave", 
+          "Ste 100", 
+          "(b/t Pike St & Westlake Ave)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 9, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/dog-in-the-park-seattle", 
+      "name": "Dog In The Park", 
+      "phone": "2062540943", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 113, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/u1CU1eldUXNxOjAsQktTUg/ms.jpg", 
+      "snippet_text": "Good Dogs from a man who know. Make sure you get the grilled cabbage and onions on yours. Owners is a good guy too, Always helping folks out. Best Dogs in...", 
+      "url": "http://www.yelp.com/biz/dog-in-the-park-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Street Vendors", 
+          "streetvendors"
+        ]
+      ], 
+      "id": "hot-dog-stand-in-front-of-neighbors-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/9TBOvk0VNsx4j2dTSVyUuw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "848 1/2 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6140973, 
+          "longitude": -122.3209386
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "848 1/2 E Pike St", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hot-dog-stand-in-front-of-neighbors-seattle", 
+      "name": "Hot Dog Stand in front of Neighbors", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 82, 
+      "snippet_image_url": "http://media3.ak.yelpcdn.com/static/201206261986305257/img/gfx/blank_user_medium.gif", 
+      "snippet_text": "the only bad thing i have to say about this hot dog stand is the long wait.  my gf and i got there around 2 am on a saturday night and the line was endless....", 
+      "url": "http://www.yelp.com/biz/hot-dog-stand-in-front-of-neighbors-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Burgers", 
+          "burgers"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ]
+      ], 
+      "display_phone": "+1-206-633-1966", 
+      "id": "diggity-dog-hotdog-and-sausage-co-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/o-ZsXsmWkKtK-QKknRCcog/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5421 Meridian Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6685788, 
+          "longitude": -122.333826
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Kenwood Pl & 55th St", 
+        "display_address": [
+          "5421 Meridian Ave N", 
+          "(b/t N Kenwood Pl & 55th St)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/diggity-dog-hotdog-and-sausage-co-seattle", 
+      "name": "Diggity Dog Hotdog & Sausage Co", 
+      "phone": "2066331966", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 62, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/RIq0FOsw1I8nYCKlMOH_Pw/ms.jpg", 
+      "snippet_text": "This place is one of a kind...run by real people who care about their business!\nWhat you have here is a hotdog and sausage place with a huge bar of...", 
+      "url": "http://www.yelp.com/biz/diggity-dog-hotdog-and-sausage-co-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pet Groomers", 
+          "groomer"
+        ], 
+        [
+          "Pet Boarding/Pet Sitting", 
+          "pet_sitting"
+        ], 
+        [
+          "Dog Walkers", 
+          "dogwalkers"
+        ]
+      ], 
+      "display_phone": "+1-206-284-3647", 
+      "id": "metro-dog-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/2NeUe1I2exTS5z4bNluUGg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3412 16th Ave W"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6508658, 
+          "longitude": -122.3774804
+        }, 
+        "country_code": "US", 
+        "cross_streets": "W Thorndyke Ave & Bertona St", 
+        "display_address": [
+          "3412 16th Ave W", 
+          "(b/t W Thorndyke Ave & Bertona St)", 
+          "Magnolia", 
+          "Seattle, WA 98119"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Magnolia"
+        ], 
+        "postal_code": "98119", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/metro-dog-seattle", 
+      "name": "Metro Dog", 
+      "phone": "2062843647", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 18, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/93W1ut4ZnDWtXtbhETHPsg/ms.jpg", 
+      "snippet_text": "I brought my former rescue pup here for her first experience with outside care since arriving at my house.  As soon as she walked in the door her lab tail...", 
+      "url": "http://www.yelp.com/biz/metro-dog-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Japanese", 
+          "japanese"
+        ]
+      ], 
+      "id": "gourmet-dog-japon-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/o8HMpE4Fv1-N7gcU5zYPOg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Pike Place Market", 
+          "97 Pike St, Ste B"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6087838, 
+          "longitude": -122.340221
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Pike Place Market", 
+          "97 Pike St, Ste B", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/gourmet-dog-japon-seattle", 
+      "name": "Gourmet Dog Japon", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 123, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Qh8VOnOvAklCf2oMOx5n9A/ms.jpg", 
+      "snippet_text": "If you are in the mood for japanese hotdogs, this is the place. He makes veggie hot dogs as well. They are spicy, hot and tasty. \n\nHe is a bit slow in...", 
+      "url": "http://www.yelp.com/biz/gourmet-dog-japon-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Street Vendors", 
+          "streetvendors"
+        ]
+      ], 
+      "id": "the-hot-dog-stand-by-the-comet-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/xn4uU2bo06ZJcfkZUXWQqQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "Pike St & 10th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6140897, 
+          "longitude": -122.3194425
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Pike St & 10th Ave", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 7, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-hot-dog-stand-by-the-comet-seattle", 
+      "name": "The Hot Dog Stand by The Comet", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 35, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/YIlW1l255FqRM5QNIhNj3g/ms.jpg", 
+      "snippet_text": "You can't complain about this stand. Good quality dogs for a great price, $5 for any dog I believe. Multiple options beef, polish, hot link and even...", 
+      "url": "http://www.yelp.com/biz/the-hot-dog-stand-by-the-comet-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "id": "westcrest-park-off-leash-area-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/iadk0-ac8vSEm7j0vxiefQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8806 8th Ave SW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5228586, 
+          "longitude": -122.3454566
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "8806 8th Ave SW", 
+          "Seattle, WA 98138"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98138", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/westcrest-park-off-leash-area-seattle", 
+      "name": "Westcrest Park Off Leash Area", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 25, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/xOCeNER8Q50ZNRfE1X3zMQ/ms.jpg", 
+      "snippet_text": "YAY! I am glad I made the 30-40 min drive south to visit this park. This definitely tops my list along with Marymoor/Magnuson. I still have plenty of dog...", 
+      "url": "http://www.yelp.com/biz/westcrest-park-off-leash-area-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Street Vendors", 
+          "streetvendors"
+        ]
+      ], 
+      "display_phone": "+1-206-283-3647", 
+      "id": "dantes-inferno-dogs-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/utPS9vyqMBRH1_H5HdJ6KQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1752 NW Market St", 
+          "Ste 544"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6686858, 
+          "longitude": -122.3796554
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 17th Ave & N Barnes Ave", 
+        "display_address": [
+          "1752 NW Market St", 
+          "Ste 544", 
+          "(b/t N 17th Ave & N Barnes Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/dantes-inferno-dogs-seattle", 
+      "name": "Dante's Inferno Dogs", 
+      "phone": "2062833647", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 78, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/jgVDP7Gz238qDhKj9x2Ctg/ms.jpg", 
+      "snippet_text": "organic beef dog. fantastic. pleasant new year's eve experience :)", 
+      "url": "http://www.yelp.com/biz/dantes-inferno-dogs-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Vegan", 
+          "vegan"
+        ]
+      ], 
+      "display_phone": "+1-206-405-3647", 
+      "id": "cyber-dogs-internet-cafe-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/OXKVczDXVYDcYRwj3KuncQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "909 Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6125372, 
+          "longitude": -122.331037
+        }, 
+        "country_code": "US", 
+        "cross_streets": "9th Ave & Convention Pl", 
+        "display_address": [
+          "909 Pike St", 
+          "(b/t 9th Ave & Convention Pl)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/cyber-dogs-internet-cafe-seattle", 
+      "name": "Cyber-Dogs Internet Cafe", 
+      "phone": "2064053647", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 134, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/Py9lX8m4lvLcO9-UzoE00Q/ms.jpg", 
+      "snippet_text": "One hard working lady's recipes turn out to be incredible. I had the doggylama which was an Indian flavored hot dog experience. It was smothered in a...", 
+      "url": "http://www.yelp.com/biz/cyber-dogs-internet-cafe-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ]
+      ], 
+      "id": "hot-dog-joes-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/xIgIe6gnPV1Hj--rZc-qcw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1st Ave & Blanchard St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.612628, 
+          "longitude": -122.345267
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1st Ave & Blanchard St", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 7, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hot-dog-joes-seattle", 
+      "name": "Hot Dog Joes", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 26, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/m8RPYslpRa6Ke-Wo5E6j_g/ms.jpg", 
+      "snippet_text": "I was leaving Amber with a number of friends... and bumped into some amazing Yelper friends at Hot Dog Joe's. And they told me to order a dog. OKAY!\n\nThe...", 
+      "url": "http://www.yelp.com/biz/hot-dog-joes-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pet Training", 
+          "pet_training"
+        ], 
+        [
+          "Pet Stores", 
+          "petstore"
+        ], 
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "display_phone": "+1-206-281-5095", 
+      "id": "k9-fun-zone-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/0v6wtLWTxRIkHs8a84vQGA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "25 Nickerson St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6496429, 
+          "longitude": -122.3574382
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Queen Anne Ave & Cremona St", 
+        "display_address": [
+          "25 Nickerson St", 
+          "(b/t N Queen Anne Ave & Cremona St)", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/k9-fun-zone-seattle", 
+      "name": "K9 Fun Zone", 
+      "phone": "2062815095", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 13, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/qnBvio61y6pdkb7qo8XfEQ/ms.jpg", 
+      "snippet_text": "We got a Staffy Bull about two months ago and were wondering what we could do for exercise. We really wanted her to be able to play with our friend's Pit...", 
+      "url": "http://www.yelp.com/biz/k9-fun-zone-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Burgers", 
+          "burgers"
+        ]
+      ], 
+      "display_phone": "+1-206-768-0418", 
+      "id": "matts-famous-chili-dogs-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/VwOyejGNEtt7uD3FN4dV3Q/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "6615 E Marginal Way S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5439327, 
+          "longitude": -122.330131
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "6615 E Marginal Way S", 
+          "West Seattle", 
+          "Seattle, WA 98108"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "West Seattle", 
+          "Georgetown"
+        ], 
+        "postal_code": "98108", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/matts-famous-chili-dogs-seattle", 
+      "name": "Matt's Famous Chili Dogs", 
+      "phone": "2067680418", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 40, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/JzSmaiQb34q3eO2ys-j7mw/ms.jpg", 
+      "snippet_text": "Dangerous when you're hungry and craving a chili dog!\n\nLocated south of downtown, this small hot dog stand is good for takeaway. I preferred those bought at...", 
+      "url": "http://www.yelp.com/biz/matts-famous-chili-dogs-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "id": "northacres-park-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/z2O_H8HKsJ7Qk--83q3lmg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "12718 1st Ave NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7212902, 
+          "longitude": -122.3262675
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "12718 1st Ave NE", 
+          "Haller Lake", 
+          "Seattle, WA 98125"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Haller Lake"
+        ], 
+        "postal_code": "98125", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/northacres-park-seattle-2", 
+      "name": "Northacres Park", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 23, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/wDg5QBGHmGHfu82SPNbm9A/ms.jpg", 
+      "snippet_text": "My husband & I were venturing out to try to find a dog friendly park for our 9-1/2 year old puppy. \n\nWe stumbled across Northacres and decided to give it a...", 
+      "url": "http://www.yelp.com/biz/northacres-park-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "display_phone": "+1-206-684-4075", 
+      "id": "genesee-park-off-leash-area-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/ONeyKrLqARwfwHsGbNIdBQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4316 S Genesee St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5640842, 
+          "longitude": -122.2772082
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "4316 S Genesee St", 
+          "Columbia City", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Columbia City"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/genesee-park-off-leash-area-seattle", 
+      "name": "Genesee Park Off Leash Area", 
+      "phone": "2066844075", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 23, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/mrngUIA4w2YIFkC8rNRtPg/ms.jpg", 
+      "snippet_text": "This large off-leash dog park is one of the better ones I have visited with my mutt, Rosie. It is a large, flat, gravel circular middle and is surrounded by...", 
+      "url": "http://www.yelp.com/biz/genesee-park-off-leash-area-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dog Parks", 
+          "dog_parks"
+        ]
+      ], 
+      "id": "golden-gardens-park-off-leash-area-seattle-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/uuZQqJ-1IY7RD_0nLfWM0A/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "8498 Seaview Place NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.687911, 
+          "longitude": -122.402651
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "8498 Seaview Place NW", 
+          "Ballard", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/golden-gardens-park-off-leash-area-seattle-2", 
+      "name": "Golden Gardens Park - Off Leash Area", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 38, 
+      "snippet_image_url": "http://media3.ak.yelpcdn.com/static/201206261986305257/img/gfx/blank_user_medium.gif", 
+      "snippet_text": "My sidekick Nellie and I make this park a habit every Sunday.  We're giving the off leash part 5 stars because of it's location in the beautiful Golden...", 
+      "url": "http://www.yelp.com/biz/golden-gardens-park-off-leash-area-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Pet Training", 
+          "pet_training"
+        ], 
+        [
+          "Dog Walkers", 
+          "dogwalkers"
+        ]
+      ], 
+      "display_phone": "+1-206-412-9979", 
+      "id": "nitro-k-9-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Tnz-uYE7rFrrw6uRpuepCg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6835365, 
+          "longitude": -122.2792739
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Wedgwood/View Ridge", 
+          "Seattle, WA 98115"
+        ], 
+        "geo_accuracy": 5, 
+        "neighborhoods": [
+          "Wedgwood/View Ridge"
+        ], 
+        "postal_code": "98115", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/nitro-k-9-seattle", 
+      "name": "Nitro K-9", 
+      "phone": "2064129979", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 12, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/QSo7wxFVDdL-b4AxKRHaVQ/ms.jpg", 
+      "snippet_text": "We have come to love Steve's work with our Boston terrier Bianca. I began as the biggest cynic worried about prong collars and if they were somehow cruel to...", 
+      "url": "http://www.yelp.com/biz/nitro-k-9-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Caterers", 
+          "catering"
+        ], 
+        [
+          "Food Stands", 
+          "foodstands"
+        ]
+      ], 
+      "display_phone": "+1-888-571-4447", 
+      "id": "monster-dogs-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/cXAuzNq5I734-44cbEQQ6Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1st&Bell"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6095599, 
+          "longitude": -122.3330191
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "1st&Bell", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 5, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/monster-dogs-seattle", 
+      "name": "Monster Dogs", 
+      "phone": "8885714447", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 18, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/ieletacRf3QHNbJ-aCrUbg/ms.jpg", 
+      "snippet_text": "Cream cheese and jalapeno? Yes please. Coming from Chicago we were feeling a little cocky, but it was quickly proven that a good hot dog isn't just Chicago...", 
+      "url": "http://www.yelp.com/biz/monster-dogs-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Food Stands", 
+          "foodstands"
+        ], 
+        [
+          "Hot Dogs", 
+          "hotdog"
+        ], 
+        [
+          "Japanese", 
+          "japanese"
+        ]
+      ], 
+      "display_phone": "+1-425-998-6020", 
+      "id": "tokyo-dog-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/8fOVT4wZ2q27Yt7gN89isg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.606389, 
+          "longitude": -122.330833
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Downtown", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 5, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/tokyo-dog-seattle", 
+      "name": "Tokyo Dog", 
+      "phone": "4259986020", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 9, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/M3n8H--IOfvOy1K6ZIBJug/ms.jpg", 
+      "snippet_text": "This place is so good! \nThe Tokyo Dog has such a unique taste! Bacon bits, spicy Mayo? And lots of flavor! \n\nDefinitely something to check out at the...", 
+      "url": "http://www.yelp.com/biz/tokyo-dog-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6220744, 
+      "longitude": -122.33313905
+    }, 
+    "span": {
+      "latitude_delta": 0.2182747599999999, 
+      "longitude_delta": 0.15292629000001057
+    }
+  }, 
+  "total": 3059
+}

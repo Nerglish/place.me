@@ -1,0 +1,65 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Party Supplies", 
+          "partysupplies"
+        ], 
+        [
+          "Costumes", 
+          "costumes"
+        ]
+      ], 
+      "display_phone": "+1-206-362-4810", 
+      "id": "party-display-and-costume-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/RATp6iBAR48pNwmDFQXmcw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "11201 Roosevelt Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7097906, 
+          "longitude": -122.3179243
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "11201 Roosevelt Way NE", 
+          "Northgate", 
+          "Seattle, WA 98125"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Northgate"
+        ], 
+        "postal_code": "98125", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/party-display-and-costume-seattle", 
+      "name": "Party @ Display & Costume", 
+      "phone": "2063624810", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 87, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/mw4GU2MWLBU8AQmBTnOxrw/ms.jpg", 
+      "snippet_text": "This place has it all from party supplies to crafting supplies! \nTheir warehouse is huuuuuuuuge! It stores Halloween costumes 365 days year!\nI needed party...", 
+      "url": "http://www.yelp.com/biz/party-display-and-costume-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.7097906, 
+      "longitude": -122.3179243
+    }, 
+    "span": {
+      "latitude_delta": 0.0, 
+      "longitude_delta": 0.0
+    }
+  }, 
+  "total": 1
+}

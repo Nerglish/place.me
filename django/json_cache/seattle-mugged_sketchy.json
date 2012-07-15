@@ -1,0 +1,1031 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Massage", 
+          "massage"
+        ]
+      ], 
+      "display_phone": "+1-206-524-6072", 
+      "id": "foot-massage-at-the-village-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/9Qv8ZIqC7WfMWB8igDZgJw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2724 NE 45th St", 
+          "Ste B"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.661479, 
+          "longitude": -122.297396
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Montlake Blvd", 
+        "display_address": [
+          "2724 NE 45th St", 
+          "Ste B", 
+          "(b/t N Montlake Blvd)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/foot-massage-at-the-village-seattle", 
+      "name": "Foot Massage At the Village", 
+      "phone": "2065246072", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 15, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/X0OAAoTnUubFSdo09HP-QQ/ms.jpg", 
+      "snippet_text": "Excellent massage ~ finally I've found the method that works best for my (relatively strong) body.   I've been coming here since Spring, 2011.  \n\nI...", 
+      "url": "http://www.yelp.com/biz/foot-massage-at-the-village-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Burgers", 
+          "burgers"
+        ]
+      ], 
+      "display_phone": "+1-206-340-1457", 
+      "id": "dome-burger-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/1dsB0A0zGi04_JHY54c8GQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "111 Occidental Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.601163, 
+          "longitude": -122.332874
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "111 Occidental Ave S", 
+          "Pioneer Square", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Pioneer Square"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/dome-burger-seattle", 
+      "name": "Dome Burger", 
+      "phone": "2063401457", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 36, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/mlwnZ_juQgQSvSpxgVFIPw/ms.jpg", 
+      "snippet_text": "New owner with new, now homemade beef patties! I crave their burgers when it's chilly outside. Only a few blocks away from my work, this place has quickly...", 
+      "url": "http://www.yelp.com/biz/dome-burger-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Coffee & Tea", 
+          "coffee"
+        ]
+      ], 
+      "display_phone": "+1-206-632-3162", 
+      "id": "canal-street-coffee-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/gmkgc2jukEICuMbQDUzxmg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "102 NW Canal St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.652228, 
+          "longitude": -122.358068
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 1st Ave", 
+        "display_address": [
+          "102 NW Canal St", 
+          "(b/t N 1st Ave)", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/canal-street-coffee-seattle", 
+      "name": "Canal Street Coffee", 
+      "phone": "2066323162", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 69, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/k9Jz54_TNlJrP73Llp9KYQ/ms.jpg", 
+      "snippet_text": "I had always seen this place while on the Burke-Gilman, but never really got around to it. When Snowpocalypse 2012 hit, all the other Fremont coffee shops...", 
+      "url": "http://www.yelp.com/biz/canal-street-coffee-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Coffee & Tea", 
+          "coffee"
+        ]
+      ], 
+      "display_phone": "+1-206-547-1256", 
+      "id": "caffe-appassionato-seattle-6", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/0WWHM0-CujdcJRXatqxatw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1218 N 45th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6613964, 
+          "longitude": -122.3435421
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Midvale Ave", 
+        "display_address": [
+          "1218 N 45th St", 
+          "(b/t N Midvale Ave)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/caffe-appassionato-seattle-6", 
+      "name": "Caffe Appassionato", 
+      "phone": "2065471256", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 13, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/y8EyrFy9xxUs4AZbI4Fcsg/ms.jpg", 
+      "snippet_text": "They took a friendly place and made it even better by adding beer! Plus the beer prices are incredible. You can get a $3 glass during happy hour, I think...", 
+      "url": "http://www.yelp.com/biz/caffe-appassionato-seattle-6"
+    }, 
+    {
+      "categories": [
+        [
+          "Burgers", 
+          "burgers"
+        ], 
+        [
+          "Fast Food", 
+          "hotdogs"
+        ]
+      ], 
+      "display_phone": "+1-206-525-5599", 
+      "id": "jack-in-the-box-seattle-14", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/_zL36QTMFEU7JNuOwOQ5IQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4749 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6644844, 
+          "longitude": -122.3131001
+        }, 
+        "country_code": "US", 
+        "cross_streets": "47th St & 50th St", 
+        "display_address": [
+          "4749 University Way NE", 
+          "(b/t 47th St & 50th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/jack-in-the-box-seattle-14", 
+      "name": "Jack In The Box", 
+      "phone": "2065255599", 
+      "rating": 1.5, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206262898554088/img/ico/stars/stars_1_half.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206262705362442/img/ico/stars/stars_large_1_half.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206261970349521/img/ico/stars/stars_small_1_half.png", 
+      "review_count": 33, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/I9k0MiBkBUYnUJOgHnlB-Q/ms.jpg", 
+      "snippet_text": "I only rarely eat jack in the box and then fries only, but my friend wanted to visit today and I must say this location was highly entertaining. I was...", 
+      "url": "http://www.yelp.com/biz/jack-in-the-box-seattle-14"
+    }, 
+    {
+      "categories": [
+        [
+          "Restaurants", 
+          "restaurants"
+        ], 
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-206-525-4493", 
+      "id": "earls-on-the-avenue-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/XpfRCAvHCjbciGub7qXVDQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4333 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6608226, 
+          "longitude": -122.3132935
+        }, 
+        "country_code": "US", 
+        "cross_streets": "43rd St & 45th St", 
+        "display_address": [
+          "4333 University Way NE", 
+          "(b/t 43rd St & 45th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/earls-on-the-avenue-seattle", 
+      "name": "Earl's On the Avenue", 
+      "phone": "2065254493", 
+      "rating": 2.5, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264170501445/img/ico/stars/stars_2_half.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/201206261709603397/img/ico/stars/stars_large_2_half.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/201206261936943100/img/ico/stars/stars_small_2_half.png", 
+      "review_count": 98, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/bgt7dmAtGvLmWZpAH1Ytcw/ms.jpg", 
+      "snippet_text": "Creative cocktails, good service. \n\nThe usual Ave crowd hangs out here, so expect a lot of bros and Asians. They have tons of seating and a huge area, only...", 
+      "url": "http://www.yelp.com/biz/earls-on-the-avenue-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-728-6069", 
+      "id": "bathtub-gin-and-co-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/n1t6NO84P8vwRV8rSr8aog/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2205 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.613195, 
+          "longitude": -122.344839
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blanchard St & Bell St", 
+        "display_address": [
+          "2205 2nd Ave", 
+          "(b/t Blanchard St & Bell St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/bathtub-gin-and-co-seattle", 
+      "name": "Bathtub Gin & Co", 
+      "phone": "2067286069", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 317, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/lKUO_J1JRNH3pbKK8U-Qeg/ms.jpg", 
+      "snippet_text": "Maybe it was the fun random company, or the hours of liquor seeping through my veins, but I hardly stay out til closing at a bar (maybe my friends suck, or...", 
+      "url": "http://www.yelp.com/biz/bathtub-gin-and-co-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ]
+      ], 
+      "display_phone": "+1-206-223-1333", 
+      "id": "noc-noc-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Y8fW37oEI5xTI27hTmkW5Q/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1516 2nd Ave", 
+          "Ste 104"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.609923, 
+          "longitude": -122.339018
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Pine St", 
+        "display_address": [
+          "1516 2nd Ave", 
+          "Ste 104", 
+          "(b/t Pike St & Pine St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/noc-noc-seattle", 
+      "name": "Noc Noc", 
+      "phone": "2062231333", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 240, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/_VfWkUTQDe1QTMbg0jF1Xg/ms.jpg", 
+      "snippet_text": "Best Halloween Party I've EVER been to. Love the staff, the bouncers, and the newest addition to the staff, the pup at the front door.\n\nTry the Long Island!...", 
+      "url": "http://www.yelp.com/biz/noc-noc-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Mexican", 
+          "mexican"
+        ], 
+        [
+          "Food Stands", 
+          "foodstands"
+        ]
+      ], 
+      "display_phone": "+1-206-722-9977", 
+      "id": "tacos-el-asadero-seattle-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/ghomMkr4jXZ4WcIDzEC9UQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3517 Rainier Ave S"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5712965, 
+          "longitude": -122.2927885
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "3517 Rainier Ave S", 
+          "Seattle, WA 98118"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98118", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/tacos-el-asadero-seattle-2", 
+      "name": "Tacos El Asadero", 
+      "phone": "2067229977", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 169, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/H5VL2ougkvQ5N4M5YmWWxQ/ms.jpg", 
+      "snippet_text": "Tacos El Asadero!\n\nA taco truck that is a must and not a bust!\n\nThis place simply is one of the greater taco trucks out there, they do not disappoint and...", 
+      "url": "http://www.yelp.com/biz/tacos-el-asadero-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Vegetarian", 
+          "vegetarian"
+        ], 
+        [
+          "Vietnamese", 
+          "vietnamese"
+        ]
+      ], 
+      "display_phone": "+1-206-322-3378", 
+      "id": "moonlight-cafe-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/XaIK_Gx66i4Mmp-g95toJg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1919 S Jackson St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5991537, 
+          "longitude": -122.3067525
+        }, 
+        "country_code": "US", 
+        "cross_streets": "S 19th Ave & S 20th Ave", 
+        "display_address": [
+          "1919 S Jackson St", 
+          "(b/t S 19th Ave & S 20th Ave)", 
+          "Central District", 
+          "Seattle, WA 98144"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Central District"
+        ], 
+        "postal_code": "98144", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/moonlight-cafe-seattle", 
+      "name": "Moonlight Cafe", 
+      "phone": "2063223378", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 166, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/b668_1jWTeGs2hL3NJe1Qw/ms.jpg", 
+      "snippet_text": "I love this place, it's probably the restaurant I go to most in Seattle- great selection of fresh, delicious, authentic Vietnamese food with a companion...", 
+      "url": "http://www.yelp.com/biz/moonlight-cafe-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Fast Food", 
+          "hotdogs"
+        ], 
+        [
+          "Southern", 
+          "southern"
+        ], 
+        [
+          "Soul Food", 
+          "soulfood"
+        ]
+      ], 
+      "display_phone": "+1-206-324-4141", 
+      "id": "ezells-famous-chicken-seattle-3", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/lSY5Kypymb_hq0enRwo7Tw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "501 23rd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6063166, 
+          "longitude": -122.3029733
+        }, 
+        "country_code": "US", 
+        "cross_streets": "James St & Jefferson St", 
+        "display_address": [
+          "501 23rd Ave", 
+          "(b/t James St & Jefferson St)", 
+          "Central District", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Central District"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/ezells-famous-chicken-seattle-3", 
+      "name": "Ezell's Famous Chicken", 
+      "phone": "2063244141", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 364, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/zakpSvZc-brgSMp1WgxWxw/ms.jpg", 
+      "snippet_text": "Amazing place! Located on MLK Way. Kinda in a suspect location but for some real good fried chicken I would take a bullet. The best fried chicken 'i have...", 
+      "url": "http://www.yelp.com/biz/ezells-famous-chicken-seattle-3"
+    }, 
+    {
+      "categories": [
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-268-0154", 
+      "id": "nook-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/aMm1CeqbClV-TPaawYMzHA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4754 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6646945, 
+          "longitude": -122.312968
+        }, 
+        "country_code": "US", 
+        "cross_streets": "47th St & 50th St", 
+        "display_address": [
+          "4754 University Way NE", 
+          "(b/t 47th St & 50th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/nook-seattle", 
+      "name": "Nook", 
+      "phone": "2062680154", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 57, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/pJcbMXdioSq7xlqNRChQ_A/ms.jpg", 
+      "snippet_text": "My boyfriend and I were looking for a place to grab a quick breakfast to go when we were visiting the Seattle area. We hit up the Nook just in time, because...", 
+      "url": "http://www.yelp.com/biz/nook-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Drugstores", 
+          "drugstores"
+        ], 
+        [
+          "Cosmetics & Beauty Supply", 
+          "cosmetics"
+        ], 
+        [
+          "Convenience Stores", 
+          "convenience"
+        ]
+      ], 
+      "display_phone": "+1-206-204-0145", 
+      "id": "walgreens-seattle-9", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/oCXH7PQERHWBPP3NFZqwzg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1205 Ne 50Th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.664809, 
+          "longitude": -122.3148984
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 12th Ave & N Brooklyn Ave", 
+        "display_address": [
+          "1205 Ne 50Th St", 
+          "(b/t N 12th Ave & N Brooklyn Ave)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/walgreens-seattle-9", 
+      "name": "Walgreens", 
+      "phone": "2062040145", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 16, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/3V8NtT1IvZoj_lB4kedJfg/ms.jpg", 
+      "snippet_text": "IT'S VERYGOOD! No surprises in the U-District.  They have all the things that you would expect in a drug store....drugs, ya...lol...candy (that's what I go...", 
+      "url": "http://www.yelp.com/biz/walgreens-seattle-9"
+    }, 
+    {
+      "categories": [
+        [
+          "Coffee & Tea", 
+          "coffee"
+        ], 
+        [
+          "Cafes", 
+          "cafes"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-264-7611", 
+      "id": "caff\u00e8-senso-unico-seattle-2", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/hbOwdRFnGZUA0UdIy86S3A/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "622 Olive Way"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6132357, 
+          "longitude": -122.3360292
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "622 Olive Way", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/caff%C3%A8-senso-unico-seattle-2", 
+      "name": "Caff\u00e8 Senso Unico", 
+      "phone": "2062647611", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 72, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/DL3dKTNL6o0dgI-F4-tExw/ms.jpg", 
+      "snippet_text": "Sesno is the most amazing spot to grab coffee downtown!  I think because my drink is the \"mocha\", and I am kind of particular.  I hate crappy chocolate in...", 
+      "url": "http://www.yelp.com/biz/caff%C3%A8-senso-unico-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Ethiopian", 
+          "ethiopian"
+        ]
+      ], 
+      "display_phone": "+1-206-362-4901", 
+      "id": "enat-ethiopian-restaurant-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/grtw9E93dJc-e3ga-JRP7Q/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "11546 15th Ave NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.7135131, 
+          "longitude": -122.3121986
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "11546 15th Ave NE", 
+          "Northgate", 
+          "Seattle, WA 98125"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Northgate"
+        ], 
+        "postal_code": "98125", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/enat-ethiopian-restaurant-seattle", 
+      "name": "Enat Ethiopian Restaurant", 
+      "phone": "2063624901", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 53, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/h0KJ_8anLn8_kiAyUknTQA/ms.jpg", 
+      "snippet_text": "This is a tasty place to eat at a great price. It was the first time I've ever eaten Ethiopian food, it was so good I can't wait to try it again. It is fun...", 
+      "url": "http://www.yelp.com/biz/enat-ethiopian-restaurant-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ]
+      ], 
+      "display_phone": "+1-206-623-3180", 
+      "id": "alibi-room-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/qbtEn2-qDBXnzwFsVsLEKw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "85 Pike St", 
+          "Ste 410"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6084446, 
+          "longitude": -122.340445
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Western Ave & Post Aly", 
+        "display_address": [
+          "85 Pike St", 
+          "Ste 410", 
+          "(b/t Western Ave & Post Aly)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/alibi-room-seattle", 
+      "name": "Alibi Room", 
+      "phone": "2066233180", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 224, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/MI4Tmy0Cf09_yKMbd4QhjQ/ms.jpg", 
+      "snippet_text": "I told my friends that you have to come up with a fake name and alibi in order to get in  past the door. Confused and surprised I gave them an example like,...", 
+      "url": "http://www.yelp.com/biz/alibi-room-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ]
+      ], 
+      "display_phone": "+1-206-323-2822", 
+      "id": "havana-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/3G9-7IyZ-L1cP0iZUGvSpg/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1010 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6141067, 
+          "longitude": -122.3189522
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1010 E Pike St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/havana-seattle", 
+      "name": "Havana", 
+      "phone": "2063232822", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 141, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/5DBie6UomRZ-ZDPGtzgb_w/ms.jpg", 
+      "snippet_text": "In Seattle on a TUESDAY and Looking for a Fun time?  COME HERE.\n\nSITREP\n\nA seriously happening, artsy, kitschy, but incredibly small venue, that showcases a...", 
+      "url": "http://www.yelp.com/biz/havana-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-324-7462", 
+      "id": "the-twilight-exit-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/VgtPYto26llhvFhYyGJK0w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2514 E Cherry St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6081608, 
+          "longitude": -122.2994183
+        }, 
+        "country_code": "US", 
+        "cross_streets": "25th Ave & 26th Ave", 
+        "display_address": [
+          "2514 E Cherry St", 
+          "(b/t 25th Ave & 26th Ave)", 
+          "Central District", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Central District"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-twilight-exit-seattle-2", 
+      "name": "The Twilight Exit", 
+      "phone": "2063247462", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 114, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/PATAPo1ISUMc4WGAK7u18Q/ms.jpg", 
+      "snippet_text": "This place has been a CD institution for my friends and I for years. A great watering hole where you can go to celebrate the best stuff in life or forget...", 
+      "url": "http://www.yelp.com/biz/the-twilight-exit-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Mexican", 
+          "mexican"
+        ]
+      ], 
+      "display_phone": "+1-206-729-5071", 
+      "id": "memos-mexican-food-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/Vr5q3XCY-YpzpEFlklMqGA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4743 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6642995, 
+          "longitude": -122.3132225
+        }, 
+        "country_code": "US", 
+        "cross_streets": "47th St & 50th St", 
+        "display_address": [
+          "4743 University Way NE", 
+          "(b/t 47th St & 50th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/memos-mexican-food-seattle", 
+      "name": "Memo's Mexican Food", 
+      "phone": "2067295071", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 167, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/B5pketf2_roK5dmwZclMcQ/ms.jpg", 
+      "snippet_text": "Since there was no other Mexican food restaurant nearby, I decided to try this. Their food tasted amazing, though my friend did suggest to not get any meat,...", 
+      "url": "http://www.yelp.com/biz/memos-mexican-food-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Chinese", 
+          "chinese"
+        ]
+      ], 
+      "display_phone": "+1-206-682-1922", 
+      "id": "hong-kong-bistro-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/P_mVid5rzdlaEWqBJtGy5w/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "511 Maynard Ave S", 
+          "Ste C"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.5982768, 
+          "longitude": -122.3250846
+        }, 
+        "country_code": "US", 
+        "cross_streets": "King St & Weller St", 
+        "display_address": [
+          "511 Maynard Ave S", 
+          "Ste C", 
+          "(b/t King St & Weller St)", 
+          "International District", 
+          "Seattle, WA 98104"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "International District"
+        ], 
+        "postal_code": "98104", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hong-kong-bistro-seattle", 
+      "name": "Hong Kong Bistro", 
+      "phone": "2066821922", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 131, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/_fl8sBm0kt3cvEDx6d9mGQ/ms.jpg", 
+      "snippet_text": "We went here right after the UW Commencement and it had been absolutely slammed. When we arrived, the entire left side was completely full and they had to...", 
+      "url": "http://www.yelp.com/biz/hong-kong-bistro-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6424048, 
+      "longitude": -122.32542825
+    }, 
+    "span": {
+      "latitude_delta": 0.1564382600000016, 
+      "longitude_delta": 0.07180744999999433
+    }
+  }, 
+  "total": 90
+}

@@ -1,0 +1,1033 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-547-9639", 
+      "id": "horseshoe-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/E5gJUYK3md770HB2mFtiQw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5344 Ballard Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.667577, 
+          "longitude": -122.384148
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Vernon Pl & N 22nd Ave", 
+        "display_address": [
+          "5344 Ballard Ave NW", 
+          "(b/t Vernon Pl & N 22nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/horseshoe-seattle", 
+      "name": "Horseshoe", 
+      "phone": "2065479639", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 38, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/t0QPbpH1BNU-WbVF7H9I0w/ms.jpg", 
+      "snippet_text": "I totally love this store!  Always stocked with super cute clothes, cutie-cute accessories, and a decent collection of my new addiction, Prairie Underground...", 
+      "url": "http://www.yelp.com/biz/horseshoe-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Lingerie", 
+          "lingerie"
+        ]
+      ], 
+      "display_phone": "+1-206-285-2629", 
+      "id": "pink-ginger-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/uiSD4tQDPRPRxGrkI8-qgw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "610 W Crockett St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6378634, 
+          "longitude": -122.3656302
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "610 W Crockett St", 
+          "Queen Anne", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/pink-ginger-seattle", 
+      "name": "Pink Ginger", 
+      "phone": "2062852629", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 11, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/FXixmX0buJMZT-2IVbpUsg/ms.jpg", 
+      "snippet_text": "I LOVE, LOVE, LOVE finding bits of paradise... this little shope is located in a cozy Queen Anne neighboorhood with gorgeous leafy trees outlining the...", 
+      "url": "http://www.yelp.com/biz/pink-ginger-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Accessories", 
+          "accessories"
+        ], 
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Jewelry", 
+          "jewelry"
+        ]
+      ], 
+      "display_phone": "+1-206-706-4188", 
+      "id": "show-pony-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/bQJT4bkFC7bXaN_VyKCpkQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "702 N 35th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6504969, 
+          "longitude": -122.3497031
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Aurora Ave & N Fremont Pl", 
+        "display_address": [
+          "702 N 35th St", 
+          "(b/t N Aurora Ave & N Fremont Pl)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/show-pony-seattle", 
+      "name": "Show Pony", 
+      "phone": "2067064188", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 36, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/HZ3dH0-MlK4_vIQqCdHIJA/ms.jpg", 
+      "snippet_text": "Show Pony is so fabulous!  The store is divided into upstairs and downstairs.  The downstairs features new clothing, shoes, and accessories - lots of...", 
+      "url": "http://www.yelp.com/biz/show-pony-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Jewelry", 
+          "jewelry"
+        ]
+      ], 
+      "display_phone": "+1-206-788-0330", 
+      "id": "velouria-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/kWjT2HOHnvi26dMfOs38tA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2205 NW Market St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6686756, 
+          "longitude": -122.384976
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Ballard Ave & N 22nd Ave", 
+        "display_address": [
+          "2205 NW Market St", 
+          "(b/t N Ballard Ave & N 22nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/velouria-seattle", 
+      "name": "Velouria", 
+      "phone": "2067880330", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 41, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/oO8NeK7sHZYINH5wshUZbQ/ms.jpg", 
+      "snippet_text": "I have been buying both jewelry and clothing there for my wife for a few years now, and I've always had great service.  But I wanted to write now because...", 
+      "url": "http://www.yelp.com/biz/velouria-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Home Decor", 
+          "homedecor"
+        ]
+      ], 
+      "display_phone": "+1-206-659-4963", 
+      "id": "meadow-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/ptoDwaP7Ilzifuu71p32VA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1959 6th Ave W"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6375865, 
+          "longitude": -122.3649978
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Howe St & Crockett St", 
+        "display_address": [
+          "1959 6th Ave W", 
+          "(b/t Howe St & Crockett St)", 
+          "Queen Anne", 
+          "Seattle, WA 98119"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98119", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/meadow-seattle", 
+      "name": "Meadow", 
+      "phone": "2066594963", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 34, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/wjHJkmWjUZw2li_LuYKl_w/ms.jpg", 
+      "snippet_text": "I was walking around Queen Anne with my friends, and I saw this store and had to pop in. I was expecting ridiculous prices, like $200 for a belt, and I was...", 
+      "url": "http://www.yelp.com/biz/meadow-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Accessories", 
+          "accessories"
+        ]
+      ], 
+      "display_phone": "+1-206-687-7130", 
+      "id": "peridot-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/p1QKU_cnd2dGkK4ihhr0MQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "532 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6242781, 
+          "longitude": -122.3565795
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Republican St & Mercer St", 
+        "display_address": [
+          "532 Queen Anne Ave N", 
+          "(b/t Republican St & Mercer St)", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/peridot-seattle", 
+      "name": "Peridot", 
+      "phone": "2066877130", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 29, 
+      "snippet_image_url": "http://media3.ak.yelpcdn.com/static/201206261986305257/img/gfx/blank_user_medium.gif", 
+      "snippet_text": "Let me tell you, this place is where you need to be shopping. I needed to get a Christmas present for my mom and the scarves Peridot has are unlike any...", 
+      "url": "http://www.yelp.com/biz/peridot-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Shoe Stores", 
+          "shoes"
+        ]
+      ], 
+      "display_phone": "+1-206-623-3582", 
+      "id": "totokaelo-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/r6Bttl-e0CG4BAD6lQgTSQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1523 10th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6147232, 
+          "longitude": -122.3195871
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Pine St", 
+        "display_address": [
+          "1523 10th Ave", 
+          "(b/t Pike St & Pine St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/totokaelo-seattle", 
+      "name": "Totokaelo", 
+      "phone": "2066233582", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 17, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/cyZIYGmgfkAcN_ijLHQY6w/ms.jpg", 
+      "snippet_text": "Took me awhile to find this store, 100% worth the hunt.  One of the women who works there advised me that they are moving next to Elliott bay bookstore. Now...", 
+      "url": "http://www.yelp.com/biz/totokaelo-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Accessories", 
+          "accessories"
+        ]
+      ], 
+      "display_phone": "+1-206-632-2877", 
+      "id": "les-amis-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/0G9yq3O4TuOnR-lfI9VGtw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3420 Evanston Avenue N."
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6500199, 
+          "longitude": -122.3513029
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "3420 Evanston Avenue N.", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/les-amis-seattle", 
+      "name": "Les Amis", 
+      "phone": "2066322877", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 44, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/m4ImVW8f6Ut5YCaSsgTcfw/ms.jpg", 
+      "snippet_text": "I guess it's time for my rebuttal to those Les Amis nay-sayers out there. \n\nLes Amis definitely has more than \"thin, long sleeve t-shirts.\" They carry...", 
+      "url": "http://www.yelp.com/biz/les-amis-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Men's Clothing", 
+          "menscloth"
+        ], 
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-441-1999", 
+      "id": "kuhlman-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/H2esNMZwELX4ptnC_CUB4A/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2419 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6144579, 
+          "longitude": -122.3485931
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Battery St & Wall St", 
+        "display_address": [
+          "2419 1st Ave", 
+          "(b/t Battery St & Wall St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/kuhlman-seattle", 
+      "name": "Kuhlman", 
+      "phone": "2064411999", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 30, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/L5td7nKvxjeGAsF9WypLBw/ms.jpg", 
+      "snippet_text": "Oh how I wish you were here at home!  What a great store with really cool items.  Tailor in the back with tons of fabric options, cool trendy (but not...", 
+      "url": "http://www.yelp.com/biz/kuhlman-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-522-9474", 
+      "id": "wish-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/2dLrjfnkxMcF0GaiBQIBsQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4419 Wallingford Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6608545, 
+          "longitude": -122.3363357
+        }, 
+        "country_code": "US", 
+        "cross_streets": "44th St & 45th St", 
+        "display_address": [
+          "4419 Wallingford Ave N", 
+          "(b/t 44th St & 45th St)", 
+          "Wallingford", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Wallingford"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/wish-seattle", 
+      "name": "Wish", 
+      "phone": "2065229474", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 15, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Qmukg6UK3TfZTFiY4v4Fow/ms.jpg", 
+      "snippet_text": "So I should start out by saying I am sitting here typing this out dressed in a dress from Wish!  I have only been there once and $300 something dollars...", 
+      "url": "http://www.yelp.com/biz/wish-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Jewelry", 
+          "jewelry"
+        ], 
+        [
+          "Men's Clothing", 
+          "menscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-632-2622", 
+      "id": "moksha-clothing-and-accessories-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/X4iFic62YhrY_ZRyimDg8g/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4542 University Way NE"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6616769, 
+          "longitude": -122.3130938
+        }, 
+        "country_code": "US", 
+        "cross_streets": "45th St & 47th St", 
+        "display_address": [
+          "4542 University Way NE", 
+          "(b/t 45th St & 47th St)", 
+          "University District", 
+          "Seattle, WA 98105"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "University District"
+        ], 
+        "postal_code": "98105", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/moksha-clothing-and-accessories-seattle", 
+      "name": "Moksha Clothing &  Accessories", 
+      "phone": "2066322622", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 37, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/i8KZMuVSyYiCG_3mYAR5rA/ms.jpg", 
+      "snippet_text": "Really cute, unique fashion at great prices. I like that they have a mix of new and vintage items. However, I did buy a coat made by the  British company...", 
+      "url": "http://www.yelp.com/biz/moksha-clothing-and-accessories-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Accessories", 
+          "accessories"
+        ], 
+        [
+          "Men's Clothing", 
+          "menscloth"
+        ], 
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-652-4664", 
+      "id": "the-finerie-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/u7aEs24ehZZqTmhQPYjoAA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1215 1st Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6061933, 
+          "longitude": -122.3379394
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Seneca St & University St", 
+        "display_address": [
+          "1215 1st Ave", 
+          "(b/t Seneca St & University St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-finerie-seattle", 
+      "name": "The Finerie", 
+      "phone": "2066524664", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 18, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/3eIDqYwHULiOm4LF-uKRnQ/ms.jpg", 
+      "snippet_text": "Everyone has a first time, Michael made mine easy and I left feeling confident and knowing I looked good.\n\nI'd never spent much time or money on my clothes...", 
+      "url": "http://www.yelp.com/biz/the-finerie-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Jewelry", 
+          "jewelry"
+        ]
+      ], 
+      "display_phone": "+1-206-545-1145", 
+      "id": "kimberly-baker-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/3Y8eKiZlKYvKto-bhuDGDA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "617 N 36th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.651496, 
+          "longitude": -122.3510604
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Evanston Ave & N Fremont Pl", 
+        "display_address": [
+          "617 N 36th St", 
+          "(b/t N Evanston Ave & N Fremont Pl)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/kimberly-baker-seattle", 
+      "name": "Kimberly Baker", 
+      "phone": "2065451145", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 6, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/MzDqaNQiTq79wBwYe7fTMQ/ms.jpg", 
+      "snippet_text": "This is the 'wow' gift. For your lovely lady, or for treating yourself, lovely ladies.\n\nKimberly Baker jewelry is amazing, and the flagship store is a...", 
+      "url": "http://www.yelp.com/biz/kimberly-baker-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-297-1638", 
+      "id": "frock-shop-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/QO4xABxuE9ZmmjDmOY8F7A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "6500 Phinney Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6760281, 
+          "longitude": -122.3543335
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "6500 Phinney Ave N", 
+          "Phinney Ridge", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Phinney Ridge"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/frock-shop-seattle", 
+      "name": "Frock Shop", 
+      "phone": "2062971638", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 46, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/FGqzuH-DC11zWp6mXwMoew/ms.jpg", 
+      "snippet_text": "Full disclosure... I am one of the local independent designers carried by Frock Shop (glamspoon).  But even if I wasn't, I would still give this shop a 5...", 
+      "url": "http://www.yelp.com/biz/frock-shop-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Day Spas", 
+          "spas"
+        ], 
+        [
+          "Fashion", 
+          "fashion"
+        ]
+      ], 
+      "display_phone": "+1-206-281-9399", 
+      "id": "vixen-day-spa-and-boutique-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/QrEvCKQNMWYF4c6zLP-BxA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "3209 W McGraw St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.639309, 
+          "longitude": -122.398848
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "3209 W McGraw St", 
+          "Magnolia", 
+          "Seattle, WA 98199"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Magnolia"
+        ], 
+        "postal_code": "98199", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/vixen-day-spa-and-boutique-seattle", 
+      "name": "Vixen Day Spa & Boutique", 
+      "phone": "2062819399", 
+      "rating": 5.0, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206262578611207/img/ico/stars/stars_5.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/20120626354709277/img/ico/stars/stars_large_5.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206261949604803/img/ico/stars/stars_small_5.png", 
+      "review_count": 14, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/2blOjx6o9ZIHTczOXrO9IA/ms.jpg", 
+      "snippet_text": "This place is AWESOME (!!) , for everything from skin care, massage, nails, waxing AND  one-of-a-kind jewelry, clothing & accessories.  The store itself is...", 
+      "url": "http://www.yelp.com/biz/vixen-day-spa-and-boutique-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Accessories", 
+          "accessories"
+        ]
+      ], 
+      "display_phone": "+1-206-286-1024", 
+      "id": "queen-anne-dispatch-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/BOVsTPYb6bTTIhapiiXZqw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2212 Queen Anne Ave N"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6388724, 
+          "longitude": -122.3569007
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "2212 Queen Anne Ave N", 
+          "Queen Anne", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Queen Anne"
+        ], 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/queen-anne-dispatch-seattle", 
+      "name": "Queen Anne Dispatch", 
+      "phone": "2062861024", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 30, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/xoWTFvOzyz-MjSjKiXWe_g/ms.jpg", 
+      "snippet_text": "So happy to have this boutique/shipping center in my neighborhood.  \n\nI ship a fair amount of packages via freight collect to the UK.  The staff here is so...", 
+      "url": "http://www.yelp.com/biz/queen-anne-dispatch-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Accessories", 
+          "accessories"
+        ]
+      ], 
+      "display_phone": "+1-206-240-6658", 
+      "id": "la-rousse-kalaheo", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/qDPSw7zzsSUTMHpTfoU-7g/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [], 
+        "city": "Kalaheo", 
+        "coordinate": {
+          "latitude": 47.6226758, 
+          "longitude": -122.3113396
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "Capitol Hill", 
+          "Kalaheo, HI 96741"
+        ], 
+        "geo_accuracy": 9, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "96741", 
+        "state_code": "HI"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/la-rousse-kalaheo", 
+      "name": "La Rousse", 
+      "phone": "2062406658", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 9, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/ZhR1re-OWUJW1nKwvytOQw/ms.jpg", 
+      "snippet_text": "Even though this boutique has gone online and personal appointments only, MAKE THE EFFORT! Amanda, the proprietress has killer taste, cutting edge fashion...", 
+      "url": "http://www.yelp.com/biz/la-rousse-kalaheo"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-782-5335", 
+      "id": "merge-seattle-2", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "611 N 35th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6505391, 
+          "longitude": -122.3507719
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N Evanston Ave & N Fremont Ave", 
+        "display_address": [
+          "611 N 35th St", 
+          "(b/t N Evanston Ave & N Fremont Ave)", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/merge-seattle-2", 
+      "name": "Merge", 
+      "phone": "2067825335", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 12, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/E-3VXjQVT5-DjhavEeUcXg/ms.jpg", 
+      "snippet_text": "I loved Merge from the moment it opened and have missed it when worked led me out of Seattle. Well, miss it no more...since returning, Pat has yet again...", 
+      "url": "http://www.yelp.com/biz/merge-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ], 
+        [
+          "Accessories", 
+          "accessories"
+        ], 
+        [
+          "Home Decor", 
+          "homedecor"
+        ]
+      ], 
+      "display_phone": "+1-206-328-2102", 
+      "id": "spun-sustainable-collective-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/RuBcqtKrFa-tVkuumJPgJA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1515 14th Ave", 
+          "Ste A"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.614677, 
+          "longitude": -122.31448
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Madison St & Pike St", 
+        "display_address": [
+          "1515 14th Ave", 
+          "Ste A", 
+          "(b/t Madison St & Pike St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/spun-sustainable-collective-seattle", 
+      "name": "SPUN Sustainable Collective", 
+      "phone": "2063282102", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 8, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/ZWOm1m4rPUYrZHRPIuWwCA/ms.jpg", 
+      "snippet_text": "Via a recommend from a Facebook friend, I  ordered from SPUN during to take advantage of their sale event -  I'm trying to go to organic cotton clothing....", 
+      "url": "http://www.yelp.com/biz/spun-sustainable-collective-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Women's Clothing", 
+          "womenscloth"
+        ]
+      ], 
+      "display_phone": "+1-206-402-4589", 
+      "id": "ketch-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Kxu7CY1JUjZjYseS4-zCfg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5317 Ballard Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6667545, 
+          "longitude": -122.3837734
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Vernon Pl & N 22nd Ave", 
+        "display_address": [
+          "5317 Ballard Ave", 
+          "(b/t Vernon Pl & N 22nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/ketch-seattle", 
+      "name": "Ketch", 
+      "phone": "2064024589", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 6, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/NsKdEbt8ZGvKVpD09HKZAg/ms.jpg", 
+      "snippet_text": "Stellar Cool!!!\n\nWhy does Ballard have all the cool shops? It seems to harbor just about all the trendiest high-end shops next to downtown. Those...", 
+      "url": "http://www.yelp.com/biz/ketch-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.6411107, 
+      "longitude": -122.35509379999999
+    }, 
+    "span": {
+      "latitude_delta": 0.07681827999999769, 
+      "longitude_delta": 0.09625923999999486
+    }
+  }, 
+  "total": 258
+}

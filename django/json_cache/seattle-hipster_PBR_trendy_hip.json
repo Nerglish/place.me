@@ -1,0 +1,1033 @@
+{
+  "businesses": [
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-322-0703", 
+      "id": "cha-cha-lounge-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/Rfo6Sg-otozJAZ13mAIOCQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1013 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6139898, 
+          "longitude": -122.3187249
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1013 E Pike St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/cha-cha-lounge-seattle", 
+      "name": "Cha Cha Lounge", 
+      "phone": "2063220703", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 266, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Kh7gd8ySY0TC_nnUJ671xg/ms.jpg", 
+      "snippet_text": "After just moving back from Florida, I was looking to get myself situated with some cool bars in the area that I was moving to, so I went along with some...", 
+      "url": "http://www.yelp.com/biz/cha-cha-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pubs", 
+          "pubs"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-782-0027", 
+      "id": "kings-hardware-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/enAyqquB4P8FPMV_93uO-A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5225 Ballard Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6660333, 
+          "longitude": -122.382946
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "5225 Ballard Ave NW", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/kings-hardware-seattle", 
+      "name": "King's Hardware", 
+      "phone": "2067820027", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 363, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/7Wboo8zWLdoNOP_aBx1qzA/ms.jpg", 
+      "snippet_text": "Cheap drinks and skeeball = epic win!  \n\n8 bucks for a can of Rainier and my Malibu Bay Breeze... and the bartenders were very attentive too!! \n\nCan't...", 
+      "url": "http://www.yelp.com/biz/kings-hardware-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-206-325-1220", 
+      "id": "lindas-tavern-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/slPcEUBvsnDkEJFdxbFZKA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "707 E Pine St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6152568, 
+          "longitude": -122.3233178
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Boylston Ave & Harvard Ave", 
+        "display_address": [
+          "707 E Pine St", 
+          "(b/t Boylston Ave & Harvard Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/lindas-tavern-seattle", 
+      "name": "Linda's Tavern", 
+      "phone": "2063251220", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 346, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/60zHDyPPjQPWMaGfIFjYZw/ms.jpg", 
+      "snippet_text": "Love this place because it reminds me of King's so much, but it's much more convenient to hit up Capitol Hill than Ballard. They were smart in having two...", 
+      "url": "http://www.yelp.com/biz/lindas-tavern-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-325-6492", 
+      "id": "unicorn-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/uqpO-RkbXHRtT5UIDnbeKQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1118 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6141195, 
+          "longitude": -122.3173589
+        }, 
+        "country_code": "US", 
+        "cross_streets": "11th Ave & 12th Ave", 
+        "display_address": [
+          "1118 E Pike St", 
+          "(b/t 11th Ave & 12th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/unicorn-seattle", 
+      "name": "Unicorn", 
+      "phone": "2063256492", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 259, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/a0qCal2FzOdvQQqDtfiucQ/ms.jpg", 
+      "snippet_text": "If I had all the monies I'd spend most of them here.  FUCKING CREAM CHEESE CARMELIZED ONION SRIRACHA CORN DOGS IN FUCKING CAKE BATTER OH SWEET GOD JUST MAKE...", 
+      "url": "http://www.yelp.com/biz/unicorn-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "Arcades", 
+          "arcades"
+        ]
+      ], 
+      "display_phone": "+1-206-441-5449", 
+      "id": "shortys-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/AW_vg4RKELsjlQW21Hk3WQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2222 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.613817, 
+          "longitude": -122.345013
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Blanchard St & Bell St", 
+        "display_address": [
+          "2222 2nd Ave", 
+          "(b/t Blanchard St & Bell St)", 
+          "Belltown", 
+          "Seattle, WA 98121"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Belltown"
+        ], 
+        "postal_code": "98121", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/shortys-seattle", 
+      "name": "Shorty's", 
+      "phone": "2064415449", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 367, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/_VfWkUTQDe1QTMbg0jF1Xg/ms.jpg", 
+      "snippet_text": "Some of the best bar staff in the city! Some of the best bouncers in the city! A couple of the most frustrating pinball games in the city that will consume...", 
+      "url": "http://www.yelp.com/biz/shortys-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ]
+      ], 
+      "display_phone": "+1-206-329-1952", 
+      "id": "the-redwood-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/-5YyhutWxZkbjYUE1InI1A/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "514 E Howell St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6178266, 
+          "longitude": -122.3244652
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "514 E Howell St", 
+          "Capitol Hill", 
+          "Seattle, WA 98102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98102", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-redwood-seattle", 
+      "name": "The Redwood", 
+      "phone": "2063291952", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 187, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/5JC593IO3WPfbSp6D3vPvw/ms.jpg", 
+      "snippet_text": "You wish you lived right around the corner from this bar. I know I do. \n\nYes, it has the dive bar look both in and out, but with that Northwest charm. Self...", 
+      "url": "http://www.yelp.com/biz/the-redwood-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Music Venues", 
+          "musicvenues"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Dance Clubs", 
+          "danceclubs"
+        ]
+      ], 
+      "display_phone": "+1-206-254-2824", 
+      "id": "lo-fi-performance-gallery-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/-68PCMfAr7McfGUDowvNGQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "429 Eastlake Ave E"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6228796, 
+          "longitude": -122.3291741
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Harrison St & Republican St", 
+        "display_address": [
+          "429 Eastlake Ave E", 
+          "(b/t Harrison St & Republican St)", 
+          "Seattle, WA 98109"
+        ], 
+        "geo_accuracy": 8, 
+        "postal_code": "98109", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/lo-fi-performance-gallery-seattle", 
+      "name": "Lo-Fi Performance Gallery", 
+      "phone": "2062542824", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 48, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/xa9jiVS49rgxt4V4jsnfQw/ms.jpg", 
+      "snippet_text": "First dance club I've been to in a long time where people were actually dancing and not just dry humping each other in public. It was awesome! \n\nWent on...", 
+      "url": "http://www.yelp.com/biz/lo-fi-performance-gallery-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ], 
+        [
+          "Pubs", 
+          "pubs"
+        ]
+      ], 
+      "display_phone": "+1-206-547-1417", 
+      "id": "norms-eatery-and-ale-house-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/WZ_pr5XhzO-MMLLkmOFGeQ/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "460 N 36th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6519882, 
+          "longitude": -122.3528517
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "460 N 36th St", 
+          "Fremont", 
+          "Seattle, WA 98103"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Fremont"
+        ], 
+        "postal_code": "98103", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/norms-eatery-and-ale-house-seattle", 
+      "name": "Norm's Eatery & Ale House", 
+      "phone": "2065471417", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 276, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/O92jk8DHromS2fyMJjwp1g/ms.jpg", 
+      "snippet_text": "Food comes out fast, fresh, and delicious! I had their Backyard BBQ burger with a veggie patty and it was so good! They serve string fries which I am...", 
+      "url": "http://www.yelp.com/biz/norms-eatery-and-ale-house-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Shoe Stores", 
+          "shoes"
+        ]
+      ], 
+      "display_phone": "+1-206-297-1786", 
+      "id": "the-sneakery-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Q7SYkW_8pQrlAiyt5DMAsw/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "612 NW 65th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6759891, 
+          "longitude": -122.3641589
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "612 NW 65th Ave", 
+          "Ballard", 
+          "Seattle, WA 98127"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98127", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-sneakery-seattle", 
+      "name": "The Sneakery", 
+      "phone": "2062971786", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 28, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/G8oH_FI-78MKSS0gScQH6A/ms.jpg", 
+      "snippet_text": "As soon as I walked in, I got help.  Good help.  As it turns out, they did not have what I was looking for, but I found so many other fun things I made...", 
+      "url": "http://www.yelp.com/biz/the-sneakery-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Restaurants", 
+          "restaurants"
+        ]
+      ], 
+      "display_phone": "+1-206-709-1900", 
+      "id": "smith-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/XFRAT-_pJpsM5hIui40Q8w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "332 15th Ave E"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6214889, 
+          "longitude": -122.312315
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Thomas St & Harrison St", 
+        "display_address": [
+          "332 15th Ave E", 
+          "(b/t Thomas St & Harrison St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98112"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98112", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/smith-seattle", 
+      "name": "Smith", 
+      "phone": "2067091900", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 360, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/iVPJs2FDa8dncXdwpCqTEQ/ms.jpg", 
+      "snippet_text": "I remember visiting Seattle and going to Smith about 4 years ago and having the most disgusting eggs I think I've ever been served.  Runny whites and cold!...", 
+      "url": "http://www.yelp.com/biz/smith-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Mexican", 
+          "mexican"
+        ]
+      ], 
+      "display_phone": "+1-206-322-9950", 
+      "id": "bimbos-cantina-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Wd9FPmVtkFOorhxevdtusQ/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1013 E Pike St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6140157, 
+          "longitude": -122.3187799
+        }, 
+        "country_code": "US", 
+        "cross_streets": "10th Ave & 11th Ave", 
+        "display_address": [
+          "1013 E Pike St", 
+          "(b/t 10th Ave & 11th Ave)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/bimbos-cantina-seattle", 
+      "name": "Bimbo's Cantina", 
+      "phone": "2063229950", 
+      "rating": 3.0, 
+      "rating_img_url": "http://media1.ak.yelpcdn.com/static/201206261694360749/img/ico/stars/stars_3.png", 
+      "rating_img_url_large": "http://media3.ak.yelpcdn.com/static/201206261053250406/img/ico/stars/stars_large_3.png", 
+      "rating_img_url_small": "http://media1.ak.yelpcdn.com/static/201206262337205794/img/ico/stars/stars_small_3.png", 
+      "review_count": 222, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/2fs78Bk1OLbOxSjWtRBtMA/ms.jpg", 
+      "snippet_text": "Darn decent tacos and yummy drinks. Like others have said - it's bar food (and good at that point). It's definitely worth a visit.", 
+      "url": "http://www.yelp.com/biz/bimbos-cantina-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Breweries", 
+          "breweries"
+        ]
+      ], 
+      "display_phone": "+1-206-465-0078", 
+      "id": "hilliards-beer-seattle", 
+      "image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/qNhQ7b6rbkvWhSJy0MX8mA/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1550 NW 49th St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6644943, 
+          "longitude": -122.3779255
+        }, 
+        "country_code": "US", 
+        "cross_streets": "N 15th Ave & N 17th Ave", 
+        "display_address": [
+          "1550 NW 49th St", 
+          "(b/t N 15th Ave & N 17th Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/hilliards-beer-seattle", 
+      "name": "Hilliard's Beer", 
+      "phone": "2064650078", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 28, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/gWjTcQNuyqx6LlhHtBlJHA/ms.jpg", 
+      "snippet_text": "Really good beer and an awesome ambiance. Really liked this place and will definitely back. Could use a bit more selection but what they've got is great....", 
+      "url": "http://www.yelp.com/biz/hilliards-beer-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Pubs", 
+          "pubs"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-784-3662", 
+      "id": "the-viking-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/qg40SKrZTmDvMERwzE24yA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "6404 24th Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.675476, 
+          "longitude": -122.387245
+        }, 
+        "country_code": "US", 
+        "display_address": [
+          "6404 24th Ave NW", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-viking-seattle", 
+      "name": "The Viking", 
+      "phone": "2067843662", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 79, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/AIyrNeNg4SVSHmKqJXb2jw/ms.jpg", 
+      "snippet_text": "I'm new to Ballard, and as far as divey styley bars go - hell as far as any pubs or local gathering places where quaffing abounds go - this is the first...", 
+      "url": "http://www.yelp.com/biz/the-viking-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "American (Traditional)", 
+          "tradamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-324-7462", 
+      "id": "the-twilight-exit-seattle-2", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/VgtPYto26llhvFhYyGJK0w/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "2514 E Cherry St"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6081608, 
+          "longitude": -122.2994183
+        }, 
+        "country_code": "US", 
+        "cross_streets": "25th Ave & 26th Ave", 
+        "display_address": [
+          "2514 E Cherry St", 
+          "(b/t 25th Ave & 26th Ave)", 
+          "Central District", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Central District"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/the-twilight-exit-seattle-2", 
+      "name": "The Twilight Exit", 
+      "phone": "2063247462", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 114, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/PATAPo1ISUMc4WGAK7u18Q/ms.jpg", 
+      "snippet_text": "This place has been a CD institution for my friends and I for years. A great watering hole where you can go to celebrate the best stuff in life or forget...", 
+      "url": "http://www.yelp.com/biz/the-twilight-exit-seattle-2"
+    }, 
+    {
+      "categories": [
+        [
+          "Southern", 
+          "southern"
+        ], 
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "Sandwiches", 
+          "sandwiches"
+        ]
+      ], 
+      "display_phone": "+1-206-327-9549", 
+      "id": "captain-blacks-seattle", 
+      "image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/TKaUDW1YPICYtpWjl0iGmA/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "129 Belmont Ave E"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6189052, 
+          "longitude": -122.3240317
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Denny Way & John St", 
+        "display_address": [
+          "129 Belmont Ave E", 
+          "(b/t Denny Way & John St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98102", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/captain-blacks-seattle", 
+      "name": "Captain Blacks", 
+      "phone": "2063279549", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 149, 
+      "snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/VSpjX2cOUmfYSLoBYLshqA/ms.jpg", 
+      "snippet_text": "The reason I will be back here is the patio!  It was such a fun place to meet up and catch up with friends on a sunny day.  One of the nicest outdoor...", 
+      "url": "http://www.yelp.com/biz/captain-blacks-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Dive Bars", 
+          "divebars"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ]
+      ], 
+      "display_phone": "+1-206-443-0899", 
+      "id": "nitelite-lounge-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/6N5ASGzRMXln9G1Svjr3Fw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1920 2nd Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6115058, 
+          "longitude": -122.3409121
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Stewart St & Virginia St", 
+        "display_address": [
+          "1920 2nd Ave", 
+          "(b/t Stewart St & Virginia St)", 
+          "Downtown", 
+          "Seattle, WA 98101"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Downtown"
+        ], 
+        "postal_code": "98101", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/nitelite-lounge-seattle", 
+      "name": "Nitelite Lounge", 
+      "phone": "2064430899", 
+      "rating": 4.0, 
+      "rating_img_url": "http://media2.ak.yelpcdn.com/static/201206264084228337/img/ico/stars/stars_4.png", 
+      "rating_img_url_large": "http://media4.ak.yelpcdn.com/static/20120626169592178/img/ico/stars/stars_large_4.png", 
+      "rating_img_url_small": "http://media2.ak.yelpcdn.com/static/20120626418129184/img/ico/stars/stars_small_4.png", 
+      "review_count": 115, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/LCbTaeAriOEuJ3mY5tAjlA/ms.jpg", 
+      "snippet_text": "It really is one of the last dive bars in the downtown core. There have been some changes recently that have been hard to take, but you drink there for the...", 
+      "url": "http://www.yelp.com/biz/nitelite-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-860-1130", 
+      "id": "sun-liquor-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/1JXyLXCzjbT6pAi0FwSpIg/ms.jpg", 
+      "is_claimed": false, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "607 Summit Ave E"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.624511, 
+          "longitude": -122.3253313
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Mercer St & Roy St", 
+        "display_address": [
+          "607 Summit Ave E", 
+          "(b/t Mercer St & Roy St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98102"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98102", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/sun-liquor-seattle", 
+      "name": "Sun Liquor", 
+      "phone": "2068601130", 
+      "rating": 4.5, 
+      "rating_img_url": "http://media4.ak.yelpcdn.com/static/201206263106483837/img/ico/stars/stars_4_half.png", 
+      "rating_img_url_large": "http://media2.ak.yelpcdn.com/static/201206262752244354/img/ico/stars/stars_large_4_half.png", 
+      "rating_img_url_small": "http://media4.ak.yelpcdn.com/static/201206261127761206/img/ico/stars/stars_small_4_half.png", 
+      "review_count": 243, 
+      "snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/kR1vYKPmqigWzvT3EUQOFg/ms.jpg", 
+      "snippet_text": "You'll find Sun Liquor right next to the original Top Pot donuts on Summit.\n\nThe decor at Sun Liquor is right out of Shanghai in the 1930s.  Its an...", 
+      "url": "http://www.yelp.com/biz/sun-liquor-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-297-0500", 
+      "id": "balmar-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/aejxyfgRrKSo-AEyl5gP5A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "5449 Ballard Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6684704, 
+          "longitude": -122.3862405
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Market St & N 22nd Ave", 
+        "display_address": [
+          "5449 Ballard Ave NW", 
+          "(b/t Market St & N 22nd Ave)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/balmar-seattle", 
+      "name": "BalMar", 
+      "phone": "2062970500", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 200, 
+      "snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/jDHTKZyTogMj80mwoi9UTQ/ms.jpg", 
+      "snippet_text": "The club is split into 2 levels with the downstair being a lounge area and the upstairs is where the real action happens with the DJ and dance floor. The...", 
+      "url": "http://www.yelp.com/biz/balmar-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Restaurants", 
+          "restaurants"
+        ], 
+        [
+          "Lounges", 
+          "lounges"
+        ]
+      ], 
+      "display_phone": "+1-206-829-8568", 
+      "id": "shelter-lounge-seattle", 
+      "image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/COEEe9EDjHVOHXK_tDAZyw/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "4910 Leary Ave NW"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.6644387, 
+          "longitude": -122.3794657
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Dock Pl & Ione Pl", 
+        "display_address": [
+          "4910 Leary Ave NW", 
+          "(b/t Dock Pl & Ione Pl)", 
+          "Ballard", 
+          "Seattle, WA 98107"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Ballard"
+        ], 
+        "postal_code": "98107", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/shelter-lounge-seattle", 
+      "name": "Shelter Lounge", 
+      "phone": "2068298568", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 157, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/XUncm7Wjr_0LMfb6F7QfyA/ms.jpg", 
+      "snippet_text": "I met a friend for dinner here on a Friday night.  We sat in the bar area.  I loved the way this place was designed.  We were covered, but it still felt...", 
+      "url": "http://www.yelp.com/biz/shelter-lounge-seattle"
+    }, 
+    {
+      "categories": [
+        [
+          "Bars", 
+          "bars"
+        ], 
+        [
+          "American (New)", 
+          "newamerican"
+        ], 
+        [
+          "Breakfast & Brunch", 
+          "breakfast_brunch"
+        ]
+      ], 
+      "display_phone": "+1-206-324-7467", 
+      "id": "grims-seattle", 
+      "image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/xIPXhDzzldowPz28pNpq6A/ms.jpg", 
+      "is_claimed": true, 
+      "is_closed": false, 
+      "location": {
+        "address": [
+          "1512 11th Ave"
+        ], 
+        "city": "Seattle", 
+        "coordinate": {
+          "latitude": 47.61468, 
+          "longitude": -122.318112
+        }, 
+        "country_code": "US", 
+        "cross_streets": "Pike St & Pine St", 
+        "display_address": [
+          "1512 11th Ave", 
+          "(b/t Pike St & Pine St)", 
+          "Capitol Hill", 
+          "Seattle, WA 98122"
+        ], 
+        "geo_accuracy": 8, 
+        "neighborhoods": [
+          "Capitol Hill"
+        ], 
+        "postal_code": "98122", 
+        "state_code": "WA"
+      }, 
+      "mobile_url": "http://m.yelp.com/biz/grims-seattle", 
+      "name": "Grim's", 
+      "phone": "2063247467", 
+      "rating": 3.5, 
+      "rating_img_url": "http://media3.ak.yelpcdn.com/static/201206261235323114/img/ico/stars/stars_3_half.png", 
+      "rating_img_url_large": "http://media1.ak.yelpcdn.com/static/201206261161255655/img/ico/stars/stars_large_3_half.png", 
+      "rating_img_url_small": "http://media3.ak.yelpcdn.com/static/201206263952475669/img/ico/stars/stars_small_3_half.png", 
+      "review_count": 150, 
+      "snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/o9Tjbv-RM_UdtbZpXvlogg/ms.jpg", 
+      "snippet_text": "If you don't mind touching elbows with people, this place is for you! VERY busy and SUPER fun! Bar atmosphere (of course), so eat outside if you can because...", 
+      "url": "http://www.yelp.com/biz/grims-seattle"
+    }
+  ], 
+  "region": {
+    "center": {
+      "latitude": 47.64207495, 
+      "longitude": -122.34333165
+    }, 
+    "span": {
+      "latitude_delta": 0.07461113000000807, 
+      "longitude_delta": 0.09660936999998171
+    }
+  }, 
+  "total": 98
+}
