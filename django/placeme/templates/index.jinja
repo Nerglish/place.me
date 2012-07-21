@@ -31,7 +31,13 @@ $(function () {
     loadAPIData('seattle', 'gay "gay-friendly" lesbian', yelp_api, 'Gays');
     loadAPIData('seattle', 'mugged sketchy', yelp_api, 'Bad Guys');
 });
-
+Object.size = function(obj) {
+    var size = 0, key;
+    for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++;
+    }
+    return size;
+};
 
 function loadAPIData(loc, term, root, key) {
     if(root == yelp_api) { 
@@ -46,10 +52,13 @@ function loadAPIData(loc, term, root, key) {
             } else {
                 root[key] = result;
             }
-            updateHeatmap(key);
-            loadFullHotelCoordList();
-            setHeatmapRadios();
-            Template.redraw();
+                updateHeatmap(key);
+                loadFullHotelCoordList();
+                setHeatmapRadios();
+                Template.redraw();
+            if (Object.size(hotels)==4) {
+                showAllHotels();
+            }
         }
     });
 }
@@ -143,6 +152,21 @@ function showRandHotels() {
     shown_hotels = new_shown_hotels;
     Template.redraw();
 }
+function showAllHotels() {
+    if (!hotels.full_list || hotels.full_list.length == 0) {
+        loadFullHotelCoordList();
+    }
+    clearHotelPins();
+    for (var i in hotels.full_list) {
+        var pt = hotels.full_list[i];
+        hotel_pins.push(new google.maps.Marker({
+            position: pt, 
+            map: map,
+            icon: '{{ STATIC_URL }}img/icons/hotel.png'
+        }));
+    }
+}
+
 function toggleAllHotels() {
     if (!hotels.full_list || hotels.full_list.length == 0) {
         loadFullHotelCoordList();
@@ -178,7 +202,7 @@ function toggleAllHotels() {
 	function initMap() {
 		geocoder = new google.maps.Geocoder();
 		//var latlng = new google.maps.LatLng(37.774546, -122.433523); // SF for taxiData
-		var latlng = new google.maps.LatLng(47.6062095, -122.3320708); // Seattle
+		var latlng = new google.maps.LatLng(47.6462095, -122.3320708); // Seattle
 		var myOptions = {
 			zoom : 11,
 			center : latlng,
@@ -292,7 +316,7 @@ function toggleAllHotels() {
       <div class="row">
         <div class="sidebar span3">
 
-<h3>Pick a city</h3>
+<h3>What city are you visiting?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
               <li class="nav-header">Location</li>
@@ -305,9 +329,7 @@ function toggleAllHotels() {
           </div><!--/.well -->
 
 
-
-
-<h3>Where are you visiting?</h3>
+<h3>Where do you want to go in Seattle, WA?</h3>
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
           <!--
@@ -329,7 +351,36 @@ function toggleAllHotels() {
               </li>
             </ul>
           </div><!--/.well -->
-        </div><!--/span-->
+
+<h3>What's your preferred mode of transportation?</h3>
+          <div class="well sidebar-nav">
+            <form class="checkbox-form" style="padding-left: 20px;">
+              <div class="control-group">
+                <div class="control">
+                <label class="checkbox"><input type="checkbox" checked >Walking</label>
+                <label class="checkbox"><input type="checkbox" checked >Public Transportation</label>
+                <label class="checkbox"><input type="checkbox">Taxi / Town Car</label>
+                <label class="checkbox"><input type="checkbox">Rental Car</label>
+                </div>
+              </div>
+            </form>
+          </div><!--/.well -->
+
+<h3>Where do you want to stay?</h3>
+          <div class="well sidebar-nav">
+            <form class="checkbox-form" style="padding-left: 20px;">
+              <div class="control-group">
+                <div class="control">
+                <label class="checkbox"><input type="checkbox" checked>Hotels</label>
+                <label class="checkbox"><input type="checkbox" checked>Boutique Hotels</label>
+                <label class="checkbox"><input type="checkbox">Bed &amp; Breakfast</label>
+                <label class="checkbox"><input type="checkbox">Airbnb</label>
+                <label class="checkbox"><input type="checkbox">Hostels</label>
+                </div>
+              </div>
+            </form>
+          </div><!--/.well -->
+        </div><!--/span--><!-- end sidebar -->
         <div class="span9">
           <div id="heatmap-buttons" style="inline">
             <!-- THIS SHOULD BE INLINE... GRRRRRR -->
