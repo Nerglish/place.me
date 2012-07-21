@@ -1,15 +1,10 @@
 import os, oauth2, urllib, urllib2, json
-import re
 from django.shortcuts import render 
 from django.views.decorators.http import require_GET
 from django.utils import simplejson
 from django.http import HttpResponse
 from projectplaceme import settings
-
-CONSUMER_KEY = "KthO8dNdeYTgBFnBlIIdHA" 
-CONSUMER_SECRET = "Tm8COLLLfk2U5_YQmBEpSZtN6p4" 
-TOKEN = "wQqdIJKCWDFNTSunGYjsoC-ebF3qy7lo" 
-TOKEN_SECRET = "IXMeyVMwlKawX9yNJxCBXS-Zo4Y"
+from placeme.yelp_keys import CONSUMER_KEY, CONSUMER_SECRET, TOKEN, TOKEN_SECRET
 
 def yelp_request(url_params, host='api.yelp.com', path='/v2/search'):
   """Returns response for API request."""

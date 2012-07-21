@@ -10,11 +10,6 @@ ADMINS = (
     # ('Your Name', 'your_email@example.com'),
 )
 
-EMAIL_HOST = 'mail.mrglmrgl.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'hello@mrglmrgl.com'
-EMAIL_HOST_PASSWORD = 'mooquack!!'
-EMAIL_USE_TLS = False
 
 MANAGERS = ADMINS
 
